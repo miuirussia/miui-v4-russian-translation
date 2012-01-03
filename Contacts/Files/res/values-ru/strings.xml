@@ -9,7 +9,7 @@
     <string name="config_export_extensions_to_consider"/>
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="launcherDialer">Открыть телефон</string>
-    <string name="people">People</string>
+    <string name="people">Люди</string>
     <string name="contactsList">Контакты</string>
     <string name="shortcutContact">Контакты</string>
     <string name="shortcutDialContact">Direct dial</string>

@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi data</item>
-        <item>All apps</item>
+        <item>Настройки Wi-Fi</item>
+        <item>Все приложения</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Gallery</item>
-        <item>Music</item>
-        <item>Sound Recorder</item>
-        <item>Browser</item>
-        <item>Camera</item>
-        <item>File Explorer</item>
+        <item>Галерея</item>
+        <item>Музыка</item>
+        <item>Диктофон</item>
+        <item>Браузер</item>
+        <item>Фотографии</item>
+        <item>Приложение Файлы</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>Multimedia Messages</item>
-        <item>System settings</item>
-        <item>Wi-Fi settings</item>
-        <item>Desktop layout</item>
-        <item>Alarm settings</item>
-        <item>Notes</item>
-        <item>DND settings</item>
-        <item>Current Theme</item>
-        <item>Superuser</item>
+        <item>Контакты</item>
+        <item>Журнал вызовов</item>
+        <item>Сообщения</item>
+        <item>Сообщения MMS</item>
+        <item>Настройки системы</item>
+        <item>Настройки Wi-Fi</item>
+        <item>Иконки на рабочем столе</item>
+        <item>Настройки будильника</item>
+        <item>Заметки</item>
+        <item>Черный список</item>
+        <item>Текущая тема</item>
+        <item>Безопасность</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>(data)</item>
-        <item>(apps)</item>
-        <item>(data + apps)</item>
+        <item>(данные)</item>
+        <item>(приложение)</item>
+        <item>(приложение + данные)</item>
     </string-array>
     <string-array name="cloud_data_label">
-        <item>Contacts</item>
-        <item>Call log</item>
-        <item>Messages</item>
-        <item>W-Fi settings</item>
-        <item>Notes</item>
+        <item>Контакты</item>
+        <item>Журнал вызовов</item>
+        <item>Сообщения</item>
+        <item>Настройки Wi-Fi</item>
+        <item>Заметки</item>
     </string-array>
     <string-array name="cloud_account_data">
-        <item>Contacts</item>
-        <item>Wi-Fi settings</item>
-        <item>Notes</item>
+        <item>Контакты</item>
+        <item>Настройки Wi-Fi</item>
+        <item>Заметки</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Call logs</item>
-        <item>Messages</item>
+        <item>Журнал вызовов</item>
+        <item>Сообщения</item>
     </string-array>
 </resources>

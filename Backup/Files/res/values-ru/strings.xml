@@ -12,10 +12,8 @@
   <string name="auto_backup_interval_min">1 день</string>
   <string name="auto_backup_only_wifi">Только через Wi-Fi</string>
   <string name="auto_backup_open">Включить автоматическое резервное копирование</string>
-  <string name="auto_backup_progress">Выполнение автоматического резервного копирования
-
-
-Подождите, пожалуйста...</string>
+  <string name="auto_backup_progress">"Выполнение автоматического резервного копирования
+Подождите, пожалуйста..."</string>
   <string name="auto_backup_setting_title">Настройка автоматического резервного копирования</string>
   <string name="auto_backup_time">Запланировать копирование</string>
   <string name="backup">Backup</string>

@@ -1,155 +1,191 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_login">Login</string>
-  <string name="app_name">Backup</string>
-  <string name="auto_backup">Automatic Backup</string>
-  <string name="auto_backup_choose">Automatically backup</string>
-  <string name="auto_backup_choose_empty">No backups</string>
-  <string name="auto_backup_choose_title">Choose backup name</string>
-  <string name="auto_backup_interval">Backup frequency (in days)</string>
-  <string name="auto_backup_interval_hint">%d days</string>
-  <string name="auto_backup_interval_max">30 days</string>
-  <string name="auto_backup_interval_min">Daily</string>
-  <string name="auto_backup_only_wifi">Use Wi-Fi only</string>
-  <string name="auto_backup_open">Enable automatic backup</string>
-  <string name="auto_backup_progress">Performing automatic backup please wait...</string>
-  <string name="auto_backup_setting_title">Automatic Backup Settings</string>
-  <string name="auto_backup_time">Schedule backup</string>
+  <string name="account_login">Войти в систему</string>
+  <string name="app_name">Бэкап</string>
+  <string name="auto_backup">Автоматически</string>
+  <string name="auto_backup_choose">Выбранные элементы</string>
+  <string name="auto_backup_choose_empty">Нет резервных копий</string>
+  <string name="auto_backup_choose_title">Настройка автоматического резервного копирования</string>
+  <string name="auto_backup_interval">Частота резервного копирования (в днях)</string>
+  <string name="auto_backup_interval_hint">%d дней</string>
+  <string name="auto_backup_interval_max">30 дней</string>
+  <string name="auto_backup_interval_min">1 день</string>
+  <string name="auto_backup_only_wifi">Только через Wi-Fi</string>
+  <string name="auto_backup_open">Включить автоматическое резервное копирование</string>
+  <string name="auto_backup_progress">Выполнение автоматического резервного копирования
+
+
+Подождите, пожалуйста...</string>
+  <string name="auto_backup_setting_title">Настройка автоматического резервного копирования</string>
+  <string name="auto_backup_time">Запланировать копирование</string>
   <string name="backup">Backup</string>
-  <string name="backup_delete">Delete:</string>
-  <string name="backup_empty">No backup files found</string>
-  <string name="backup_error">Backup Error</string>
-  <string name="backup_failed">Backup failed, please try again</string>
-  <string name="backup_file_error">There was a problem with the backup, the operation was not valid.</string>
-  <string name="backup_finished">Backup completed</string>
-  <string name="backup_hint">Do not switch off phone, may cause corrupt data</string>
-  <string name="backup_items_app_tailer">\u0020App Data Files</string>
-  <string name="backup_items_sysdata_tailer">\u0020System Data Files</string>
-  <string name="backup_new">New:</string>
-  <string name="backup_progress">Backing up...</string>
-  <string name="backup_recently">\u0020(Latest)</string>
-  <string name="backup_report">Backup report</string>
-  <string name="backup_update">Update</string>
-  <string name="batch_delete_backup_confirm">\nAre you sure you wish to delete the selected backup?</string>
-  <string name="button_backup">Backup</string>
-  <string name="button_cancel">Cancel</string>
-  <string name="button_finish">Finish</string>
-  <string name="button_next">Next</string>
-  <string name="button_ok">OK</string>
-  <string name="button_return">Back</string>
-  <string name="call_title">Call logs</string>
-  <string name="cancel">Cancel</string>
-  <string name="cancel_backup">Cancel Backup</string>
-  <string name="cancel_restore">Cancel Restore</string>
-  <string name="cloud_app_name">Cloud Backup</string>
-  <string name="cloud_backup_hint">Login to securely store and restore your backups</string>
-  <string name="cloud_backup_login">Login using your Xiaomi account</string>
-  <string name="cloud_backup_window_title">Cloud Backup</string>
-  <string name="cloud_home_title">Cloud</string>
-  <string name="cloud_item_info_summary">\u0020(Local %1$s | Cloud %2$s)</string>
-  <string name="cloud_last_backup">Last backup:</string>
-  <string name="cloud_no_backup">No cloud backup(s)</string>
-  <string name="cloud_restore_guide">Click Start restoring to restore data\n You may also restore %s in Backup</string>
-  <string name="cloud_restore_title">Restore backup data</string>
-  <string name="cloud_restore_window_title">Cloud Recovery</string>
-  <string name="cloud_search">Searching Cloud...</string>
-  <string name="compute_backup_info">Retrieving backup info...</string>
-  <string name="compute_delete_contact_info">Searching for contacts...</string>
-  <string name="contact_title">Contacts</string>
-  <string name="current_account">Logged in as: %s</string>
-  <string name="current_sim">Current SIM card</string>
-  <string name="data_no_enough_space">Not enough free internal storage space, free some space and try again</string>
-  <string name="data_no_enough_space_warning">Internal storage has less than 30MB free, restore may fail, are you sure you want to proceed?</string>
-  <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
-  <string name="delete">Delete</string>
-  <string name="delete_backup">Delete Backup</string>
-  <string name="delete_backup_confirm">Selected backup will be removed, are you sure?</string>
-  <string name="delete_backup_process">Deleting backup(s)...</string>
-  <string name="delete_failed_backup_confirm">The backup has an error, cannot restore from this backup</string>
-  <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
-  <string name="findlost_contact">Recover deleted contacts</string>
-  <string name="findlost_contact_online">Restore deleted contacts from cloud</string>
-  <string name="guarded_mode_dialog_message">Cannot backup/restore in guarded mode</string>
-  <string name="guarded_mode_dialog_title">Guarded mode</string>
-  <string name="import_from_xiaomi_account_hint1">1.Install MiTalk and log in.\n http://www.miliao.com\n\n3.	Enter MiTalk settings and choose ”Back up contacts to Xiaomi account”</string>
-  <string name="import_from_xiaomi_account_hint2">Note: Proceed to next step if backup already exists</string>
-  <string name="import_from_xiaomi_account_hint_title">Use MiTalk to back up contacts on other devices, not MI-ONE</string>
-  <string name="local_app_name">Backup</string>
-  <string name="local_backup_window_title">Local backup data</string>
-  <string name="local_home_title">Local backup</string>
-  <string name="local_no_backup">No local backup(s)</string>
-  <string name="local_restore_window_title">Local Recovery</string>
-  <string name="local_select_sysdata">System</string>
-  <string name="local_select_userapp">Applications</string>
-  <string name="menu_patch_delete">Delete backup(s)</string>
-  <string name="miliao_account_guide">MiTalk account upgraded to Xiaomi account\n Enjoy all Xiaomi online services</string>
-  <string name="miliao_account_login">Login to MiTalk</string>
-  <string name="mms_title">Multimedia Messaging</string>
-  <string name="no_network">Network error\nPlease check network connection and try again</string>
-  <string name="note_title">Notes</string>
-  <string name="nothing_searched">No search results found</string>
-  <string name="progress_backup_hint">Backing up:\u0020</string>
-  <string name="progress_restore_hint">Restoring:\u0020</string>
-  <string name="prompt_reading">Reading...</string>
-  <string name="prompt_sending">Uploading...</string>
-  <string name="prompt_writing">Saving...</string>
-  <string name="refresh">Refresh</string>
+  <string name="backup_delete">Удалить</string>
+  <string name="backup_empty">Резервные копии не найдены</string>
+  <string name="backup_error">Ошибка</string>
+  <string name="backup_failed">Резервное копирование не удалось, попробуйте еще раз</string>
+  <string name="backup_file_error">Файлы резерной копии повреждены, операция не завершена</string>
+  <string name="backup_finished">Готово</string>
+  <string name="backup_hint">Не выключайте телефон - это повредит ваши данные!</string>
+  <string name="backup_items_app_tailer">\u0020- данные приложений</string>
+  <string name="backup_items_sysdata_tailer">\u0020-\u0020системные данные,\u0020</string>
+  <string name="backup_new">Новый</string>
+  <string name="backup_progress">Выполняется резервная копия...</string>
+  <string name="backup_recently">(Последний)</string>
+  <string name="backup_report">Отчет</string>
+  <string name="backup_update">Обновить</string>
+  <string name="batch_delete_backup_confirm">Резервные копии будут удалены</string>
+  <string name="button_backup">Создать резервную копию</string>
+  <string name="button_cancel">Отмена</string>
+  <string name="button_finish">Готово</string>
+  <string name="button_next">Вперед</string>
+  <string name="button_ok">OК</string>
+  <string name="button_return">Назад</string>
+  <string name="call_title">Звонки</string>
+  <string name="cancel">Отмена</string>
+  <string name="cancel_backup">Отмена</string>
+  <string name="cancel_restore">Отменить</string>
+  <string name="cloud_app_name">Облако</string>
+  <string name="cloud_backup_hint">Вы должны войти в систему для онлайн резервного копирования</string>
+  <string name="cloud_backup_login">Войти в MIUI</string>
+  <string name="cloud_backup_window_title">Облако</string>
+  <string name="cloud_home_title">Онлайн</string>
+  <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
+  <string name="cloud_last_backup">Последняя:</string>
+  <string name="cloud_no_backup">Нет резервных копий</string>
+  <string name="cloud_restore_guide">"Нажмите кнопку Начать для восстановления данных
+
+
+Вы можете восстановить %s в Р.К."</string>
+  <string name="cloud_restore_title">Восстановление</string>
+  <string name="cloud_restore_window_title">Облачное восстановление</string>
+  <string name="cloud_search">Поиск...</string>
+  <string name="compute_backup_info">Получение информации резервного копирования</string>
+  <string name="compute_delete_contact_info">Удаление информации контактов</string>
+  <string name="contact_title">Контакты</string>
+  <string name="current_account">Аккаунт %s</string>
+  <string name="current_sim">Текущая SIM-карта</string>
+  <string name="data_no_enough_space">Не хватает памяти</string>
+  <string name="data_no_enough_space_warning">Не хватает места для восстановления, возможны ошибки, продолжить?</string>
+  <string name="date_format">dd-MM-yyyy H:mm</string>
+  <string name="delete">Удалить</string>
+  <string name="delete_backup">Удалить резервную копию</string>
+  <string name="delete_backup_confirm">\u0020Резервная копия будет удалена</string>
+  <string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите...</string>
+  <string name="delete_failed_backup_confirm">Ошибка резервного копирования, не возможно восстановить данные из этой резервной копии</string>
+  <string name="dir_date_format">dd-MM-yyyy_H.mm</string>
+  <string name="findlost_contact">Найти удаленый контакт(ы)</string>
+  <string name="findlost_contact_online">Онлайн восстановление контактов</string>
+  <string name="guarded_mode_dialog_message">Не могу работать в режиме защиты</string>
+  <string name="guarded_mode_dialog_title">Режим защиты</string>
+  <string name="import_from_xiaomi_account_hint1">"1. Включите телефон с контактами
+
+
+
+
+
+2. Установите MiTalk и войдите в него.
+
+
+ http://www.miliao.com
+
+
+
+
+
+3. Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>
+  <string name="import_from_xiaomi_account_hint2">Примечание: Перейдите к следующему шагу, если резервная копия уже существует</string>
+  <string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для резервного копирования контактов на других устройствах</string>
+  <string name="local_app_name">Резервное копирование</string>
+  <string name="local_backup_window_title">Локальное</string>
+  <string name="local_home_title">Локальный</string>
+  <string name="local_no_backup">Нет резервных копий</string>
+  <string name="local_restore_window_title">Локальное восстановление</string>
+  <string name="local_select_sysdata">Настройки системы</string>
+  <string name="local_select_userapp">Приложения + данные</string>
+  <string name="menu_patch_delete">Удаление резервных копий</string>
+  <string name="miliao_account_guide">"MiTalk повышен до аккаунта Xiaomi
+
+
+Наслаждайтесь всеми сервисами Xiaomi"</string>
+  <string name="miliao_account_login">Войти в MiTalk</string>
+  <string name="mms_title">Сообщения MMS</string>
+  <string name="no_network">Нет сетевого соединения
+
+
+Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
+  <string name="note_title">Заметки</string>
+  <string name="nothing_searched">Ничего не найдено</string>
+  <string name="progress_backup_hint">Создание резервной копии:\u0020</string>
+  <string name="progress_restore_hint">Восстановление данных:\u0020</string>
+  <string name="prompt_reading">Чтение...</string>
+  <string name="prompt_sending">Отправка...</string>
+  <string name="prompt_writing">Запись...</string>
+  <string name="refresh">Обновление</string>
   <string name="restore">Restore</string>
-  <string name="restore_contact">Restore contacts</string>
-  <string name="restore_contact_content">Restoring contacts may result in duplicates, are you sure you want to do this?.\n Note: You can merge duplicate contacts in contact list settings</string>
-  <string name="restore_contacts_hit">(Note: You need to manually restore Contacts established before the original account)</string>
-  <string name="restore_counts">Recovery:</string>
-  <string name="restore_finished">Restore completed</string>
-  <string name="restore_launcher_layout_hit">(Note: Restore launcher layout)</string>
-  <string name="restore_progress">Restoring...</string>
-  <string name="restore_report">Restore report</string>
-  <string name="restore_telephony_hit">(Note: The recovery process will restart the Phone application)</string>
-  <string name="retry">Retry</string>
-  <string name="reverse_all">Clear all</string>
-  <string name="sc_bad_request">Bad request</string>
-  <string name="sc_internal_server_error">Internal server error</string>
-  <string name="sc_network_unavailable">Network connection error</string>
-  <string name="sc_others">Program exception</string>
-  <string name="sc_precondition_failed">Your Xiaomi account has not been associated with an E-mail address</string>
-  <string name="sc_request_timeout">Request timed out</string>
-  <string name="sc_service_unavailable">Cloud service unavailable</string>
-  <string name="sc_unaccess_password_file">Don\'t store Wi-Fi password details</string>
-  <string name="sc_unauthorized">Certification is not valid</string>
-  <string name="sdcard_no_enough_space">Not enough free space on SD card</string>
-  <string name="sdcard_no_enough_space_warning">SD card space low, backup may fail, are you sure you want to continue?</string>
-  <string name="sdcard_unmounted">SD card unmounted or not found!</string>
-  <string name="select_all">Select all</string>
-  <string name="service_stoped">Service stopped</string>
-  <string name="settings_summary">Backup phone and messaging settings</string>
-  <string name="sms_title">Messaging</string>
-  <string name="start_backup">Start Backup</string>
-  <string name="start_restore">Restore</string>
+  <string name="restore_contact">Восстановление контактов</string>
+  <string name="restore_contact_content">При восстановлении адресной книги может произойти дублирование контактов, продолжить?</string>
+  <string name="restore_contacts_hit">(Примечание: для восстановления контактов необходимо вручную создать оригинальный аккаунт)</string>
+  <string name="restore_counts">Восстановление:</string>
+  <string name="restore_finished">Восстановление выполнено</string>
+  <string name="restore_launcher_layout_hit">(Примечание: удалите приложение или освободите место на рабочем столе)</string>
+  <string name="restore_progress">Идет восстановление данных...</string>
+  <string name="restore_report">Журнал восстановления</string>
+  <string name="restore_telephony_hit">(Примечание: Процесс восстановления перезагрузит приложение)</string>
+  <string name="retry">Повторить</string>
+  <string name="reverse_all">Снять все</string>
+  <string name="sc_bad_request">Ошибочный запрос</string>
+  <string name="sc_internal_server_error">Внутренняя ошибка сервера</string>
+  <string name="sc_network_unavailable">Ошибка соединения сети</string>
+  <string name="sc_others">Исключение программы</string>
+  <string name="sc_precondition_failed">Ваш акккаунт Xiaomi не связан с любым адресом электронной почты</string>
+  <string name="sc_request_timeout">Тайм-аут запроса</string>
+  <string name="sc_service_unavailable">Возможно сервис недоступен</string>
+  <string name="sc_unaccess_password_file">Не хранить пароли сетей Wi-Fi</string>
+  <string name="sc_unauthorized">Сертификация не действительна</string>
+  <string name="sdcard_no_enough_space">Не хватает памяти на SD-карте</string>
+  <string name="sdcard_no_enough_space_warning">Не хватает 50 МБ памяти на SD-карте, продолжить?</string>
+  <string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
+  <string name="select_all">Все</string>
+  <string name="service_stoped">Служба остановилась</string>
+  <string name="settings_summary">(Основные настройки и телефонные сообщения, связанные настройки)</string>
+  <string name="sms_title">Сообщения</string>
+  <string name="start_backup">Начать</string>
+  <string name="start_restore">Начать восстановление</string>
   <string name="succeed">Succeeded</string>
-  <string name="task_backup_cancel_progress">Cancelling backup...</string>
-  <string name="task_backup_finished_local">Backup completed</string>
-  <string name="task_canceled">Cancelled</string>
-  <string name="task_canceled_all_local">Cancel task</string>
-  <string name="task_canceled_local">The following %1$s task was cancelled</string>
-  <string name="task_cloud_backup_cancel_dialog">Backup not yet completed\nClick OK to cancel this task</string>
-  <string name="task_failed">Failed</string>
-  <string name="task_failed_all_local">Task failed</string>
-  <string name="task_failed_local">The task %1$s has failed to complete</string>
-  <string name="task_finished">Finished</string>
-  <string name="task_local_backup_cancel_dialog">Backup not yet completed\nClick OK to cancel this task</string>
-  <string name="task_pending">Pending</string>
-  <string name="task_post_running">Post-processing</string>
-  <string name="task_pre_running">Preparing</string>
-  <string name="task_progress">Progress</string>
-  <string name="task_restore_cancel_dialog">Restore not completed\ncancelling restore may cause data corruption to occur</string>
-  <string name="task_restore_cancel_progress">Cancelling...</string>
-  <string name="task_restore_finished_local">Restore completed</string>
-  <string name="task_running_dialog">Background backup and recovery is in progress, press OK to view it</string>
-  <string name="task_running_hint">Service is running in the background, please try again to restore this backup!</string>
-  <string name="task_service_not_launched">Service is not started, please wait!</string>
-  <string name="task_stopped_exception">Task aborted</string>
-  <string name="total_num">%d record(s) in total</string>
-  <string name="unit_byte">\u0020Bytes</string>
-  <string name="unit_piece">\u0020Item(s)</string>
-  <string name="unknown_hint">N/A</string>
-  <string name="wifi_title">Wi-Fi Settings</string>
+  <string name="task_backup_cancel_progress">Остановка процесса...</string>
+  <string name="task_backup_finished_local">Готово</string>
+  <string name="task_canceled">Отменено</string>
+  <string name="task_canceled_all_local">Все задачи отменены</string>
+  <string name="task_canceled_local">Задач отменено: %1$s</string>
+  <string name="task_cloud_backup_cancel_dialog">"Резервное копирование не было завершено
+
+
+Нажмите кнопку OK, чтобы отменить незавершенную задачу"</string>
+  <string name="task_failed">Не удалось</string>
+  <string name="task_failed_all_local">Ошибки во всех задачах</string>
+  <string name="task_failed_local">Ошибка в задачах (%1$s)</string>
+  <string name="task_finished">Завершено</string>
+  <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено
+
+
+Нажмите кнопку OK, чтобы удалить эту резервную копию"</string>
+  <string name="task_pending">В ожидании</string>
+  <string name="task_post_running">Пост-обработка...</string>
+  <string name="task_pre_running">Подготовка</string>
+  <string name="task_progress">Прогресс</string>
+  <string name="task_restore_cancel_dialog">"Вы собираетесь отменить операцию.
+
+
+Это может привести к потере данных!"</string>
+  <string name="task_restore_cancel_progress">Остановка процесса...</string>
+  <string name="task_restore_finished_local">Восстановление завершено</string>
+  <string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажмите ОК</string>
+  <string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
+  <string name="task_service_not_launched">Сервис не запустился, ждите!</string>
+  <string name="task_stopped_exception">Прервано</string>
+  <string name="total_num">%d всего записей</string>
+  <string name="unit_byte">б</string>
+  <string name="unit_piece">" записей"</string>
+  <string name="unknown_hint">Неизвестно</string>
+  <string name="wifi_title">Настройки Wi-Fi</string>
 </resources>

@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Dashboard_App">Apps</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Disabling it will make MIUI stop monitoring application requests and no longer protecting your security and privacy.
-Are you sure to disable it?"</string>
-  <string name="Dashboard_HIPS_Disable_Title">Permission Monitor</string>
-  <string name="Dashboard_Log">Logs</string>
+  <string name="Dashboard_App">Приложения</string>
+  <string name="Dashboard_HIPS_Disable_Content">"Отключение оставит вашу систему MIUI без мониторинга приложений и без защиты безопасности и конфиденциальности.
+Вы действительно хотите ее отключить?"</string>
+  <string name="Dashboard_HIPS_Disable_Title">Монитор разрешений</string>
+  <string name="Dashboard_Log">Логи</string>
   <string name="Dashboard_Log_Clear_Content">All logs will be erased. Are you sure to enable it?</string>
-  <string name="Dashboard_Log_Clear_Title">Clear Logs</string>
-  <string name="Dashboard_Perm">Permissions</string>
-  <string name="Dashboard_Perm_HIPS">Manage App Permissions</string>
-  <string name="Dashboard_Perm_HIPS_Desc">Monitoring %1$d apps for security and privacy</string>
-  <string name="Dashboard_Perm_HIPS_Desc2">Monitoring %1$d apps for security and privacy</string>
-  <string name="Dashboard_Perm_HIPS_Disabled">Permission Monitor is disabled</string>
-  <string name="Dashboard_Perm_HIPS_Switch">Permission Monitor</string>
-  <string name="Dashboard_Perm_Header">Monitoring %1$d apps</string>
-  <string name="Dashboard_Perm_Header_Disabled">Permission monitor is disabled</string>
-  <string name="Dashboard_Perm_SU">Manage ROOT Permission</string>
-  <string name="Dashboard_Perm_SU_Desc">Monitoring %1$d apps for ROOT Permission</string>
-  <string name="Dashboard_Perm_SU_Disabled">ROOT Permission is disabled</string>
-  <string name="Dashboard_Perm_SU_Switch">ROOT Permission</string>
+  <string name="Dashboard_Log_Clear_Title">Очистить логи</string>
+  <string name="Dashboard_Perm">Разрешения</string>
+  <string name="Dashboard_Perm_HIPS">Управление разрешениями приложений</string>
+  <string name="Dashboard_Perm_HIPS_Desc">Управление %1$d приложениями на безопасность и конфиденциальность</string>
+  <string name="Dashboard_Perm_HIPS_Desc2">Управление %1$d приложениями на безопасность и конфиденциальность</string>
+  <string name="Dashboard_Perm_HIPS_Disabled">Управление разрешениями отключено</string>
+  <string name="Dashboard_Perm_HIPS_Switch">Управление разрешениями</string>
+  <string name="Dashboard_Perm_Header">Управление %1$d приложениями</string>
+  <string name="Dashboard_Perm_Header_Disabled">Управление разрешениями отключено</string>
+  <string name="Dashboard_Perm_SU">Управление разрешениями суперпользователя</string>
+  <string name="Dashboard_Perm_SU_Desc">Управление %1$d разрешениями для приложений суперпользователя</string>
+  <string name="Dashboard_Perm_SU_Disabled">Управление разрешениями суперпользователя отключены</string>
+  <string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
   <string name="Dashboard_Su_Enable_Content">"Enabling it will allow apps to request ROOT permission. Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure to enable it?"</string>
   <string name="Dashboard_Su_Enable_Title">ROOT Permission</string>
   <string name="Generic_Canceling">Cancelling...</string>

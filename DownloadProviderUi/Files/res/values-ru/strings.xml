@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Загрузки</string>
-  <string name="button_sort_by_date">Sort by date</string>
-  <string name="button_sort_by_size">Sort by size</string>
+  <string name="button_sort_by_date">Сортировать по дате</string>
+  <string name="button_sort_by_size">Сортировать по размеру</string>
   <string name="cancel_running_download">Отмена</string>
   <string name="confirm_delete_downloads_message">Вы хотите удалить %d загрузок, продолжить?</string>
   <string name="confirm_delete_the_download_item_message">Скачанное содержимое будет удалено!</string>
@@ -29,11 +29,11 @@
   <string name="download_pending">Дождитесь загрузки</string>
   <string name="download_queued">В очереди</string>
   <string name="download_running">В процессе</string>
-  <string name="download_share_dialog">Share via</string>
+  <string name="download_share_dialog">Отправить по</string>
   <string name="download_success">Завершен</string>
   <string name="download_title">Загрузки</string>
-  <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
-  <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
+  <string name="download_title_sorted_by_date">Загрузки - Сортировано по дате</string>
+  <string name="download_title_sorted_by_size">Загрузки - Сортировано по размеру</string>
   <string name="download_when_network_connected">Использовать мобильную сеть</string>
   <string name="downloads_operating">Загрузка...</string>
   <string name="keep_queued_download">Оставить</string>
@@ -49,11 +49,11 @@
   <string name="paused_waiting_for_network">Ожидание сетевого подключения</string>
   <string name="paused_waiting_to_retry">Ожидание повтора</string>
   <string name="remove_download">Удалить</string>
-  <string name="restart_download">Restart</string>
+  <string name="restart_download">Перезакачать</string>
   <string name="resume_download">Продолжить</string>
   <string name="retry_download">Повтор</string>
-  <string name="select_all">Select All</string>
-  <string name="select_operation_items">Please select items</string>
-  <string name="selected_count">Selected %1$d out of %2$d</string>
-  <string name="selected_format">Selected %1$d</string>
+  <string name="select_all">Выбрать все</string>
+  <string name="select_operation_items">Пожалуйста выберите</string>
+  <string name="selected_count">Выбрано %1$d из %2$d</string>
+  <string name="selected_format">Выбрано %1$d</string>
 </resources>

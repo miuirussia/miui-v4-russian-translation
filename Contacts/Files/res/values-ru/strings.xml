@@ -17,8 +17,8 @@
     <string name="shortcutActivityTitle">Выбрать контакт для быстрого вызова</string>
     <string name="callShortcutActivityTitle">Выбрать номер для вызова</string>
     <string name="messageShortcutActivityTitle">Выбрать номер для отправки сообщения</string>
-    <string name="contactPickerActivityTitle">Select a contact</string>
-    <string name="contactMultiPickerActivityTitle">Select contacts</string>
+    <string name="contactPickerActivityTitle">Выбрать контакт</string>
+    <string name="contactMultiPickerActivityTitle">Выбрать контакты</string>
     <string name="starredList">Помеченные</string>
     <string name="frequentList">Часто вызываемые</string>
     <string name="strequentList">Избранные</string>
@@ -26,11 +26,11 @@
     <string name="viewContactDesription">Просмотр контакта</string>
     <string name="editContactDescription">Изменить контакт</string>
     <string name="insertContactDescription">Создать контакт</string>
-    <string name="contactDetailAbout">About</string>
-    <string name="contactDetailUpdates">Updates</string>
+    <string name="contactDetailAbout">О контакте</string>
+    <string name="contactDetailUpdates">Обновления</string>
     <string name="searchHint">Поиск контактов</string>
-    <string name="menu_search">Search</string>
-    <string name="menu_dialpad">Call</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_dialpad">Звонок</string>
     <string name="menu_newContact">Новый контакт</string>
     <string name="menu_viewContact">Просмотреть контакт</string>
     <string name="menu_callNumber">Вызов: %s</string>
@@ -41,73 +41,73 @@
     <string name="menu_call">Позвонить</string>
     <string name="menu_sendSMS">Отправить сообщение</string>
     <string name="menu_splitAggregate">Разделить</string>
-    <string name="menu_editGroup">Edit</string>
+    <string name="menu_editGroup">Редактировать</string>
     <string name="menu_deleteGroup">Удалить группу</string>
-    <string name="menu_new_contact_action_bar">New</string>
-    <string name="menu_new_group_action_bar">New</string>
-    <string name="menu_new_favorite_action_bar">New</string>
+    <string name="menu_new_contact_action_bar">Новый</string>
+    <string name="menu_new_group_action_bar">Новый</string>
+    <string name="menu_new_favorite_action_bar">Новый</string>
     <string name="splitConfirmation_title">Разделить контакт</string>
     <string name="splitConfirmation">Вы действительно желаете разделить данный контакт на несколько: каждый номер будет выделен в отдельный контакт?</string>
     <string name="menu_joinAggregate">Объединить</string>
     <string name="titleJoinContactDataWith">Объединить контакты</string>
-    <string name="blurbJoinContactDataWith">Select the contact you want to join with %s.</string>
+    <string name="blurbJoinContactDataWith">Выберите контакт, который требуется для объединения с %s.</string>
     <string name="showAllContactsJoinItem">Показать все контакты</string>
     <string name="separatorJoinAggregateSuggestions">Согласованные контакты</string>
     <string name="separatorJoinAggregateAll">Все контакты</string>
     <string name="contactsJoinedMessage">Контакты объединенные</string>
     <string name="deleteConfirmation_title">Удалить</string>
-    <string name="menu_set_ring_tone">Set ringtone</string>
-    <string name="menu_redirect_calls_to_vm">All calls to voicemail</string>
-    <string name="readOnlyContactWarning">Вы не можете удалить контакт из учетной записи маркированной только чтение, но вы можете скрыть его из общего списка контактов</string>
+    <string name="menu_set_ring_tone">Установить рингтон</string>
+    <string name="menu_redirect_calls_to_vm">Все звонки на голосовую почту</string>
+    <string name="readOnlyContactWarning">Вы не можете удалить контакт из учетной записи с меткой только для чтения, но вы можете скрыть его из общего списка контактов</string>
     <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из нескольких учетных записей. Информация из учетных записей, с меткой &quot;Только для чтения&quot;, будет скрыта из списка контактов, а не удалена</string>
     <string name="multipleContactDeleteConfirmation">Удалив этот контакт, вы удалите информацию о нем из других учетных записей</string>
     <string name="deleteConfirmation">Этот контакт будет удален</string>
     <string name="menu_done">OK</string>
     <string name="menu_doNotSave">Отмена</string>
-    <string name="menu_discard">Discard</string>
+    <string name="menu_discard">Отменить</string>
     <string name="label_notes">Заметки</string>
-    <string name="label_sip_address">Интернет звонок</string>
+    <string name="label_sip_address">Интернет-звонок</string>
     <string name="ghostData_company">Компания</string>
     <string name="ghostData_title">Заголовок</string>
     <string name="invalidContactMessage">Контакт не существует</string>
-    <string name="pickerNewContactHeader">Create new contact</string>
+    <string name="pickerNewContactHeader">Создать контакт</string>
     <string name="phoneLabelsGroup">Телефон</string>
     <string name="emailLabelsGroup">Адрес электронной почты</string>
-    <string name="imLabelsGroup">IM</string>
+    <string name="imLabelsGroup">Интернет-сообщение</string>
     <string name="postalLabelsGroup">Адрес</string>
     <string name="photoPickerNotFoundText">Картинки на телефоне не обнаружены</string>
-    <string name="attach_photo_dialog_title">Contact photo</string>
+    <string name="attach_photo_dialog_title">Фото контакта</string>
     <string name="customLabelPickerTitle">Задать другое имя метки</string>
-    <string name="removePhoto">Remove photo</string>
-    <string name="noContacts">No contacts</string>
-    <string name="noGroups">No groups</string>
-    <string name="noAccounts">To create groups you need an account</string>
+    <string name="removePhoto">Удалить фото</string>
+    <string name="noContacts">Нет контактов</string>
+    <string name="noGroups">Нет групп</string>
+    <string name="noAccounts">Для создания групп, вы должны зарегистрироваться</string>
     <string name="noMatchingContacts">Совпадений в контактах не найдено</string>
     <string name="noContactsWithPhoneNumbers">Нет контактов с телефонами</string>
     <string name="savingContact">Сохранение контакта...</string>
-    <string name="savingDisplayGroups">Saving display options…</string>
+    <string name="savingDisplayGroups">СОхранение настроек…</string>
     <string name="contactSavedToast">Контакт сохранен</string>
     <string name="contactSavedErrorToast">Ошибка, невозможно внести изменения в контакте</string>
-    <string name="groupSavedToast">Group saved</string>
-    <string name="groupSavedErrorToast">Error, unable to save group changes.</string>
-    <string name="listTotalAllContactsZeroStarred">No Favorites</string>
-    <string name="foundTooManyContacts">more than %d found</string>
+    <string name="groupSavedToast">Группа сохранена</string>
+    <string name="groupSavedErrorToast">Ошибка, невозможно сохранить настройки группы</string>
+    <string name="listTotalAllContactsZeroStarred">Нет избранных</string>
+    <string name="foundTooManyContacts">больше чем %d найдено</string>
     <string name="listFoundAllContactsZero">Контакт не найден</string>
-    <string name="contactsAllLabel">All</string>
+    <string name="contactsAllLabel">Все</string>
     <string name="contactsGroupsLabel">Группы</string>
     <string name="contactsFavoritesLabel">Избранное</string>
-    <string name="recentCallsIconLabel">Call log</string>
+    <string name="recentCallsIconLabel">История звонков</string>
     <string name="liveFolderAll">Все контакты</string>
     <string name="liveFolderFavorites">Избранные контакты</string>
     <string name="liveFolderPhone">Контакты с телефонами</string>
     <string name="recentCalls_editNumberBeforeCall">Изменить номер перед вызовом</string>
     <string name="recentCalls_addToContact">Добавить в контакты</string>
     <string name="recentCalls_removeFromRecentList">Удалить из журнала звонков</string>
-    <string name="recentCalls_trashVoicemail">Delete voicemail</string>
+    <string name="recentCalls_trashVoicemail">Удалить голосовую почту</string>
     <string name="recentCalls_empty">Журнал звонков пуст</string>
     <string name="clearCallLogConfirmation_title">Подтверждение удаления</string>
     <string name="clearCallLogConfirmation">Журнал вызовов будет очищен</string>
-    <string name="clearCallLogProgress_title">Clearing call log</string>
+    <string name="clearCallLogProgress_title">Очистка истории звонков</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
     <string name="voicemail">Голосовая почта</string>
@@ -117,30 +117,30 @@
     <string name="dialerDialpadHintText">набрать для добавления звонка</string>
     <string name="simContacts_emptyLoading">Чтение данных с SIM-карты...</string>
     <string name="simContacts_title">Контакты SIM-карты</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)"</string>
-    <string name="noContactsHelpTextForCreateShortcut">"You don't have any contacts to display."</string>
-    <string name="noContactsHelpText">"You don't have any contacts to display.
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">"У вас нет каких-либо контактов для отображения. (Если вы только добавили учетную запись, может потребоваться некоторое время для синхронизации контактов.)"</string>
+    <string name="noContactsHelpTextForCreateShortcut">"У вас нет каких-либо контактов"</string>
+    <string name="noContactsHelpText">"У вас нет каких-либо контактов для отображения
 
-To add contacts, press "<b><font fgcolor="#ffffffff">Menu</font></b>" and touch:
+Для добавления контактов, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите:
  
-"<b><font fgcolor="#ffffffff"><li>"Accounts to add or configure an account with contacts you can sync to the phone
+"<b><font fgcolor="#ffffffff"><li>"Учетные записи, чтобы добавить или настроить учетную запись с контактами, для синхронизации их с телефоном
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт, чтобы создать новый контакт с нуля
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SIM or SD card
+"<b><font fgcolor="#ffffffff"><li>"Импорт/Экспорт, чтобы импортировать контакты с вашей SIM или SD-карты
 "</li></font></b>"
 "</string>
-    <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
+    <string name="noContactsHelpTextWithSync">"У вас нет каких-либо контактов для отображения. (Если вы только добавили учетную запись, может потребоваться некоторое время для синхронизации контактов.)
 
-To add contacts, press "<b><font fgcolor="#ffffffff">Menu</font></b>" and touch:
+Для добавления контактов, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и выберите:
  
-"<b><font fgcolor="#ffffffff"><li>"Accounts to add or configure an account with contacts you can sync to the phone
+"<b><font fgcolor="#ffffffff"><li>"Учетные записи, чтобы добавить или настроить учетную запись с контактами, для синхронизации их с телефоном
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Display options to change which contacts are visible
+"<b><font fgcolor="#ffffffff"><li>"Настройки отображения, чтобы настроить видимость контактов
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт, чтобы создать новый контакт с нуля
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SIM or SD card
+"<b><font fgcolor="#ffffffff"><li>"Импорт/Экспорт, чтобы импортировать контакты с вашей SIM или SD-карты
 "</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"You don't have any contacts to display.

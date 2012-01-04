@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_login">Войти в систему</string>
-  <string name="app_name">Резервное копирование</string>
+  <string name="app_name">Бэкап</string>
   <string name="auto_backup">Автоматически</string>
   <string name="auto_backup_choose">Выбранные элементы</string>
   <string name="auto_backup_choose_empty">Нет резервных копий</string>

@@ -1,63 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_settings">Информация о телефоне</string>
-  <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
-  <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
+  <string name="about_settings_summary">Уровень сигнала, версия ПО и т.д.</string>
+  <string name="accelerometer_summary_off">Изменять ориентацию при повороте телефона<string>
+  <string name="accelerometer_summary_on">Изменять ориентацию при повороте телефона</string>
   <string name="accelerometer_title">Автоповорот экрана</string>
   <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
-  <string name="accessibility_menu_item_settings">Settings</string>
-  <string name="accessibility_menu_item_tutorial">Tutorial</string>
+  <string name="accessibility_menu_item_settings">Настройк</string>
+  <string name="accessibility_menu_item_tutorial">Обучение</string>
   <string name="accessibility_no_services_installed">No services installed</string>
-  <string name="accessibility_power_button_ends_call_title">Power button ends call</string>
-  <string name="accessibility_script_injection_allowed">Allowed</string>
-  <string name="accessibility_script_injection_button_allow">Allow</string>
-  <string name="accessibility_script_injection_button_disallow">"Don't allow"</string>
-  <string name="accessibility_script_injection_disallowed">Not allowed</string>
+  <string name="accessibility_power_button_ends_call_title">Завершать вызов кн. питания</string>
+  <string name="accessibility_script_injection_allowed">Разрешено</string>
+  <string name="accessibility_script_injection_button_allow">Разрешить</string>
+  <string name="accessibility_script_injection_button_disallow">"Не разрешать"</string>
+  <string name="accessibility_script_injection_disallowed">Не разрешено</string>и
   <string name="accessibility_script_injection_security_warning_summary">Do you want apps to install scripts from Google that make their web content more accessible?</string>
-  <string name="accessibility_script_injection_security_warning_title">Install web scripts?</string>
-  <string name="accessibility_script_injection_title">Install web scripts</string>
+  <string name="accessibility_script_injection_security_warning_title">Установить скрипты?</string>
+  <string name="accessibility_script_injection_title">Установка скриптов</string>
   <string name="accessibility_service_default_description">No description provided.</string>
   <string name="accessibility_service_disable_warning_summary">Touching OK will stop %1$s.</string>
-  <string name="accessibility_service_disable_warning_title">Stop %1$s?</string>
-  <string name="accessibility_service_no_apps_message">"У вас нет установленных программ для упрощения доступа.
-
-
-
-
-
-
-
-Вы можете загрузить программу чтения с экрана из Android-маркета.
-
-
-
-
-
-
-
-Нажмите OK, чтобы установить программу чтения с экрана"</string>
+  <string name="accessibility_service_disable_warning_title">Остановить %1$s?</string>
+  <string name="accessibility_service_no_apps_message">"У вас нет установленных программ для упрощения доступа. Вы можете загрузить программу чтения с экрана из Android-маркета. Нажмите OK, чтобы установить программу чтения с экрана"</string>
   <string name="accessibility_service_no_apps_title">Специальные возможности</string>
   <string name="accessibility_service_security_warning_summary">%1$s can collect all of the text you type, except passwords. This includes personal data such as credit card numbers. It can also collect data about your interactions with the phone.</string>
-  <string name="accessibility_service_security_warning_title">Use %1$s?</string>
-  <string name="accessibility_service_state_off">Off</string>
-  <string name="accessibility_service_state_on">On</string>
-  <string name="accessibility_services_title">Services</string>
+  <string name="accessibility_service_security_warning_title">Использовать %1$s?</string>
+  <string name="accessibility_service_state_off">Выкл.</string>
+  <string name="accessibility_service_state_on">Вкл.</string>
+  <string name="accessibility_services_title">Службы</string>
   <string name="accessibility_settings">Специальные возможности</string>
   <string name="accessibility_settings_title">Настройки специальных возможностей</string>
   <string name="accessibility_speak_password_title">Audible passwords</string>
   <string name="accessibility_sync_disabled">Sync disabled</string>
   <string name="accessibility_sync_enabled">Sync enabled</string>
   <string name="accessibility_sync_error">Sync error.</string>
-  <string name="accessibility_system_title">System</string>
+  <string name="accessibility_system_title">Система</string>
   <string name="accessibility_toggle_large_text_title">Large text</string>
-  <string name="accessibility_touch_exploration_summary">"When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger.
-
- This feature is for low-vision users."</string>
+  <string name="accessibility_touch_exploration_summary">"When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger. This feature is for low-vision users."</string>
   <string name="accessibility_touch_exploration_title">Explore by touch</string>
   <string name="accessibility_touch_exploration_warning">This feature changes the way your device responds to touch. Turn on?</string>
-  <string name="accessibility_tutorial_back">Back</string>
-  <string name="accessibility_tutorial_finish">Finish</string>
+  <string name="accessibility_tutorial_back">Назад</string>
+  <string name="accessibility_tutorial_finish">Завершить</string>
   <string name="accessibility_tutorial_lesson_1_text_1">After you turn on Explore by Touch, you can touch the screen to learn whats under your finger. For example, the current screen contains app icons. Find one of them by touching the screen and sliding your finger around.</string>
   <string name="accessibility_tutorial_lesson_1_text_2_more">Good. Keep sliding your finger around the screen until you find at least one more icon.</string>
   <string name="accessibility_tutorial_lesson_1_text_3">To activate something that you are touching, tap it. Slide your finger until you find the icon for the %s. Then tap the icon once to activate it.</string>
@@ -71,34 +53,32 @@
   <string name="accessibility_tutorial_lesson_2_text_3_more">Good. Keep sliding your fingers up to scroll some more.</string>
   <string name="accessibility_tutorial_lesson_2_text_4">You have completed the tutorial. To exit, find and touch the %s button.</string>
   <string name="accessibility_tutorial_lesson_2_title">Lesson 2: Scrolling using two fingers</string>
-  <string name="accessibility_tutorial_next">Next</string>
-  <string name="accessibility_tutorial_skip">Skip tutorial</string>
+  <string name="accessibility_tutorial_next">Далее</string>
+  <string name="accessibility_tutorial_skip">Пропустить обучение</string>
   <string name="accessibility_tutorial_title">Accessibility tutorial</string>
-  <string name="account_sync_settings_title">Sync settings</string>
+  <string name="account_sync_settings_title">Настройки синхронизации</string>
   <string name="active_device_admin_msg">Администратор устройства</string>
-  <string name="active_input_method_subtypes">Active input methods</string>
+  <string name="active_input_method_subtypes">Методы ввода</string>
   <string name="activity_picker_label">Выбрать действие</string>
   <string name="adb_warning_message">Отладка по USB предназначена для целей разработки. С ее помощью можно копировать данные с компьютера на мобильное устройство и наборот, устанавливать на устройство приложения и просматривать данные журналов</string>
   <string name="adb_warning_title">Разрешить отладку USB?</string>
-  <string name="add_account_label">Add account</string>
+  <string name="add_account_label">Добавить аккаунт</string>
   <string name="add_device_admin">Активировать</string>
   <string name="add_device_admin_msg">Активировать администратора устройства?</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Additional system updates</string>
-  <string name="advanced_settings">Advanced settings</string>
+  <string name="advanced_settings">Дополнительные настройки</string>
   <string name="advanced_settings_summary">Enable more settings options</string>
   <string name="airplane_mode">Режим \"В самолете\"</string>
   <string name="alarm_volume_title">Громкость будильника</string>
-  <string name="all_volume_title">Volumes</string>
+  <string name="all_volume_title">Громкость</string>
   <string name="allow_mock_location">Отладка положения</string>
   <string name="allow_mock_location_summary">Разрешить получение отладочных данных о местоположении</string>
-  <string name="android_beam_disabled_summary">Unavailable because NFC is turned off</string>
-  <string name="android_beam_explained">"When this feature is turned on, you can beam app content to another NFC-capable device by holding the devices close together. For example, you can beam Browser pages, YouTube videos, People contacts, and more.
-
-Just bring the devices together (typically back to back) and then touch your screen. The app determines what gets beamed."</string>
+  <string name="android_beam_disabled_summary">Недоступно, т.к. NFS выкл.</string>
+  <string name="android_beam_explained">"When this feature is turned on, you can beam app content to another NFC-capable device by holding the devices close together. For example, you can beam Browser pages, YouTube videos, People contacts, and more. Just bring the devices together (typically back to back) and then touch your screen. The app determines what gets beamed."</string>
   <string name="android_beam_label">Android Beam</string>
-  <string name="android_beam_off_summary">Off</string>
+  <string name="android_beam_off_summary">Выкл.</string>
   <string name="android_beam_on_summary">Ready to transmit app content via NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="apn_apn">APN</string>
@@ -141,7 +121,7 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="applications_settings">Приложения</string>
   <string name="applications_settings_header">Настройки приложения</string>
   <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
-  <string name="ask_compatibility">Ask when launched</string>
+  <string name="ask_compatibility">Спросить если запущено</string>
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
   <string name="assisted_gps_enabled">Use server to assist GPS (uncheck to reduce network usage)</string>
@@ -160,10 +140,10 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="automatic_brightness">Яркость автоматически</string>
   <string name="available_size">%s</string>
   <string name="awake">Время включения устройства</string>
-  <string name="background_data">Background data</string>
-  <string name="background_data_dialog_message">Disabling background data extends battery life and lowers data use. Some apps may still use the background data connection.</string>
-  <string name="background_data_dialog_title">Disable background data?</string>
-  <string name="background_data_summary">Apps can sync, send, and receive data at any time</string>
+  <string name="background_data">Фоновые данные</string>
+  <string name="background_data_dialog_message">Отключение фоновых данных продлевает срок службы батареи и снижает использование данных. Некоторые приложения по прежнему могут использовать фоновую передачу данных.</string>
+  <string name="background_data_dialog_title">Отключить передачу данных в фоне?</string>
+  <string name="background_data_summary">Приложения могут синхронизировать, передавать и получать данные в любое время</string>
   <string name="background_process_stop_description">Это старый процесс, который в настоящее время хранится для улучшения скорости в случае необходимости. Нет причин, чтобы останавливать его</string>
   <string name="backup_configure_account_default_summary">No account is currently storing backed up data</string>
   <string name="backup_configure_account_title">Backup account</string>
@@ -172,7 +152,7 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="backup_erase_dialog_message">Вы уверены, что не хотите больше создавать резервные копии настроек и данных программ и хотите удалить все копии с серверов Google?</string>
   <string name="backup_erase_dialog_title">Резервное копирование</string>
   <string name="backup_lock_settings_picker_title">Choose backup lock</string>
-  <string name="backup_pw_cancel_button_text">Cancel</string>
+  <string name="backup_pw_cancel_button_text">Отмена</string>
   <string name="backup_pw_set_button_text">Set backup password</string>
   <string name="backup_section_title">Резервирование и восстановление</string>
   <string name="band_mode_failed">Сбой</string>
@@ -183,10 +163,10 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="baseband_version">Версия ПО модуля связи</string>
   <string name="battery_action_app_details">Сведения о приложении</string>
   <string name="battery_action_app_settings">App settings</string>
-  <string name="battery_action_bluetooth">Bluetooth settings</string>
-  <string name="battery_action_display">Screen settings</string>
-  <string name="battery_action_stop">Force stop</string>
-  <string name="battery_action_wifi">Wi-Fi settings</string>
+  <string name="battery_action_bluetooth">Bluetooth</string>
+  <string name="battery_action_display">Настройки экрана</string>
+  <string name="battery_action_stop">Закрыть принудительно</string>
+  <string name="battery_action_wifi">Wi-Fi</string>
   <string name="battery_desc_apps">Использование батареи для работы приложений</string>
   <string name="battery_desc_bluetooth">Использование батареи модулем Bluetooth</string>
   <string name="battery_desc_display">Использование батареи для подсветки экрана</string>
@@ -198,7 +178,7 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="battery_history_hours">%1$d ч. %2$d мин. %3$d с.</string>
   <string name="battery_history_minutes">%1$d мин. %2$d с.</string>
   <string name="battery_history_seconds">%1$d с.</string>
-  <string name="battery_info_awake_battery">Awake time on battery:</string>
+  <string name="battery_info_awake_battery">Работы от батареи:</string>
   <string name="battery_info_awake_plugged">Awake time when charging:</string>
   <string name="battery_info_health_cold">Cold</string>
   <string name="battery_info_health_dead">Разряжена</string>
@@ -217,7 +197,7 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="battery_info_power_unplugged">Не подключено</string>
   <string name="battery_info_power_usb">USB</string>
   <string name="battery_info_scale_label">Шкала батареи:</string>
-  <string name="battery_info_screen_on">Screen ON time:</string>
+  <string name="battery_info_screen_on">Экран включен:</string>
   <string name="battery_info_status_charging">Идет зарядка</string>
   <string name="battery_info_status_charging_ac">(переменный ток)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
@@ -232,7 +212,7 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="battery_info_uptime">Время после загрузки:</string>
   <string name="battery_info_voltage_label">Напряжение батареи:</string>
   <string name="battery_info_voltage_units">мВ</string>
-  <string name="battery_level_title">Battery level</string>
+  <string name="battery_level_title">Уровень батареи</string>
   <string name="battery_since_reset">Battery use since reset</string>
   <string name="battery_since_unplugged">Расход заряда батареи с момента отключения от сети питания</string>
   <string name="battery_stats_charging_label">Заряжается</string>
@@ -244,12 +224,12 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="battery_stats_screen_on_label">Экран включен</string>
   <string name="battery_stats_wake_lock_label">Активен</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
-  <string name="battery_status_title">Battery status</string>
+  <string name="battery_status_title">Информация о батарее</string>
   <string name="battery_sugg_apps_gps">Отключать GPS, когда не используется</string>
   <string name="battery_sugg_apps_info">Остановить или удалить приложение</string>
   <string name="battery_sugg_apps_settings">The app may offer settings to reduce battery use</string>
   <string name="battery_sugg_bluetooth_basic">Отключить Bluetooth, если он не используется</string>
-  <string name="battery_sugg_bluetooth_headset">Try connecting to a different Bluetooth device</string>
+  <string name="battery_sugg_bluetooth_headset">Пробовать подключиться к другим Bluetooth устройствам</string>
   <string name="battery_sugg_display">Уменьшить яркость экрана и/или время до отключения экрана</string>
   <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
   <string name="battery_sugg_wifi">Выключайте Wi-Fi, когда эта сеть не используется</string>
@@ -264,24 +244,24 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="bluetooth_ask_enablement_and_discovery">Приложение на вашем телефоне запрашивает разрешение на включение Bluetooth и видимого режима на %1$d с. Разрешить?</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Приложение на вашем телефоне запрашивает разрешение на включение Bluetooth. Разрешить?</string>
   <string name="bluetooth_ask_lasting_discovery">Приложение на вашем телефоне запрашивает разрешение на управление Bluetooth. Разрешить и сделать всегда видимым?</string>
-  <string name="bluetooth_auto_connect">Auto-connect</string>
+  <string name="bluetooth_auto_connect">Подключаться автоматически</string>
   <string name="bluetooth_confirm_passkey_msg">Для сопряжения с \"%1$s\" подтвердите, что показывается ключ доступа: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
   <string name="bluetooth_connected">Подключено</string>
-  <string name="bluetooth_connected_no_a2dp">Connected (no media)</string>
-  <string name="bluetooth_connected_no_headset">Connected (no phone)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Connected (no phone or media)</string>
+  <string name="bluetooth_connected_no_a2dp">Подключено (no media)</string>
+  <string name="bluetooth_connected_no_headset">Подключено (no phone)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (no phone or media)</string>
   <string name="bluetooth_connecting">Подключение…</string>
   <string name="bluetooth_connecting_error_message">Возникла неполадка при подключении к %1$s</string>
   <string name="bluetooth_connection_dialog_text">Вы хотите подключиться к \"%1$s\"?</string>
   <string name="bluetooth_connection_notif_message">Нажмите для подключения к \"%1$s\"</string>
   <string name="bluetooth_connection_permission_request">Запрос соединения Bluetooth</string>
   <string name="bluetooth_device">гарнитура/наушники</string>
-  <string name="bluetooth_device_advanced_enable_opp_title">Allow incoming file transfers</string>
+  <string name="bluetooth_device_advanced_enable_opp_title">Принимать входящие передачи</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Подключиться к устройству Bluetooth</string>
   <string name="bluetooth_device_advanced_online_mode_title">Подключить</string>
   <string name="bluetooth_device_advanced_profile_header_title">Профили</string>
-  <string name="bluetooth_device_advanced_rename_device">Rename</string>
+  <string name="bluetooth_device_advanced_rename_device">Переименовать</string>
   <string name="bluetooth_device_advanced_title">параметры %1$s</string>
   <string name="bluetooth_device_context_connect">Подключить</string>
   <string name="bluetooth_device_context_connect_advanced">Параметры…</string>
@@ -291,64 +271,52 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="bluetooth_device_context_unpair">Отменить сопряжение</string>
   <string name="bluetooth_device_name">Имя устройства</string>
   <string name="bluetooth_devices">Устройства Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">This will disable:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
-  <string name="bluetooth_disable_profile_title">Disable profile?</string>
+  <string name="bluetooth_disable_profile_message">Будет отключено:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_title">Отключить профиль?</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s will be disconnected from media audio.</string>
   <string name="bluetooth_disconnect_all_profiles">This will end your connection with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s will be disconnected from handsfree audio.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s will be disconnected from input device.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">"%1$s will be disconnected from sharing this phone's Internet connection."</string>
   <string name="bluetooth_disconnect_pan_user_profile">Internet access via %1$s will be disconnected.</string>
-  <string name="bluetooth_disconnect_title">Disconnect?</string>
+  <string name="bluetooth_disconnect_title">Отключить?</string>
   <string name="bluetooth_disconnected">Отключено</string>
   <string name="bluetooth_disconnecting">Отключение…</string>
   <string name="bluetooth_display_passkey_pin_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type on it:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, then press Return or Enter.</string>
-  <string name="bluetooth_dock_settings">Dock Settings</string>
+  <string name="bluetooth_dock_settings">Настройки док.станции</string>
   <string name="bluetooth_dock_settings_a2dp">Для музыки и мультимедиа</string>
   <string name="bluetooth_dock_settings_headset">Для громкой связи</string>
   <string name="bluetooth_dock_settings_remember">Запомнить настройки</string>
   <string name="bluetooth_dock_settings_title">Использовать док-станцию для звука</string>
-  <string name="bluetooth_empty_list_bluetooth_off">To see devices, turn Bluetooth on.</string>
+  <string name="bluetooth_empty_list_bluetooth_off">Для поиска устройств, включите Bluetooth.</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN contains letters or symbols</string>
-  <string name="bluetooth_enter_passkey_msg">"
-
-
-
-Введите ключ доступа для сопряжения с %1$s"</string>
-  <string name="bluetooth_enter_passkey_other_device">You may also need to enter this passkey on the other device.</string>
-  <string name="bluetooth_enter_pin_msg">"
-
-
-
-Введите PIN-код для сопряжения с %1$s. (Попробуйте 0000 или 1234)"</string>
-  <string name="bluetooth_enter_pin_other_device">You may also need to enter this PIN on the other device.</string>
+  <string name="bluetooth_enter_passkey_msg">"Введите ключ доступа для сопряжения с %1$s"</string>
+  <string name="bluetooth_enter_passkey_other_device">Вы должны ввести этот ключ на другом устройстве.</string>
+  <string name="bluetooth_enter_pin_msg">"Введите PIN-код для сопряжения с %1$s. (Попробуйте 0000 или 1234)"</string>
+  <string name="bluetooth_enter_pin_other_device">Вы должны ввести этот PIN-код на другом устройстве.</string>
   <string name="bluetooth_error_title">Внимание!</string>
   <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
   <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
-  <string name="bluetooth_hid_profile_summary_connected">Connected to input device</string>
-  <string name="bluetooth_hid_profile_summary_use_for">Use for input</string>
-  <string name="bluetooth_incoming_pairing_msg">"%1$s
-
-
-
-запрашивает сопряжение"</string>
+  <string name="bluetooth_hid_profile_summary_connected">Подключено устройство ввода</string>
+  <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
+  <string name="bluetooth_incoming_pairing_msg">"%1$s запрашивает сопряжение"</string>
   <string name="bluetooth_is_discoverable">Видимый в течение %1$s секунд…</string>
   <string name="bluetooth_is_discoverable_always">Видимый</string>
-  <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
+  <string name="bluetooth_lock_voice_dialing">Выкл. голосовой набор</string>
   <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
-  <string name="bluetooth_menu_advanced">Advanced</string>
+  <string name="bluetooth_menu_advanced">Дополнительно</string>
   <string></string>
-  <string name="bluetooth_no_devices_found">No nearby Bluetooth devices were found.</string>
+  <string name="bluetooth_no_devices_found">Нет включенных Bluetooth устройств по близости.</string>
   <string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
-  <string name="bluetooth_not_visible_to_other_devices">Not visible to other Bluetooth devices</string>
+  <string name="bluetooth_not_visible_to_other_devices">Нет видимых Bluetooth устройств</string>
   <string name="bluetooth_notif_message">"Выберите для сопряжения с "</string>
   <string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
   <string name="bluetooth_notif_title">Запрос на сопряжение</string>
   <string name="bluetooth_on_time">Wi-Fi on time</string>
-  <string name="bluetooth_only_visible_to_paired_devices">Only visible to paired devices</string>
+  <string name="bluetooth_only_visible_to_paired_devices">Только видимые устройства могу быть сопряжены</string>
   <string name="bluetooth_opp_profile_summary_connected">Установлено подключение к серверу передачи файлов</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Нет подключения к серверу передачи файлов</string>
-  <string name="bluetooth_opp_profile_summary_use_for">Use for file transfer</string>
+  <string name="bluetooth_opp_profile_summary_use_for">Использовать для передачи файлов</string>
   <string name="bluetooth_pairing">Сопряжение…</string>
   <string name="bluetooth_pairing_accept">Сопряжение</string>
   <string name="bluetooth_pairing_decline">Не устанавливать сопряжение</string>
@@ -358,10 +326,10 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение</string>
   <string name="bluetooth_pairing_request">Запрос сопряжения Bluetooth</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Sharing local Internet connection with device</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа к интернету</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s would like to access your contacts and call history. Give access to %2$s?</string>
-  <string name="bluetooth_pb_remember_choice">"Don't ask again"</string>
+  <string name="bluetooth_pb_remember_choice">"Не спрашивать больше"</string>
   <string name="bluetooth_permission_request">Запрос разрешения на включение Bluetooth</string>
   <string name="bluetooth_phonebook_request">Phone book request</string>
   <string name="bluetooth_pin_values_hint">Usually 0000 or 1234</string>

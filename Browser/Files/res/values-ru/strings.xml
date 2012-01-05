@@ -292,7 +292,7 @@
   <string name="pref_privacy_enable_geolocation">Вкл. местоположение</string>
   <string name="pref_privacy_enable_geolocation_summary">Разрешить сайтам запрашивать информацию о Вашем местоположении</string>
   <string name="pref_privacy_formdata_title">Form data</string>
-  <string name="pref_privacy_location_title">Location</string>
+  <string name="pref_privacy_location_title">Местоположение</string>
   <string name="pref_privacy_security_title">Privacy &amp; security</string>
   <string name="pref_security_accept_cookies">Разрешить cookies</string>
   <string name="pref_security_accept_cookies_summary">Разрешить сайтам оставлять данные cookies</string>

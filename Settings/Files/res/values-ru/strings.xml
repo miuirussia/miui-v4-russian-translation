@@ -337,6 +337,7 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
   <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
   <string name="bluetooth_menu_advanced">Advanced</string>
+  <string></string>
   <string name="bluetooth_no_devices_found">No nearby Bluetooth devices were found.</string>
   <string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
   <string name="bluetooth_not_visible_to_other_devices">Not visible to other Bluetooth devices</string>
@@ -1066,7 +1067,7 @@ To clear music, pictures, and other user data, the "</string>
   <string name="read_only">" (только для чтения)"</string>
   <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts, and other data from the phone!</string>
   <string name="really_remove_account_title">Remove account?</string>
-  <string name="recognizer_settings_summary">"Настройка '%s'"</string>
+  <string name="recognizer_settings_summary">"Settings for '%s'"</string>
   <string name="recognizer_settings_title">Настройки распозн. речи</string>
   <string name="recognizer_title">Распознавание голоса</string>
   <string name="recompute_size">Повторное вычисление размера…</string>

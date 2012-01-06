@@ -32,7 +32,7 @@
     </string-array>
     <string-array name="contact_entries">
         <item>Имя</item>
-        <item>Прозвище</item>
+        <item>Ник</item>
         <item>Телефон</item>
         <item>E-mail</item>
         <item>Организация</item>

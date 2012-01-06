@@ -6,7 +6,7 @@
   <string name="accessibility_decrement">Отдалить %1$s</string>
   <string name="accessibility_increment">Приблизить %1$s</string>
   <string name="accessibility_mode_picker">Выбор Фото, видео или панорамы</string>
-  <string name="accessibility_review_thumbnail">Most recent photo</string>
+  <string name="accessibility_review_thumbnail">Последние фото</string>
   <string name="accessibility_second_level_indicators">Дополнительные параметры настоек</string>
   <string name="accessibility_shutter_button">Кнопка спуска затвора</string>
   <string name="accessibility_switch">%1$s переключатель</string>
@@ -59,7 +59,7 @@
   <string name="pref_camera_flashmode_entry_on">Вкл</string>
   <string name="pref_camera_flashmode_no_flash">Без вспышки</string>
   <string name="pref_camera_flashmode_title">Снять фото во время видеозаписи нажав в окне предварительного просмотра</string>
-  <string name="pref_camera_focusmode_default">continuous-picture</string>
+  <string name="pref_camera_focusmode_default">Непрерывно</string>
   <string name="pref_camera_focusmode_entry_auto">Авто</string>
   <string name="pref_camera_focusmode_entry_infinity">Бесконечность</string>
   <string name="pref_camera_focusmode_entry_macro">Макро</string>

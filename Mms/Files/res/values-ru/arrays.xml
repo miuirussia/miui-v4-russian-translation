@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="default_smiley_names">
-        <item>Happy</item>
-        <item>Sad</item>
-        <item>Winking</item>
-        <item>Tongue sticking out</item>
-        <item>Surprised</item>
-        <item>Kissing</item>
-        <item>Yelling</item>
-        <item>Cool</item>
-        <item>Money mouth</item>
-        <item>Foot in mouth</item>
-        <item>Embarrassed</item>
-        <item>Angel</item>
-        <item>Undecided</item>
-        <item>Crying</item>
-        <item>Lips are sealed</item>
-        <item>Laughing</item>
-        <item>Confused</item>
-        <item>Heart</item>
-        <item>Mad</item>
-        <item>Smirk</item>
-        <item>Poker face</item>
+        <item>Счастливый</item>
+        <item>Грустный</item>
+        <item>Подмигивающий</item>
+        <item>Высунутый язык</item>
+        <item>Удивлённый</item>
+        <item>Поцелуй</item>
+        <item>Вопящий</item>
+        <item>Отлично</item>
+        <item>Деньги во рту</item>
+        <item>Нога во рту</item>
+        <item>Растерянный</item>
+        <item>Ангел</item>
+        <item>Нерешительный</item>
+        <item>Кричащий</item>
+        <item>Рот закрыт</item>
+        <item>Смеющийся</item>
+        <item>Смущенный</item>
+        <item>Сердце</item>
+        <item>Бешеный</item>
+        <item>Ухмылка</item>
+        <item>Ничего не выражающее лицо</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Once</item>
-        <item>Twice</item>
-        <item>Thrice</item>
-        <item>Five times</item>
-        <item>Ten times</item>
+        <item>Один раз</item>
+        <item>Два раза</item>
+        <item>Три раза</item>
+        <item>Пять раз</item>
+        <item>Десять раз</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Name</item>
-        <item>Nickname</item>
-        <item>Phone</item>
+        <item>Имя</item>
+        <item>Прозвище</item>
+        <item>Телефон</item>
         <item>E-mail</item>
-        <item>Organization</item>
+        <item>Организация</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>SIP-Телефон</item>
+        <item>День рождения</item>
+        <item>Веб-сайт</item>
+        <item>Адрес</item>
+        <item>Примечание</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
-        <item>10 seconds</item>
-        <item>Other</item>
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Always</item>
-        <item>Only when silent</item>
-        <item>Never</item>
+        <item>Всегда</item>
+        <item>Только в режиме без звука</item>
+        <item>Никогда</item>
     </string-array>
 </resources>

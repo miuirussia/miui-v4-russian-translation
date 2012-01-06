@@ -1,100 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="timezone_filters">
-        <item>America</item>
-        <item>Europe</item>
-        <item>Africa</item>
-        <item>Asia</item>
-        <item>Australia</item>
-        <item>Pacific</item>
-        <item>All</item>
+    <string-array name="Фильтры часовых поясов">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихоокеанское время</item>
+        <item>Все</item>
     </string-array>
-    <string-array name="date_format_values">
+    <string-array name="Формат даты">
         <item></item>
-        <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
+        <item>ММ-ДД-ГГГГ</item>
+        <item>ДД-MM-ГГГГ</item>
+        <item>ГГГГ-MM-ДД</item>
     </string-array>
-    <string-array name="screen_timeout_entries">
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+    <string-array name="Время отключения экрана">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>Never</item>
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+    <string-array name="Переход в спящий режим">
+        <item>Никогда</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
-    <string-array name="lock_after_timeout_entries">
-        <item>Immediately</item>
-        <item>5 seconds</item>
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+    <string-array name="Блокировка после отключения экрана">
+        <item>Немедленно</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
-    <string-array name="entries_font_size">
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Extra large</item>
+    <string-array name="Размер шрифта">
+        <item>Маленький</item>
+        <item>Обычный</item>
+        <item>Большой</item>
+        <item>Очень большой</item>
     </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Very fast</item>
+    <string-array name="Скорость записи TTS">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>Very low</item>
-        <item>Low</item>
-        <item>Normal</item>
-        <item>High</item>
-        <item>Very high</item>
+        <item>Очень низкая</item>
+        <item>Низкая</item>
+        <item>Обычная</item>
+        <item>Высокая</item>
+        <item>Очень высокая</item>
     </string-array>
-    <string-array name="tts_demo_strings">
+    <string-array name="Прослушать пример">
         <item>This is an example of speech synthesis in English.</item>
         <item>Voici un échantillon de synthèse vocale en français.</item>
         <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
         <item>Questo è un esempio di sintesi vocale in italiano.</item>
         <item>Este es un ejemplo de síntesis de voz en español.</item>
     </string-array>
-    <string-array name="wifi_status">
+    <string-array name="Статус Wi-Fi">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
+        <item>Сканирование…</item>
+        <item>Соединение…</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP адреса…</item>
+        <item>Соединено</item>
+        <item>Остановлено</item>
+        <item>Раъединение…</item>
+        <item>Разъединено</item>
+        <item>Ошибка</item>
     </string-array>
-    <string-array name="wifi_status_with_ssid">
+    <string-array name="Статус Wi-Fi с SSID">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
+        <item>Сканирование…</item>
+        <item>Соединение с %1$s…</item>
+        <item>Аутентификация в %1$s…</item>
+        <item>Получение IP адреса от %1$s…</item>
+        <item>Соединено с %1$s</item>
+        <item>Остановлено</item>
+        <item>Разъединение с %1$s…</item>
+        <item>Разъединено</item>
+        <item>Ошибка</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Open</item>
@@ -111,24 +111,24 @@
         <item>PIN from peer device</item>
         <item>PIN from this device</item>
     </string-array>
-    <string-array name="wifi_p2p_status">
-        <item>Connected</item>
-        <item>Invited</item>
-        <item>Unsuccessful</item>
-        <item>Available</item>
-        <item>Out-of-range</item>
+    <string-array name="Wi-Fi p2p статус">
+        <item>Соединено</item>
+        <item>Приглашен</item>
+        <item>Ошибка</item>
+        <item>Доступен</item>
+        <item>Вне зоны доступа</item>
     </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>1 hour</item>
-        <item>Never time out</item>
+    <string-array name="Тайм-аут видимости Bluetooth">
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
+        <item>Никогда</item>
     </string-array>
-    <string-array name="wifi_signal">
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Good</item>
-        <item>Excellent</item>
+    <string-array name="Сигнал Wi-Fi">
+        <item>Слабый</item>
+        <item>Умеренный</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Always</item>
@@ -168,13 +168,13 @@
         <item>PIN from access point</item>
         <item>PIN from this device</item>
     </string-array>
-    <string-array name="wifi_ip_settings">
+    <string-array name="Настройки IP">
         <item>DHCP</item>
-        <item>Static</item>
+        <item>Статический</item>
     </string-array>
-    <string-array name="wifi_proxy_settings">
-        <item>None</item>
-        <item>Manual</item>
+    <string-array name="Настройки Прокси-сервера">
+        <item>Не настроено</item>
+        <item>Вручную</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Off</item>
@@ -185,13 +185,13 @@
         <item>Chinese (Simplified)</item>
         <item>Chinese (Traditional)</item>
     </string-array>
-    <string-array name="apn_auth_entries">
-        <item>None</item>
+    <string-array name="Тип аутентификации">
+        <item>Не настроено</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
     </string-array>
-    <string-array name="apn_protocol_entries">
+    <string-array name="Протокол APN">
         <item>IPv4</item>
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
@@ -206,16 +206,16 @@
         <item>eHRPD</item>
         <item>Unspecified</item>
     </string-array>
-    <string-array name="app_install_location_entries">
-        <item>Internal device storage</item>
-        <item>Removable SD card</item>
-        <item>Let the system decide</item>
+    <string-array name="Место установки приложений">
+        <item>Внутренний накопитель</item>
+        <item>Внешняя SD-карта</item>
+        <item>Предоставить выбор системе</item>
     </string-array>
-    <string-array name="vibrate_entries">
-        <item>Always</item>
-        <item>Never</item>
-        <item>Only in Silent mode</item>
-        <item>Only when not in Silent mode</item>
+    <string-array name="Виброзвонок">
+        <item>Всегда</item>
+        <item>Никогда</item>
+        <item>Только в режиме без звука</item>
+        <item>Только не в режиме без звук</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Short</item>
@@ -258,7 +258,7 @@
         <item>At most 3 processes</item>
         <item>At most 4 processes</item>
     </string-array>
-    <string-array name="vpn_types">
+    <string-array name="Тип VPN">
         <item>PPTP</item>
         <item>L2TP/IPSec PSK</item>
         <item>L2TP/IPSec RSA</item>
@@ -275,11 +275,11 @@
         <item>IPSec VPN with certificates and hybrid authentication</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Disconnected</item>
-        <item>Initializing…</item>
-        <item>Connecting…</item>
-        <item>Connected</item>
-        <item>Timeout</item>
-        <item>Unsuccessful</item>
+        <item>Разъединён</item>
+        <item>Инициализация…</item>
+        <item>Соединение…</item>
+        <item>Соединено</item>
+        <item>Таймаут</item>
+        <item>Ошибка</item>
     </string-array>
 </resources>

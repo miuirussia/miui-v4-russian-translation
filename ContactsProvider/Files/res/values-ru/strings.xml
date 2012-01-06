@@ -2,18 +2,18 @@
 <resources>
   <string name="app_label">Хранилище контактов</string>
   <string name="create_contact">Создать новый контакт</string>
-  <string name="default_directory">Contacts</string>
+  <string name="default_directory">Контакты </string>
   <string name="edit_contact">Добавить к контакту</string>
-  <string name="local_invisible_directory">Other</string>
+  <string name="local_invisible_directory">Прочее</string>
   <string name="pound_search_tip">Поиск номера, вводите после \&quot;#\&quot;</string>
   <string name="provider_label">Контакты</string>
   <string name="read_write_all_voicemail_description">Allows the application to store and retrieve all voicemails that this device can access.</string>
-  <string name="read_write_all_voicemail_label">Access all voicemails</string>
+  <string name="read_write_all_voicemail_label">Доступ ко всей голосовой почте</string>
   <string name="send_sms">Отправить сообщение</string>
   <string name="sharedUserLabel">Android Core Apps</string>
-  <string name="upgrade_msg">Upgrading Contacts database.</string>
+  <string name="upgrade_msg">Обновление базы контаков.</string>
   <string name="upgrade_out_of_memory_notification_text">Выберите для обновления контакта.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Для обновления контакта требуется больше памяти</string>
   <string name="upgrade_out_of_memory_notification_title">Обновление хранилища контактов</string>
-  <string name="voicemail_from_column">"Voicemail from "</string>
+  <string name="voicemail_from_column">"Звуковое сообщение от "</string>
 </resources>

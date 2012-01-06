@@ -321,11 +321,8 @@
   <string name="international_disable">Международные новости отключены</string>
   <string name="international_enable">Международные новости включены</string>
   <string name="internet_phone">Интернет вызов</string>
-  <string></string>
-  <string></string>
   <string name="invalid_pin">Неверный PIN-код, пожалуйста, введите PIN-код, содержащий от 4 до 8 цифр.</string>
   <string name="invalid_pin2">Недопустимые PIN2, пожалуйста, введите код PIN2, состоящий из 4~8 цифр.</string>
-  <string></string>
   <string name="invalid_puk2">Недопустимые PUK2, пожалуйста, введите PUK2, состоящий из 8 цифр.</string>
   <string name="ip_prefix">Авто-Префикс</string>
   <string name="ip_prefix_required">Вводить свой префикс номера IP</string>
@@ -493,8 +490,6 @@
   <string name="pick_outgoing_sip_phone">Использовать аккаунт Интернет-телефонии:</string>
   <string name="pin2_changed">PIN2 успешно изменен</string>
   <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код</string>
-  <string></string>
-  <string></string>
   <string name="pin_attempts">Осталось %d попыток</string>
   <string name="pin_changed">PIN SIM-карты успешно изменен</string>
   <string name="pin_failed">Введен неверный PIN</string>

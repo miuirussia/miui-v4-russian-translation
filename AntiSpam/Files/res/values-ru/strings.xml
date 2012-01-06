@@ -58,8 +58,8 @@
   <string name="fw_blacklist">Черный список</string>
   <string name="fw_blacklist_hint">Звонки и сообщения автоматически блокируются при добавлении в черный список</string>
   <string name="fw_blocked">Защита от тревожных звонков и сообщений</string>
-  <string name="fw_blocked_count">Заблокировано %d звонков, %d сообщений</string>
-  <string name="fw_call">Перехвачено звонков: %s (%d)</string>
+  <string name="fw_blocked_count" formatted="false">Заблокировано %d звонков, %d сообщений</string>
+  <string name="fw_call" formatted="false">Перехвачено звонков: %s (%d)</string>
   <string name="fw_call_muted">Вызов беззвучен</string>
   <string name="fw_call_rejected">Вызов заблокирован</string>
   <string name="fw_clear_all_keyword">Очистить все шаблоны</string>
@@ -81,7 +81,7 @@
   <string name="fw_menu_new_whitelist_title">Добавить в белый список</string>
   <string name="fw_menu_pick_from_contact">Выбрать из списка контактов</string>
   <string name="fw_menu_remove">Удалить</string>
-  <string name="fw_ms">Перехвачено сообщений: %s (%d)</string>
+  <string name="fw_ms" formatted="false">Перехвачено сообщений: %s (%d)</string>
   <string name="fw_ms_filtered">Сообщение отфильтровано</string>
   <string name="fw_ms_imported">Импортируются СМС</string>
   <string name="fw_ms_muted">Сообщение беззвучно</string>
@@ -98,7 +98,7 @@
   <string name="fw_time_settings">Время</string>
   <string name="fw_whitelist">Белый список</string>
   <string name="fw_whitelist_hint">Белый список, все контакты в этом списке не будут заблокированы</string>
-  <string name="member_firewall_log">Заблокировано: Телефонов: %d, SMS: %d</string>
+  <string name="member_firewall_log" formatted="false">Заблокировано: Телефонов: %d, SMS: %d</string>
   <string name="menu_edit">Изменить</string>
   <string name="mms_log_tab_title">Сообщения</string>
   <string name="no">Отмена</string>

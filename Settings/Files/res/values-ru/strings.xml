@@ -337,7 +337,6 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
   <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
   <string name="bluetooth_menu_advanced">Advanced</string>
-  <string></string>
   <string name="bluetooth_no_devices_found">No nearby Bluetooth devices were found.</string>
   <string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
   <string name="bluetooth_not_visible_to_other_devices">Not visible to other Bluetooth devices</string>

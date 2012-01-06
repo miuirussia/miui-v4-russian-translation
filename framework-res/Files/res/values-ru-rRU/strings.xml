@@ -34,9 +34,9 @@
   <string name="VideoView_error_text_unknown">Невозможно воспроизвести видео</string>
   <string name="VideoView_error_title">Не удалось воспроизвести видео</string>
   <string name="abbrev_month">%-b</string>
-  <string name="abbrev_month_day">%-e %b</string>
+  <string name="abbrev_month_day" formatted="false">%-e %b</string>
   <string name="abbrev_month_day_year">%d.%m.%Y</string>
-  <string name="abbrev_month_year">%-b %Y</string>
+  <string name="abbrev_month_year" formatted="false">%-b %Y</string>
   <string name="abbrev_wday_month_day_year">EEE, d MMM yyyy</string>
   <string name="accessibility_binding_label">Специальные возможности</string>
   <string name="action_bar_home_description">Navigate home</string>
@@ -353,8 +353,8 @@
   <string name="heavy_weight_switcher_text">Другое приложение уже запущено, оно должно быть остановлено, прежде чем запустить новое.</string>
   <string name="heavy_weight_switcher_title">Переключение между приложениями?</string>
   <string name="hour">" час"</string>
-  <string name="hour_ampm">%-l%P</string>
-  <string name="hour_cap_ampm">%-l%p</string>
+  <string name="hour_ampm" formatted="false">%-l%P</string>
+  <string name="hour_cap_ampm" formatted="false">%-l%p</string>
   <string name="hour_minute_24">%-k:%M</string>
   <string name="hour_minute_ampm">%-l:%M %p</string>
   <string name="hour_minute_cap_ampm">%-l:%M %^p</string>
@@ -461,8 +461,8 @@
   <string name="lockscreen_carrier_default">(Сеть не найдена)</string>
   <string name="lockscreen_charged">Батарея полностью заряжена</string>
   <string name="lockscreen_emergency_call">Экстренный вызов</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Количество неудачных попыток ввода графического ключа разблокировки: %d. После %d неудачных попыток вам будет предложено разблокировать телефон с помощью учетных данных Google.
+  <string name="lockscreen_failed_attempts_almost_at_wipe"  formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin"  formatted="false">"Количество неудачных попыток ввода графического ключа разблокировки: %d. После %d неудачных попыток вам будет предложено разблокировать телефон с помощью учетных данных Google.
 
 
 
@@ -514,7 +514,7 @@ Visit "</string>
   <string name="lockscreen_sound_off_label">Откл. звук</string>
   <string name="lockscreen_sound_on_label">Вкл. звук</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Количество неудачных попыток ввода графического ключа разблокировки: %d. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Количество неудачных попыток ввода графического ключа разблокировки: %d. 
 
 
 
@@ -525,10 +525,10 @@ Visit "</string>
 
 
 Повторите попытку через %d с."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"You have incorrectly entered your password %d times. 
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly entered your password %d times. 
 
 Please try again in %d seconds."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"You have incorrectly entered your PIN %d times. 
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message"  formatted="false">"You have incorrectly entered your PIN %d times. 
 
 Please try again in %d seconds."</string>
   <string name="lockscreen_transport_next_description">Next track button</string>
@@ -558,8 +558,8 @@ Please try again in %d seconds."</string>
   <string name="mmiError">Неполадки подключения или неверный код MMI</string>
   <string name="mmiFdnError">Операция возможна только для разрешенных номеров</string>
   <string name="month">%-B</string>
-  <string name="month_day">%-e %B</string>
-  <string name="month_day_year">%-e %B %Y г.</string>
+  <string name="month_day" formatted="false">%-e %B</string>
+  <string name="month_day_year" formatted="false">%-e %B %Y г.</string>
   <string name="month_long_april">Апреля</string>
   <string name="month_long_august">Августа</string>
   <string name="month_long_december">Декабря</string>
@@ -608,7 +608,7 @@ Please try again in %d seconds."</string>
   <string name="month_shortest_november">Н</string>
   <string name="month_shortest_october">О</string>
   <string name="month_shortest_september">С</string>
-  <string name="month_year">%B %Y</string>
+  <string name="month_year" formatted="false">%B %Y</string>
   <string name="more_item_label">Дополнительно</string>
   <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите PUK-код</string>
   <string name="needPuk2">Для разблокировки SIM-карты введите PUK2</string>
@@ -629,7 +629,7 @@ Please try again in %d seconds."</string>
   <string name="number_picker_increment_scroll_mode">%s tap and hold.</string>
   <string name="numeric_date">%d.%m.%Y</string>
   <string name="numeric_date_format">d.MM.yyyy</string>
-  <string name="numeric_date_template">%s.%s.%s</string>
+  <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
   <string name="numeric_md1_md2">%3$s.%2$s - %8$s.%7$s</string>
   <string name="numeric_md1_time1_md2_time2">%5$s, %3$s.%2$s - %10$s, %8$s.%7$s</string>
   <string name="numeric_mdy1_mdy2">%3$s.%2$s.%4$s - %8$s.%7$s.%9$s</string>

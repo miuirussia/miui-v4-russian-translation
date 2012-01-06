@@ -44,5 +44,5 @@
   <string name="sd_card_not_available">SD-карта не доступна</string>
   <string name="second">%d секунд</string>
   <string name="storage_is_full">SD-карта заполнена</string>
-  <string name="timer_format">%02d:%02d</string>
+  <string name="timer_format" formatted="false">%02d:%02d</string>
 </resources>

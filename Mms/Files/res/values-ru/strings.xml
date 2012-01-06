@@ -415,6 +415,6 @@
   <string name="view_message_details">Подробности сообщения</string>
   <string name="view_slideshow">Просмотр слайд-шоу</string>
   <string name="wap_push_title">"[Push-сообщение] "</string>
-  <string name="will_send_at"><Будет отправлено: %s</string>
+  <string name="will_send_at">Будет отправлено: %s</string>
   <string name="yes">ОК</string>
 </resources>

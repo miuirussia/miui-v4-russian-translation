@@ -1067,7 +1067,7 @@ To clear music, pictures, and other user data, the "</string>
   <string name="read_only">" (только для чтения)"</string>
   <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts, and other data from the phone!</string>
   <string name="really_remove_account_title">Remove account?</string>
-  <string name="recognizer_settings_summary">"Settings for '%s'"</string>
+  <string name="recognizer_settings_summary">"Настройка '%s'"</string>
   <string name="recognizer_settings_title">Настройки распозн. речи</string>
   <string name="recognizer_title">Распознавание голоса</string>
   <string name="recompute_size">Повторное вычисление размера…</string>

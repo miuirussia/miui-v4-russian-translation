@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_button_addbookmark">Bookmark page</string>
-  <string name="accessibility_button_back">Go back</string>
-  <string name="accessibility_button_bookmarks">Bookmarks</string>
+  <string name="accessibility_button_addbookmark">Избранное</string>
+  <string name="accessibility_button_back">Назад</string>
+  <string name="accessibility_button_bookmarks">Закладки</string>
   <string name="accessibility_button_clear">Clear input</string>
   <string name="accessibility_button_closetab">Close tab</string>
   <string name="accessibility_button_forward">Go forward</string>
   <string name="accessibility_button_go">Go</string>
   <string name="accessibility_button_goto">Go</string>
-  <string name="accessibility_button_more">More options</string>
-  <string name="accessibility_button_navscreen">Page manager</string>
+  <string name="accessibility_button_more">Дополнительные параметры</string>
+  <string name="accessibility_button_navscreen">Менеджер страниц</string>
   <string name="accessibility_button_newincognitotab">Open new incognito tab</string>
   <string name="accessibility_button_newtab">Open new tab</string>
   <string name="accessibility_button_refresh">Refresh page</string>
-  <string name="accessibility_button_search">Search</string>
-  <string name="accessibility_button_stop">Stop page load</string>
+  <string name="accessibility_button_search">Поиск</string>
+  <string name="accessibility_button_stop">Остановить загрузку страницы</string>
   <string name="accessibility_button_uaswitch">Switch user agent</string>
-  <string name="accessibility_button_voice">Start voice search</string>
+  <string name="accessibility_button_voice">Голосовой поиск</string>
   <string name="accessibility_state_frozen">Saved page</string>
   <string name="accessibility_state_incognito">Incognito page</string>
   <string name="accessibility_transition_navscreen">Tab management</string>

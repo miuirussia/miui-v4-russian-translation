@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_import_vcard_type">по умолчанию</string>
-    <string name="config_export_vcard_type">по умолчанию</string>
+    <string name="config_import_vcard_type">default</string>
+    <string name="config_export_vcard_type">default</string>
     <string name="config_export_dir">/sdcard/MIUI/contacts</string>
     <string name="config_export_file_prefix">(</string>
     <string name="config_export_file_suffix">)</string>

@@ -1,63 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_settings">Информация о телефоне</string>
-  <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
-  <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
+  <string name="about_settings_summary">Просмотр информации о телефоне, версии ПО и т.д.</string>
+  <string name="accelerometer_summary_off">Изменять ориентацию экрана при повороте телефона</string>
+  <string name="accelerometer_summary_on">Изменять ориентацию экрана при поворотее телефона</string>
   <string name="accelerometer_title">Автоповорот экрана</string>
-  <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
-  <string name="accessibility_menu_item_settings">Settings</string>
-  <string name="accessibility_menu_item_tutorial">Tutorial</string>
-  <string name="accessibility_no_services_installed">No services installed</string>
-  <string name="accessibility_power_button_ends_call_title">Power button ends call</string>
-  <string name="accessibility_script_injection_allowed">Allowed</string>
-  <string name="accessibility_script_injection_button_allow">Allow</string>
-  <string name="accessibility_script_injection_button_disallow">"Don't allow"</string>
-  <string name="accessibility_script_injection_disallowed">Not allowed</string>
-  <string name="accessibility_script_injection_security_warning_summary">Do you want apps to install scripts from Google that make their web content more accessible?</string>
-  <string name="accessibility_script_injection_security_warning_title">Install web scripts?</string>
-  <string name="accessibility_script_injection_title">Install web scripts</string>
-  <string name="accessibility_service_default_description">No description provided.</string>
-  <string name="accessibility_service_disable_warning_summary">Touching OK will stop %1$s.</string>
-  <string name="accessibility_service_disable_warning_title">Stop %1$s?</string>
-  <string name="accessibility_service_no_apps_message">"У вас нет установленных программ для упрощения доступа.
-
-
-
-
-
-
-
-Вы можете загрузить программу чтения с экрана из Android-маркета.
-
-
-
-
-
-
-
-Нажмите OK, чтобы установить программу чтения с экрана"</string>
+  <string name="accessibility_long_press_timeout_title">Задержка &amp; долгого нажатия</string>
+  <string name="accessibility_menu_item_settings">Настройки</string>
+  <string name="accessibility_menu_item_tutorial">Обучение</string>
+  <string name="accessibility_no_services_installed">Нет установленных служб</string>
+  <string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
+  <string name="accessibility_script_injection_allowed">Разрешено</string>
+  <string name="accessibility_script_injection_button_allow">Разрешить</string>
+  <string name="accessibility_script_injection_button_disallow">"Не разрешать"</string>
+  <string name="accessibility_script_injection_disallowed">Не разрешено</string>
+  <string name="accessibility_script_injection_security_warning_summary">Вы хотите установить скрипты от Google, которые сделают просмотр интеренета полее комфортным?</string>
+  <string name="accessibility_script_injection_security_warning_title">Установить скрипты?</string>
+  <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
+  <string name="accessibility_service_default_description">Нет описания.</string>
+  <string name="accessibility_service_disable_warning_summary">Нажмите ОК чтобы остановить %1$s.</string>
+  <string name="accessibility_service_disable_warning_title">Остановить %1$s?</string>
+  <string name="accessibility_service_no_apps_message">"У вас нет установленных программ для упрощения доступа. Вы можете загрузить программу чтения с экрана из Android-маркета. Нажмите OK, чтобы установить программу чтения с экрана"</string>
   <string name="accessibility_service_no_apps_title">Специальные возможности</string>
   <string name="accessibility_service_security_warning_summary">%1$s can collect all of the text you type, except passwords. This includes personal data such as credit card numbers. It can also collect data about your interactions with the phone.</string>
   <string name="accessibility_service_security_warning_title">Use %1$s?</string>
-  <string name="accessibility_service_state_off">Off</string>
-  <string name="accessibility_service_state_on">On</string>
-  <string name="accessibility_services_title">Services</string>
+  <string name="accessibility_service_state_off">Остановлен<string>
+		  <string name="accessibility_service_state_on">Запущен</string>
+  <string name="accessibility_services_title">Сервисы</string>
   <string name="accessibility_settings">Специальные возможности</string>
   <string name="accessibility_settings_title">Настройки специальных возможностей</string>
-  <string name="accessibility_speak_password_title">Audible passwords</string>
-  <string name="accessibility_sync_disabled">Sync disabled</string>
-  <string name="accessibility_sync_enabled">Sync enabled</string>
-  <string name="accessibility_sync_error">Sync error.</string>
-  <string name="accessibility_system_title">System</string>
-  <string name="accessibility_toggle_large_text_title">Large text</string>
-  <string name="accessibility_touch_exploration_summary">"When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger.
-
- This feature is for low-vision users."</string>
+  <string name="accessibility_speak_password_title">Голосовой пароль</string>
+  <string name="accessibility_sync_disabled">Синхронизация отключена</string>
+  <string name="accessibility_sync_enabled">Синхронизация включена</string>
+  <string name="accessibility_sync_error">Ошибка синхронизации.</string>
+  <string name="accessibility_system_title">Система</string>
+  <string name="accessibility_toggle_large_text_title">Крупный текст</string>
+  <string name="accessibility_touch_exploration_summary">"When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger. This feature is for low-vision users."</string>
   <string name="accessibility_touch_exploration_title">Explore by touch</string>
   <string name="accessibility_touch_exploration_warning">This feature changes the way your device responds to touch. Turn on?</string>
-  <string name="accessibility_tutorial_back">Back</string>
-  <string name="accessibility_tutorial_finish">Finish</string>
+  <string name="accessibility_tutorial_back">Назад</string>
+  <string name="accessibility_tutorial_finish">Завершить</string>
   <string name="accessibility_tutorial_lesson_1_text_1">After you turn on Explore by Touch, you can touch the screen to learn whats under your finger. For example, the current screen contains app icons. Find one of them by touching the screen and sliding your finger around.</string>
   <string name="accessibility_tutorial_lesson_1_text_2_more">Good. Keep sliding your finger around the screen until you find at least one more icon.</string>
   <string name="accessibility_tutorial_lesson_1_text_3">To activate something that you are touching, tap it. Slide your finger until you find the icon for the %s. Then tap the icon once to activate it.</string>
@@ -71,35 +53,35 @@
   <string name="accessibility_tutorial_lesson_2_text_3_more">Good. Keep sliding your fingers up to scroll some more.</string>
   <string name="accessibility_tutorial_lesson_2_text_4">You have completed the tutorial. To exit, find and touch the %s button.</string>
   <string name="accessibility_tutorial_lesson_2_title">Lesson 2: Scrolling using two fingers</string>
-  <string name="accessibility_tutorial_next">Next</string>
-  <string name="accessibility_tutorial_skip">Skip tutorial</string>
+  <string name="accessibility_tutorial_next">Далее</string>
+  <string name="accessibility_tutorial_skip">Пропустить обучение</string>
   <string name="accessibility_tutorial_title">Accessibility tutorial</string>
-  <string name="account_sync_settings_title">Sync settings</string>
+  <string name="account_sync_settings_title">Настройки синхронизации</string>
   <string name="active_device_admin_msg">Администратор устройства</string>
-  <string name="active_input_method_subtypes">Active input methods</string>
+  <string name="active_input_method_subtypes">Доступные методы ввода</string>
   <string name="activity_picker_label">Выбрать действие</string>
   <string name="adb_warning_message">Отладка по USB предназначена для целей разработки. С ее помощью можно копировать данные с компьютера на мобильное устройство и наборот, устанавливать на устройство приложения и просматривать данные журналов</string>
   <string name="adb_warning_title">Разрешить отладку USB?</string>
-  <string name="add_account_label">Add account</string>
+  <string name="add_account_label">Добавить аккаунт</string>
   <string name="add_device_admin">Активировать</string>
   <string name="add_device_admin_msg">Активировать администратора устройства?</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
-  <string name="additional_system_update_settings_list_item_title">Additional system updates</string>
-  <string name="advanced_settings">Advanced settings</string>
-  <string name="advanced_settings_summary">Enable more settings options</string>
+  <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
+  <string name="advanced_settings">Дополнительные настройки</string>
+  <string name="advanced_settings_summary">Включить больше вариантов настройки</string>
   <string name="airplane_mode">Режим \"В самолете\"</string>
   <string name="alarm_volume_title">Громкость будильника</string>
-  <string name="all_volume_title">Volumes</string>
+  <string name="all_volume_title">Громкость</string>
   <string name="allow_mock_location">Отладка положения</string>
   <string name="allow_mock_location_summary">Разрешить получение отладочных данных о местоположении</string>
-  <string name="android_beam_disabled_summary">Unavailable because NFC is turned off</string>
+  <string name="android_beam_disabled_summary">Недоступно потому точто NFC выключено</string>
   <string name="android_beam_explained">"When this feature is turned on, you can beam app content to another NFC-capable device by holding the devices close together. For example, you can beam Browser pages, YouTube videos, People contacts, and more.
 
 Just bring the devices together (typically back to back) and then touch your screen. The app determines what gets beamed."</string>
   <string name="android_beam_label">Android Beam</string>
-  <string name="android_beam_off_summary">Off</string>
-  <string name="android_beam_on_summary">Ready to transmit app content via NFC</string>
+  <string name="android_beam_off_summary">Выключено</string>
+  <string name="android_beam_on_summary">Готово к передаче данных через NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Тип аутентификации</string>
@@ -133,7 +115,7 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="app_install_location_summary">Изменить место установки для новых приложений</string>
   <string name="app_install_location_title">Место установки</string>
   <string name="app_name_label">Приложение</string>
-  <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
+  <string name="app_not_found_dlg_text">"Приложение не найдено в списке установленных."</string>
   <string name="app_not_found_dlg_title">Приложение не найдено</string>
   <string name="app_process_limit_title">Background process limit</string>
   <string name="application_info_label">Сведения о приложении</string>
@@ -141,7 +123,7 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="applications_settings">Приложения</string>
   <string name="applications_settings_header">Настройки приложения</string>
   <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
-  <string name="ask_compatibility">Ask when launched</string>
+  <string name="ask_compatibility">Спросить когда запущено</string>
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
   <string name="assisted_gps_enabled">Use server to assist GPS (uncheck to reduce network usage)</string>
@@ -160,10 +142,10 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="automatic_brightness">Яркость автоматически</string>
   <string name="available_size">%s</string>
   <string name="awake">Время включения устройства</string>
-  <string name="background_data">Background data</string>
-  <string name="background_data_dialog_message">Disabling background data extends battery life and lowers data use. Some apps may still use the background data connection.</string>
-  <string name="background_data_dialog_title">Disable background data?</string>
-  <string name="background_data_summary">Apps can sync, send, and receive data at any time</string>
+  <string name="background_data">Фоновые данные</string>
+  <string name="background_data_dialog_message">Отключение фоновой передачи данных уменьшит разсход батареи и передачу данных. Некоторые приложения все равно могут передавать данные в фоновом режиме.</string>
+  <string name="background_data_dialog_title">Отключить передачу данных в фоне?</string>
+  <string name="background_data_summary">Приложения могут синхронизироваться, оправлять и принимать данные в любое время</string>
   <string name="background_process_stop_description">Это старый процесс, который в настоящее время хранится для улучшения скорости в случае необходимости. Нет причин, чтобы останавливать его</string>
   <string name="backup_configure_account_default_summary">No account is currently storing backed up data</string>
   <string name="backup_configure_account_title">Backup account</string>
@@ -172,7 +154,7 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="backup_erase_dialog_message">Вы уверены, что не хотите больше создавать резервные копии настроек и данных программ и хотите удалить все копии с серверов Google?</string>
   <string name="backup_erase_dialog_title">Резервное копирование</string>
   <string name="backup_lock_settings_picker_title">Choose backup lock</string>
-  <string name="backup_pw_cancel_button_text">Cancel</string>
+  <string name="backup_pw_cancel_button_text">Отмена</string>
   <string name="backup_pw_set_button_text">Set backup password</string>
   <string name="backup_section_title">Резервирование и восстановление</string>
   <string name="band_mode_failed">Сбой</string>
@@ -182,11 +164,11 @@ Just bring the devices together (typically back to back) and then touch your scr
   <string name="band_mode_title">Настроить частоту GSM/UMTS</string>
   <string name="baseband_version">Версия ПО модуля связи</string>
   <string name="battery_action_app_details">Сведения о приложении</string>
-  <string name="battery_action_app_settings">App settings</string>
-  <string name="battery_action_bluetooth">Bluetooth settings</string>
-  <string name="battery_action_display">Screen settings</string>
-  <string name="battery_action_stop">Force stop</string>
-  <string name="battery_action_wifi">Wi-Fi settings</string>
+  <string name="battery_action_app_settings">Настройки приложений</string>
+  <string name="battery_action_bluetooth">Настройки Bluetooth</string>
+  <string name="battery_action_display">настройки экрана</string>
+  <string name="battery_action_stop">Остановить принудительно</string>
+  <string name="battery_action_wifi">Настройки Wi-Fi</string>
   <string name="battery_desc_apps">Использование батареи для работы приложений</string>
   <string name="battery_desc_bluetooth">Использование батареи модулем Bluetooth</string>
   <string name="battery_desc_display">Использование батареи для подсветки экрана</string>

@@ -59,7 +59,7 @@
   <string name="recentlyadded_title">Добавить песни</string>
   <string name="remove_from_playlist">Удалить из списка</string>
   <string name="rename_playlist_menu">Переименовать плейлист</string>
-  <string name="repeat_all_notif">Повтор текущей песни.</string>
+  <string name="repeat_all_notif">Повторить все</string>
   <string name="repeat_current_notif">Повтор текущей песни.</string>
   <string name="repeat_off_notif">Повтор отключен.</string>
   <string name="ringtone_menu">Установить на звонок</string>
@@ -77,7 +77,7 @@
   <string name="sdcard_error_title">Ошибка SD-карты</string>
   <string name="sdcard_error_title_nosdcard">Ошибка SD-карты</string>
   <string name="sdcard_missing_message">SD-карта не найдена</string>
-  <string name="sdcard_missing_message_nosdcard">В Вашем телефоне SD-карта не обнаружена .</string>
+  <string name="sdcard_missing_message_nosdcard">В Вашем телефоне SD-карта не обнаружена.</string>
   <string name="sdcard_missing_title">Нет SD-карты</string>
   <string name="sdcard_missing_title_nosdcard">SD-карта отсутствует</string>
   <string name="search_hint">Поиск музыки</string>

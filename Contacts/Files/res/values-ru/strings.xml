@@ -12,8 +12,8 @@
     <string name="people">Люди</string>
     <string name="contactsList">Контакты</string>
     <string name="shortcutContact">Контакты</string>
-    <string name="shortcutDialContact">Direct dial</string>
-    <string name="shortcutMessageContact">Direct message</string>
+    <string name="shortcutDialContact">Прямой</string>
+    <string name="shortcutMessageContact">Прямое сообщение</string>
     <string name="shortcutActivityTitle">Выбрать контакт для быстрого вызова</string>
     <string name="callShortcutActivityTitle">Выбрать номер для вызова</string>
     <string name="messageShortcutActivityTitle">Выбрать номер для отправки сообщения</string>
@@ -143,20 +143,20 @@
 "<b><font fgcolor="#ffffffff"><li>"Импорт/Экспорт, чтобы импортировать контакты с вашей SIM или SD-карты
 "</li></font></b>"
 "</string>
-    <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
+    <string name="noContactsNoSimHelpText">"У вас нет каких-либо контактов для отображения.
 
-To add contacts, press "<b><font fgcolor="#ffffffff">Menu</font></b>" and touch:
+Чтобы добавить контакты, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и нажмите:
  
-"<b><font fgcolor="#ffffffff"><li>"Accounts to add or configure an account with contacts you can sync to the phone
+"<b><font fgcolor="#ffffffff"><li>"Аккаунт чтобы добавить или настроить аккаунт с контактами, которые можно синхронизировать с телефоном
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"New contact to create a new contact from scratch
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export to import contacts from your SD card
+"<b><font fgcolor="#ffffffff"><li>"Импорт/Экспорт что бы импортировать контакты из вашей SD карты
 "</li></font></b>"
 "</string>
-    <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
+    <string name="noContactsNoSimHelpTextWithSync">"У вас нет каких-либо контактов для отображения. (Если вы только что  добавили аккаунт, может потребоваться несколько минут для синхронизации.)
 
-To add contacts, press "<b><font fgcolor="#ffffffff">Menu</font></b>" and touch:
+Что бы добавить контакт, нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>" и нажмите:
  
 "<b><font fgcolor="#ffffffff"><li>"Accounts to add or configure an account with contacts you can sync to the phone
 "</li></font></b>" 
@@ -169,9 +169,9 @@ To add contacts, press "<b><font fgcolor="#ffffffff">Menu</font></b>" and touch:
 "</string>
     <string name="noFavoritesHelpText">"You don't have any favorites.
 
-To add a contact to your list of favorites:
+Что бы добавить этот контакт в список избранных:
 
-"<li>Touch the <b>Contacts</b>" tab
+"<li>Нажмите <b>Контакты</b>" tab
 "</li>" 
 "<li>"Выберите контакт который хотите добавить в Избранные
 "</li>" 
@@ -223,7 +223,7 @@ To add a contact to your list of favorites:
     <string name="scanning_sdcard_failed_message">Сканирование SD-карты не удалось (причина: \&quot;%s\&quot;)</string>
     <string name="fail_reason_io_error">Ошибка данных</string>
     <string name="fail_reason_low_memory_during_import">Memory is insufficient (the file may be too large)</string>
-    <string name="fail_reason_not_supported">The format is not supported.</string>
+    <string name="fail_reason_not_supported">Форматирование не поддерживается.</string>
     <string name="vcard_import_failed">"Couldn't import vCard"</string>
     <string name="import_failure_no_vcard_file">No vCard file found in the storage</string>
     <string name="fail_reason_unknown">Неизвестная ошибка</string>
@@ -267,9 +267,9 @@ To add a contact to your list of favorites:
     <string name="search_settings_description">Имена ваших контактов</string>
     <string name="call_disambig_title">Call using</string>
     <string name="sms_disambig_title">Text using</string>
-    <string name="make_primary">Remember this choice</string>
+    <string name="make_primary">Запомнить этот выбор</string>
     <string name="quickcontact_missing_app">Не найдено приложение для завершения данного действия</string>
-    <string name="missing_name">(no name)</string>
+    <string name="missing_name">(Без имени)</string>
     <string name="menu_accounts">Аккаунты</string>
     <string name="menu_contacts_filter">Contacts to display</string>
     <string name="menu_import_export">Import/Export</string>
@@ -285,10 +285,10 @@ To add a contact to your list of favorites:
     <string name="relationLabelsGroup">Relationship</string>
     <string name="groupsLabel">Groups</string>
     <string name="dialog_new_contact_account">Создать контакт под учетной записью</string>
-    <string name="dialog_new_group_account">Create group under account</string>
-    <string name="menu_sync_remove">Remove sync group</string>
+    <string name="dialog_new_group_account">Создать группу под учётной записью</string>
+    <string name="menu_sync_remove">Удалить синхронизированную групу</string>
     <string name="dialog_sync_add">Add sync group</string>
-    <string name="display_more_groups">More groups…</string>
+    <string name="display_more_groups">Больше груп…</string>
     <string name="display_ungrouped">Все другие контакты</string>
     <string name="display_all_contacts">Все контакты</string>
     <string name="display_warn_remove_ungrouped">"Removing '%s' from sync will also remove any ungrouped contacts from sync."</string>
@@ -563,7 +563,7 @@ To add a contact to your list of favorites:
     <string name="toast_for_failed_saving_nickname">Сохранить изменения не удалось</string>
     <string name="select_all">Выбрать все</string>
     <string name="deselect_all">Снять выделение со всех</string>
-    <string name="select_none">Nothing selected, the operation is invalid</string>
+    <string name="select_none">Ничего не выбрано, операция недопустима</string>
     <string name="toast_finish_delete_call_log">Call record(s) has been deleted</string>
     <string name="confirm_delete_selected_call_log">Confirm to delete the %1d selected groups of call records?</string>
     <string name="calllog_menu_blacklist">Добавить в черный список</string>

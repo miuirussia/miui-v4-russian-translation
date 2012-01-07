@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Class</item>
-        <item>Classic(No overshoot)</item>
-        <item>Crossfade</item>
-        <item>Falldown</item>
-        <item>Page</item>
-        <item>Cascading</item>
-        <item>Rotation</item>
-        <item>3D Cube</item>
+        <item>Класический</item>
+        <item>Класический(Без проскакивания)</item>
+        <item>Угасание</item>
+        <item>Поворот</item>
+        <item>Перелистывание</item>
+        <item>Каскад</item>
+        <item>Вращение</item>
+        <item>3D куб</item>
     </string-array>
 </resources>

@@ -57,9 +57,9 @@
   <string name="permlab_read_settings">Читать настройки и ярлыки начальной страницы</string>
   <string name="permlab_uninstall_shortcut">Удалить ярлыки</string>
   <string name="permlab_write_settings">Записать настройки главной страницы и ярлыки</string>
-  <string name="photo_adjust">Edit photo</string>
-  <string name="photo_confirm">Confirm</string>
-  <string name="photo_load_failed">Failed to load photo!</string>
+  <string name="photo_adjust">Изменить фото</string>
+  <string name="photo_confirm">Подтвердить</string>
+  <string name="photo_load_failed">Загрузка фото не удалась!</string>
   <string name="pref_enable_drawing_cache_summary">Включение этой опции позволит высвободить больше памяти \n, но это снизит поток</string>
   <string name="pref_enable_drawing_cache_title">Кэш Графики</string>
   <string name="pref_icon_shadow_summary">Включение и выключение теней от значков</string>
@@ -73,7 +73,7 @@
   <string name="preferences_title">Параметры рабочего стола</string>
   <string name="process"/>
   <string name="select_frame">Frame</string>
-  <string name="select_photo">Photo</string>
+  <string name="select_photo">Фото</string>
   <string name="sharedUserId"/>
   <string name="sort_by_abc">По имени</string>
   <string name="sort_by_frequency">По популярности</string>

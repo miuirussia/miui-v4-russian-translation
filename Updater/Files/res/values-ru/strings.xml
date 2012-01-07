@@ -78,10 +78,10 @@
   <string name="send_install_log_error">Отправка не удалась</string>
   <string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
   <string name="sign_in_info">Рейтинг: %1$s\n%2$s\n%3$s версия</string>
-  <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
-Over %2$s users have signed in for MIUI %3$s"</string>
-  <string name="sign_in_info_total_more">"Your update ranking is %1$s
-Over %2$s users have signed in for MIUI %3$s"</string>
+  <string name="sign_in_info_rank_more">"Рейтинг обновления %1$s
+Более %2$s проголосавали за MIUI %3$s"</string>
+  <string name="sign_in_info_total_more">"Рейтинг обновления %1$s
+Более %2$s проголосовали за MIUI %3$s"</string>
   <string name="stable_version">Stable</string>
   <string name="start_update">Начать обновление</string>
   <string name="switch_system">Система коммутации</string>

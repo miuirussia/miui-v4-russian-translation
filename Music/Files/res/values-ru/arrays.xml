@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weeklist">
-        <item>1 week</item>
-        <item>2 weeks</item>
-        <item>3 weeks</item>
-        <item>4 weeks</item>
-        <item>5 weeks</item>
-        <item>6 weeks</item>
-        <item>7 weeks</item>
-        <item>8 weeks</item>
-        <item>9 weeks</item>
-        <item>10 weeks</item>
-        <item>11 weeks</item>
-        <item>12 weeks</item>
+        <item>1 неделя</item>
+        <item>2 недели</item>
+        <item>3 недели</item>
+        <item>4 недели</item>
+        <item>5 недель</item>
+        <item>6 недель</item>
+        <item>7 недель</item>
+        <item>8 недель</item>
+        <item>9 недель</item>
+        <item>10 недель</item>
+        <item>11 недель</item>
+        <item>12 недель</item>
     </string-array>
 </resources>

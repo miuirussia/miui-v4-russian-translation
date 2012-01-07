@@ -6,7 +6,7 @@
   <string name="cancel_running_download">Отмена</string>
   <string name="confirm_delete_downloads_message">Вы хотите удалить %d загрузок, продолжить?</string>
   <string name="confirm_delete_the_download_item_message">Скачанное содержимое будет удалено!</string>
-  <string name="confirm_disable_download_only_in_wifi_message">Выключение &quot;Загружать только по Wi-Fi&quot; может вызвать сильное потребление трафика через мобильную сеть. Вы уверены, что хотите выключить это?</string>
+  <string name="confirm_disable_download_only_in_wifi_message">Выключение "Загружать только по Wi-Fi" может вызвать сильное потребление трафика через мобильную сеть. Вы уверены, что хотите выключить это?</string>
   <string name="delete_download">Удалить</string>
   <string name="delete_downloads_records">Удалить записи загрузок</string>
   <string name="delete_the_downloaded_file">Удалить загруженные файлы</string>

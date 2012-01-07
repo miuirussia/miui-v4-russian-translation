@@ -12,7 +12,8 @@
   <string name="auto_backup_interval_min">1 день</string>
   <string name="auto_backup_only_wifi">Только через Wi-Fi</string>
   <string name="auto_backup_open">Включить автоматическое резервное копирование</string>
-  <string name="auto_backup_progress">"Выполнение автоматического резервного копирования
+  <string name="auto_backup_progress">"Выполнение автоматического резервного копирования
+
 Подождите, пожалуйста..."</string>
   <string name="auto_backup_setting_title">Настройка автоматического резервного копирования</string>
   <string name="auto_backup_time">Запланировать копирование</string>
@@ -50,9 +51,15 @@
   <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
   <string name="cloud_last_backup">Последняя:</string>
   <string name="cloud_no_backup">Нет резервных копий</string>
-  <string name="cloud_restore_guide">"Нажмите кнопку Начать для восстановления данных
-
-
+  <string name="cloud_restore_guide">"Нажмите кнопку Начать для восстановления данных
+
+
+
+
+
+
+
+
 Вы можете восстановить %s в Р.К."</string>
   <string name="cloud_restore_title">Восстановление</string>
   <string name="cloud_restore_window_title">Облачное восстановление</string>
@@ -75,21 +82,51 @@
   <string name="findlost_contact_online">Онлайн восстановление контактов</string>
   <string name="guarded_mode_dialog_message">Не могу работать в режиме защиты</string>
   <string name="guarded_mode_dialog_title">Режим защиты</string>
-  <string name="import_from_xiaomi_account_hint1">"1. Включите телефон с контактами
-
-
-
-
-
-2. Установите MiTalk и войдите в него.
-
-
- http://www.miliao.com
-
-
-
-
-
+  <string name="import_from_xiaomi_account_hint1">"1. Включите телефон с контактами
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Установите MiTalk и войдите в него.
+
+
+
+
+
+
+
+
+ http://www.miliao.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 3. Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>
   <string name="import_from_xiaomi_account_hint2">Примечание: Перейдите к следующему шагу, если резервная копия уже существует</string>
   <string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для резервного копирования контактов на других устройствах</string>
@@ -101,15 +138,27 @@
   <string name="local_select_sysdata">Настройки системы</string>
   <string name="local_select_userapp">Приложения + данные</string>
   <string name="menu_patch_delete">Удаление резервных копий</string>
-  <string name="miliao_account_guide">"MiTalk повышен до аккаунта Xiaomi
-
-
+  <string name="miliao_account_guide">"MiTalk повышен до аккаунта Xiaomi
+
+
+
+
+
+
+
+
 Наслаждайтесь всеми сервисами Xiaomi"</string>
   <string name="miliao_account_login">Войти в MiTalk</string>
   <string name="mms_title">Сообщения MMS</string>
-  <string name="no_network">Нет сетевого соединения
-
-
+  <string name="no_network">Нет сетевого соединения
+
+
+
+
+
+
+
+
 Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
   <string name="note_title">Заметки</string>
   <string name="nothing_searched">Ничего не найдено</string>
@@ -155,25 +204,43 @@
   <string name="task_canceled">Отменено</string>
   <string name="task_canceled_all_local">Все задачи отменены</string>
   <string name="task_canceled_local">Задач отменено: %1$s</string>
-  <string name="task_cloud_backup_cancel_dialog">"Резервное копирование не было завершено
-
-
+  <string name="task_cloud_backup_cancel_dialog">"Резервное копирование не было завершено
+
+
+
+
+
+
+
+
 Нажмите кнопку OK, чтобы отменить незавершенную задачу"</string>
   <string name="task_failed">Не удалось</string>
   <string name="task_failed_all_local">Ошибки во всех задачах</string>
   <string name="task_failed_local">Ошибка в задачах (%1$s)</string>
   <string name="task_finished">Завершено</string>
-  <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено
-
-
+  <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено
+
+
+
+
+
+
+
+
 Нажмите кнопку OK, чтобы удалить эту резервную копию"</string>
   <string name="task_pending">В ожидании</string>
   <string name="task_post_running">Пост-обработка...</string>
   <string name="task_pre_running">Подготовка</string>
   <string name="task_progress">Прогресс</string>
-  <string name="task_restore_cancel_dialog">"Вы собираетесь отменить операцию.
-
-
+  <string name="task_restore_cancel_dialog">"Вы собираетесь отменить операцию.
+
+
+
+
+
+
+
+
 Это может привести к потере данных!"</string>
   <string name="task_restore_cancel_progress">Остановка процесса...</string>
   <string name="task_restore_finished_local">Восстановление завершено</string>

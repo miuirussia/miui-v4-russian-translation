@@ -337,9 +337,15 @@
   <string name="sd_not_available_low_internal_storage">SD-карта не доступна и отсутствует внутреннее устройство хранения</string>
   <string name="sd_not_available_saved_to_internal_storage">Файл сохранен во внутреннюю память</string>
   <string name="sd_not_available_use_internal_storage">SD-карта не доступна, будет использована внутренняя память</string>
-  <string name="sdcard_status_changed_dialog_message">"Выход...
-
-
+  <string name="sdcard_status_changed_dialog_message">"Выход...
+
+
+
+
+
+
+
+
 Пожалуйста, переоткройте это приложение, чтобы обновить ресурсы"</string>
   <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
   <string name="slight_cold"/>

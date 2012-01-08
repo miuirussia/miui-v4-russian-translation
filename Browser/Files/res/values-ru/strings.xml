@@ -198,7 +198,7 @@
   <string name="popup_window_attempt">Разрешить этому зайту показывать всплывающие окна?</string>
   <string name="pref_accessibility_title">Accessibility</string>
   <string name="pref_autofill_enabled">Автозаполнение форм</string>
-  <string name="pref_autofill_enabled_summary">Заполнять формы одним косанием</string>
+  <string name="pref_autofill_enabled_summary">Заполнять формы одним касанием</string>
   <string name="pref_autofill_profile_editor">Автозаполнение текста</string>
   <string name="pref_autofill_profile_editor_summary">Настроить текст автозаполнения</string>
   <string name="pref_autologin_progress">Логиниться на ресурсах Goolge с %s</string>

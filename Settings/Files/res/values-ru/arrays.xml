@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="timezone_filters">
-        <item>America</item>
-        <item>Europe</item>
-        <item>Africa</item>
-        <item>Asia</item>
-        <item>Australia</item>
-        <item>Pacific</item>
-        <item>All</item>
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
     </string-array>
     <string-array name="date_format_values">
         <item></item>
@@ -16,54 +16,54 @@
         <item>yyyy-MM-dd</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>Never</item>
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+        <item>Никогда</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
-        <item>Immediately</item>
-        <item>5 seconds</item>
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 minutes</item>
+        <item>Немедленно</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Extra large</item>
+        <item>Мелкий</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
+        <item>Огромный</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Very fast</item>
+        <item>Очень медленно</item>
+        <item>Медленно</item>
+        <item>Нормально</item>
+        <item>Бстро</item>
+        <item>Очень быстро</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>Very low</item>
-        <item>Low</item>
-        <item>Normal</item>
-        <item>High</item>
-        <item>Very high</item>
+        <item>Очень слабо</item>
+        <item>Слабо</item>
+        <item>Нормально</item>
+        <item>Высоко</item>
+        <item>Очень высоко</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -74,30 +74,30 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Авторизация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
         <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Не удалось соединиться</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s…</item>
+        <item>Авторизация на %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
         <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
+        <item>Отключение от %1$s…</item>
+        <item>Отключено</item>
+        <item>Не удалось отключиться</item>
     </string-array>
     <string-array name="wifi_ap_security">
-        <item>Open</item>
+        <item>Без шифрования</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
     </string-array>
@@ -119,31 +119,31 @@
         <item>Out-of-range</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>1 hour</item>
-        <item>Never time out</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
+        <item>Бесконечно</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Good</item>
-        <item>Excellent</item>
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Always</item>
-        <item>Only when plugged in</item>
-        <item>Never (increases data usage)</item>
+        <item>Всегда</item>
+        <item>Если подключено питание</item>
+        <item>Никогда (увеличивает передачу данных)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Always</item>
-        <item>Only when plugged in</item>
-        <item>Never</item>
+        <item>Всегда</item>
+        <item>Если подключено питание</item>
+        <item>Никогда</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
-        <item>Auto</item>
-        <item>5 GHz only</item>
-        <item>2.4 GHz only</item>
+        <item>Автоматически</item>
+        <item>5 GHz</item>
+        <item>2.4 GHz</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Usage time</item>
@@ -156,7 +156,7 @@
         <item>TTLS</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>None</item>
+        <item>Нет</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
@@ -169,27 +169,27 @@
         <item>PIN from this device</item>
     </string-array>
     <string-array name="wifi_ip_settings">
-        <item>DHCP</item>
-        <item>Static</item>
+        <item>Автоматически (DHCP)</item>
+        <item>Статически</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>None</item>
-        <item>Manual</item>
+        <item>Нет</item>
+        <item>Вручную</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>Off</item>
-        <item>Alert</item>
-        <item>Vibrate</item>
+        <item>Выключено</item>
+        <item>Сигнал</item>
+        <item>Вибрация</item>
     </string-array>
     <string-array name="special_locale_names">
         <item>Chinese (Simplified)</item>
         <item>Chinese (Traditional)</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>None</item>
+        <item>Нет</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAP или CHAP</item>
     </string-array>
     <string-array name="apn_protocol_entries">
         <item>IPv4</item>
@@ -207,20 +207,20 @@
         <item>Unspecified</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Internal device storage</item>
-        <item>Removable SD card</item>
-        <item>Let the system decide</item>
+        <item>Память устройства</item>
+        <item>Съемная SD карта</item>
+        <item>Автоматически</item>
     </string-array>
     <string-array name="vibrate_entries">
-        <item>Always</item>
-        <item>Never</item>
-        <item>Only in Silent mode</item>
-        <item>Only when not in Silent mode</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
+        <item>Только в режиме \"Без звука\"</item>
+        <item>Только не в режиме \"Без звука\"</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Short</item>
-        <item>Medium</item>
-        <item>Long</item>
+        <item>Короткий</item>
+        <item>Средний</item>
+        <item>Длинный</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Never check</item>
@@ -233,22 +233,22 @@
         <item>Always use HDCP checking</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Выкл.</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Выкл.</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standard limit</item>
@@ -275,11 +275,11 @@
         <item>IPSec VPN with certificates and hybrid authentication</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Disconnected</item>
-        <item>Initializing…</item>
-        <item>Connecting…</item>
-        <item>Connected</item>
-        <item>Timeout</item>
-        <item>Unsuccessful</item>
+        <item>Отключено</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
+        <item>Подключено</item>
+        <item>Таймаут</item>
+        <item>Подключение не удалось</item>
     </string-array>
 </resources>

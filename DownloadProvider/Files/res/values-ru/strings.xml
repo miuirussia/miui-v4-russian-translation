@@ -22,9 +22,9 @@
 	<string name="notification_download_failed">Ошибка загрузки</string>
 	<string name="notification_need_wifi_for_size">Размер файла требует Wi-Fi</string>
 	<string name="wifi_required_title">Слишком большой файл для сети оператора</string>
-	<string name="wifi_required_body">Необходимо использовать Wi-Fi для выполнения этой загрузки (%s ). \n\nНажмите %s , чтобы начать эту загрузку в следующий раз, когда подключитесь к сети Wi-Fi.</string>
+	<string name="wifi_required_body" formatted="false">Необходимо использовать Wi-Fi для выполнения этой загрузки (%s). \n\nНажмите %s , чтобы начать эту загрузку в следующий раз, когда подключитесь к сети Wi-Fi.</string>
 	<string name="wifi_recommended_title">Поставить в очередь на загрузку позже?</string>
-	<string name="wifi_recommended_body">Если начать сейчас эту загрузку (%s ), это может сократить срок службы батареи и/или привести к чрезмерному использованию мобильных данных и расходам на связь в соответствии с вашим тарифным планом.\n\nНажмите %s, чтобы начать эту загрузку в следующий раз, когда подключитесь к сети Wi-Fi.</string>
+	<string name="wifi_recommended_body" formatted="false">Если начать сейчас эту загрузку (%s), это может сократить срок службы батареи и/или привести к чрезмерному использованию мобильных данных и расходам на связь в соответствии с вашим тарифным планом.\n\nНажмите %s, чтобы начать эту загрузку в следующий раз, когда подключитесь к сети Wi-Fi.</string>
 	<string name="button_queue_for_wifi">Добавить в очередь</string>
 	<string name="button_cancel_download">Отмена</string>
 	<string name="button_start_now">Запустить</string>

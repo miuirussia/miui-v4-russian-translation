@@ -25,7 +25,7 @@
 	<string name="google_search_hint">Google Search</string>
 	<string name="google_search_label">Google</string>
 	<string name="google_settings_category_title">Google Search</string>
-	<string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&client=android&q=</string>
+	<string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
 	<string name="menu_help">Help</string>
 	<string name="menu_settings">Search settings</string>
 	<string name="remove_from_history">Remove from search history</string>

@@ -5,7 +5,7 @@
 	<string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
 	<string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
 	<string name="accelerometer_title">Автоповорот экрана</string>
-	<string name="accessibility_long_press_timeout_title">Touch & hold delay</string>
+	<string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
 	<string name="accessibility_menu_item_settings">Settings</string>
 	<string name="accessibility_menu_item_tutorial">Tutorial</string>
 	<string name="accessibility_no_services_installed">No services installed</string>
@@ -533,7 +533,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="data_usage_uninstalled_apps">Removed apps</string>
 	<string name="data_usage_warning_editor_title">Set data usage warning</string>
 	<string name="date_and_time">Настройки даты и времени</string>
-	<string name="date_and_time_settings_summary">Set date, time, time zone, & formats</string>
+	<string name="date_and_time_settings_summary">Set date, time, time zone, и formats</string>
 	<string name="date_and_time_settings_title">Настройки даты и времени</string>
 	<string name="date_and_time_settings_title_setup_wizard">Set date and time</string>
 	<string name="date_picker_title">Date</string>
@@ -656,8 +656,8 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="header_category_device">DEVICE</string>
 	<string name="header_category_personal">PERSONAL</string>
 	<string name="header_category_system">SYSTEM</string>
-	<string name="header_category_wireless_networks">WIRELESS & NETWORKS</string>
-	<string name="header_data_and_synchronization">Data & synchronization</string>
+	<string name="header_category_wireless_networks">WIRELESS &amp; NETWORKS</string>
+	<string name="header_data_and_synchronization">Data &amp; synchronization</string>
 	<string name="heavy_weight_stop_description">Данное приложение не может быть безопасно остановлено. Вы можете потерять часть текущей работы</string>
 	<string name="hidden_ssid_label">"Скрытый SSID: "</string>
 	<string name="history_details_title">History details</string>
@@ -699,7 +699,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="keep_screen_on">Оставить включенным</string>
 	<string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
 	<string name="kernel_version">Информация о ядре</string>
-	<string name="keyboard_settings_category">Keyboard & input methods</string>
+	<string name="keyboard_settings_category">Keyboard &amp; input methods</string>
 	<string name="keyboard_settings_title">Android keyboard</string>
 	<string name="language_keyboard_settings_title">Настройки языка и клавиатуры</string>
 	<string name="language_picker_title">Региональные настройки</string>
@@ -1032,7 +1032,7 @@ To clear music, pictures, and other user data, the "</string>
 	<string name="radioInfo_service_off">Радиомодуль выключен</string>
 	<string name="radioInfo_service_out">Вне зоны обслуживания</string>
 	<string name="radioInfo_unknown">неизвестно</string>
-	<string name="radio_controls_summary">Manage Wi-Fi, Bluetooth, airplane mode, mobile networks, & VPNs</string>
+	<string name="radio_controls_summary">Manage Wi-Fi, Bluetooth, airplane mode, mobile networks, &amp; VPNs</string>
 	<string name="radio_controls_title">Беспроводные сети</string>
 	<string name="radio_info_band_mode_label">Выбрать радиостанцию</string>
 	<string name="radio_info_call_redirect_label">Перенаправление вызовов:</string>
@@ -1070,7 +1070,7 @@ To clear music, pictures, and other user data, the "</string>
 	<string name="recognizer_settings_title">Настройки распозн. речи</string>
 	<string name="recognizer_title">Распознавание голоса</string>
 	<string name="recompute_size">Повторное вычисление размера…</string>
-	<string name="remove_account_failed">This account is required by some apps. You can only remove it by resetting the phone to factory defaults (which deletes all your personal data) in Settings &gt; Backup & reset.</string>
+	<string name="remove_account_failed">This account is required by some apps. You can only remove it by resetting the phone to factory defaults (which deletes all your personal data) in Settings &gt; Backup &amp; reset.</string>
 	<string name="remove_account_label">Remove account</string>
 	<string name="remove_device_admin">Отключить</string>
 	<string name="restore_default_apn">Восстановление настроек APN по умолчанию</string>
@@ -1217,7 +1217,7 @@ Possibly incorrect PIN."</string>
 	<string name="sms_received_sound_title">SMS received sound</string>
 	<string name="sort_order_alpha">Упорядочить по алфавиту</string>
 	<string name="sort_order_size">Упорядочить по размеру</string>
-	<string name="sound_category_calls_and_notification_title">Ringtone & notifications</string>
+	<string name="sound_category_calls_and_notification_title">Ringtone &amp; notifications</string>
 	<string name="sound_category_feedback_title">System</string>
 	<string name="sound_category_notification_title">Notifications</string>
 	<string name="sound_category_sound_title">General</string>
@@ -1284,7 +1284,7 @@ Possibly incorrect PIN."</string>
 	<string name="testing_sim_toolkit">Набор инструментов SIM</string>
 	<string name="testing_usage_stats">Статистика использования</string>
 	<string name="testing_wifi_info">Информация WiFi</string>
-	<string name="tether_settings_title_all">Tethering & portable hotspot</string>
+	<string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
 	<string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
 	<string name="tether_settings_title_usb">USB-модем</string>
 	<string name="tether_settings_title_usb_bluetooth">Tethering</string>
@@ -1409,7 +1409,7 @@ Possibly incorrect PIN."</string>
 	<string name="use_default_tts_settings_summary">Мои настройки по умолчанию заменяют настройки приложений</string>
 	<string name="use_default_tts_settings_title">Только мои настройки</string>
 	<string name="use_location_summary">Let Google use your location to improve search results and other services</string>
-	<string name="use_location_title">Location & Google search</string>
+	<string name="use_location_title">Location &amp; Google search</string>
 	<string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
 	<string name="user_dict_multiple_settings_title">Personal dictionaries</string>
 	<string name="user_dict_settings_add_dialog_title">Добавление в словарь</string>
@@ -1432,9 +1432,9 @@ Possibly incorrect PIN."</string>
 	<string name="voice_input_output_settings_title">Настройки голосового ввода и вывода</string>
 	<string name="voice_search_settings_title">Voice search</string>
 	<string name="volume_alarm_description">Alarms</string>
-	<string name="volume_media_description">Music, video, games, & other media</string>
+	<string name="volume_media_description">Music, video, games, &amp; other media</string>
 	<string name="volume_notification_description">Notifications</string>
-	<string name="volume_ring_description">Ringtone & notifications</string>
+	<string name="volume_ring_description">Ringtone &amp; notifications</string>
 	<string name="vpn_cancel">Cancel</string>
 	<string name="vpn_connect">Connect</string>
 	<string name="vpn_connect_to">Подключить к \"%s\"</string>
@@ -1570,7 +1570,7 @@ Possibly incorrect PIN."</string>
 	<string name="wifi_setup_description_connected">Touch</string>
 	<string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
 	<string name="wifi_setup_detail">Network details</string>
-	<string name="wifi_setup_eap_not_supported">"You can't configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings &gt; Wireless & networks."</string>
+	<string name="wifi_setup_eap_not_supported">"You can't configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings &gt; Wireless &amp; networks."</string>
 	<string name="wifi_setup_forget">Forget</string>
 	<string name="wifi_setup_next">Next</string>
 	<string name="wifi_setup_not_connected">Not connected</string>
@@ -1624,7 +1624,7 @@ Possibly incorrect PIN."</string>
 	<string name="wifi_wps_pin_output">Type the PIN %1$s on the access point</string>
 	<string name="wifi_wps_setup_title">WPS setup</string>
 	<string name="wimax_settings">4G settings</string>
-	<string name="wimax_settings_summary">Set up & manage 4G network and modem</string>
+	<string name="wimax_settings_summary">Set up &amp; manage 4G network and modem</string>
 	<string name="window_animation_scale_title">Window animation scale</string>
 	<string name="wireless_networks_settings_title">Настройки беспроводных модулей</string>
 	<string name="xiaomi_account">Xiaomi Account</string>

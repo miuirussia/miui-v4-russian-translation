@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Приложения</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Отключение оставит вашу систему MIUI без управления приложениями и без защиты безопасности и конфиденциальности.
-Вы действительно хотите ее отключить?"</string>
+  <string name="Dashboard_HIPS_Disable_Content">"Отключение оставит вашу систему MIUI без управления приложениями и без защиты безопасности и конфиденциальности.\nВы действительно хотите ее отключить?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Монитор доступа</string>
   <string name="Dashboard_Log">Логи</string>
   <string name="Dashboard_Log_Clear_Content">Все логи будут удалены. Вы уверены что хотите этого?</string>
@@ -48,12 +47,12 @@
   <string name="Generic_UserApp">Загруженные приложения (%d)</string>
   <string name="Generic_Version">Версия: %1$s</string>
   <string name="HIPS_Action_Accept">Разрешить</string>
-  <string name="HIPS_Action_Accept_Colored"><font color=#478800>Разрешить</font></string>
+  <string name="HIPS_Action_Accept_Colored"><font color="#478800">Разрешить</font></string>
   <string name="HIPS_Action_Accept_Count">Разрешенные: %1$d</string>
   <string name="HIPS_Action_Prompt">Спросить</string>
-  <string name="HIPS_Action_Prompt_Colored"><font color=#FF8A00>Спросить</font></string>
+  <string name="HIPS_Action_Prompt_Colored"><font color="#FF8A00">Спросить</font></string>
   <string name="HIPS_Action_Reject">Запретить</string>
-  <string name="HIPS_Action_Reject_Colored"><font color=#DF0000>Запретить</font></string>
+  <string name="HIPS_Action_Reject_Colored"><font color="#DF0000">Запретить</font></string>
   <string name="HIPS_Action_Reject_Count">Запрещенные: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Конфиденциальность</string>
   <string name="HIPS_Group_Expense">Безопасность</string>
@@ -142,7 +141,7 @@
   <string name="HIPS_SecurityPrompt_Remember">Запомнить мой выбор</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - <font color=#478800>Доверенные</font></string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - <font color="#478800">Доверенные</font></string>
   <string name="Privacy_App_Finish">Конец</string>
   <string name="Privacy_App_Installed">Настройка доступа</string>
   <string name="Privacy_App_Launch">Запуск</string>

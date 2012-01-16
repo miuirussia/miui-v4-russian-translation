@@ -145,7 +145,7 @@
 	<string name="go_home">Домашняя страница</string>
 	<string name="goto_dot">Перейти</string>
 	<string name="history">История</string>
-	<string name="homepage_base">http://www.google.com/webhp?client={CID}&source=android-home</string>
+	<string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
 	<string name="homepage_set">Дом. страница установлена</string>
 	<string name="http">http://</string>
 	<string name="import_bookmark">Импорт закладок</string>
@@ -165,7 +165,7 @@
 	<string name="import_bookmarks_wizard_next">Далее</string>
 	<string name="import_bookmarks_wizard_previous">Назад</string>
 	<string name="importing_favorite_files">Импорт данных...</string>
-	<string name="instant_base">http://www.google.com/webhp?client={CID}&source=android-instant&ion=1</string>
+	<string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
 	<string name="instant_search_label">Google with Instant (Labs)</string>
 	<string name="js_engine_flags">Set JS flags</string>
 	<string name="loadSuspended">"Браузер не может открыть эту страницу, т.к. отсутствует соединение с интернетом."</string>
@@ -293,7 +293,7 @@
 	<string name="pref_privacy_enable_geolocation_summary">Разрешить сайтам запрашивать информацию о Вашем местоположении</string>
 	<string name="pref_privacy_formdata_title">Form data</string>
 	<string name="pref_privacy_location_title">Location</string>
-	<string name="pref_privacy_security_title">Privacy & security</string>
+	<string name="pref_privacy_security_title">Privacy и security</string>
 	<string name="pref_security_accept_cookies">Принимать cookies</string>
 	<string name="pref_security_accept_cookies_summary">Разрешить сайтам читать и оставлять cookies</string>
 	<string name="pref_security_passwords_title">Пароли</string>

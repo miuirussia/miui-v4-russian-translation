@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="app_label">Компас</string>
-  <string name="cannot_get_location">Невозможно получить ваше местоположение</string>
-  <string name="getting_location">Поиск местоположения...</string>
-  <string name="location_east">%s В</string>
-  <string name="location_north">%s С</string>
-  <string name="location_south">%s Ю</string>
-  <string name="location_west">%s З</string>
+<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
+	<string name="app_label">Компас</string>
+	<string name="cannot_get_location">Невозможно получить ваше местоположение</string>
+	<string name="getting_location">Поиск местоположения...</string>
+	<string name="location_east">%s В</string>
+	<string name="location_north">%s С</string>
+	<string name="location_south">%s Ю</string>
+	<string name="location_west">%s З</string>
 </resources>

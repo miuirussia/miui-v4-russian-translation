@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/left_pane" android:layout_width="0.0dip" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/middle_pane" android:layout_width="0.0dip" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/right_pane_with_fog" android:layout_width="0.0dip" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@id/right_pane" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <include android:id="@id/message_command_buttons" layout="@layout/message_command_button_view" />
+        </LinearLayout>
+        <View android:id="@id/fogged_glass" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</merge>

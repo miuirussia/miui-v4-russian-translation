@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/setup_item_inset_left" android:paddingRight="@dimen/setup_item_inset_right" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/accountSetupLabelText" android:id="@id/account_description_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_names_account_name_label" android:layout_alignParentTop="true" />
+    <EditText android:id="@id/account_description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/account_description_label" android:inputType="textCapWords" android:imeOptions="actionNext" android:contentDescription="@string/account_setup_names_account_name_label" />
+    <TextView android:textAppearance="@style/accountSetupLabelText" android:id="@id/account_name_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="32.0dip" android:text="@string/account_setup_names_user_name_label" android:layout_below="@id/account_description" />
+    <EditText android:id="@id/account_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/account_name_label" android:inputType="textPersonName" android:imeOptions="actionDone" android:contentDescription="@string/account_setup_names_user_name_label" />
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="@dimen/settings_buttons_padding_top" android:paddingBottom="@dimen/settings_buttons_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/cancel" android:layout_marginLeft="32.0dip" android:text="@string/cancel_action" android:layout_alignParentLeft="true" style="@style/accountSettingsButton" />
+    <Button android:id="@id/done" android:layout_marginRight="32.0dip" android:text="@string/done_action" android:layout_alignParentRight="true" style="@style/accountSettingsButton" />
+</RelativeLayout>

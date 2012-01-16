@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="accountSettingsButton">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:layout_width">125.0sp</item>
+        <item name="android:layout_height">48.0sp</item>
+    </style>
+    <style name="accountSetupTypePrevious" parent="@style/accountSetupButton">
+        <item name="android:layout_marginLeft">48.0dip</item>
+        <item name="android:layout_marginBottom">48.0dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="message_compose_scroll">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/category_general_preferences" android:key="category_general_preferences">
+        <ListPreference android:entries="@array/general_preference_auto_advance_entries" android:title="@string/general_preference_auto_advance_label" android:key="auto_advance" android:summary="@string/general_preference_auto_advance_summary" android:dialogTitle="@string/general_preference_auto_advance_dialog_title" android:entryValues="@array/general_preference_auto_advance_values" />
+        <ListPreference android:entries="@array/general_preference_text_zoom_entries" android:title="@string/general_preference_text_zoom_label" android:key="text_zoom" android:dialogTitle="@string/general_preference_text_zoom_dialog_title" android:entryValues="@array/general_preference_text_zoom_values" />
+        <CheckBoxPreference android:persistent="true" android:title="@string/general_preference_reply_all_label" android:key="reply_all" android:summary="@string/general_preference_reply_all_summary" android:defaultValue="false" />
+        <PreferenceScreen android:title="@string/general_preferences_clear_trusted_senders_title" android:key="clear_trusted_senders" android:summary="@string/general_preferences_clear_trusted_senders_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>

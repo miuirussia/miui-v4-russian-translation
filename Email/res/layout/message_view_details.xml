@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:orientation="vertical" android:paddingTop="14.0dip" android:paddingBottom="7.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="2" android:shrinkColumns="2" android:layout_toLeftOf="@id/show_details"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow android:id="@id/date_row">
+        <TextView android:layout_column="1" android:text="@string/message_view_date_label" style="@style/message_details_label" />
+        <TextView android:id="@id/date" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="32.0dip" style="@style/message_details_value" />
+    </TableRow>
+    <TableRow android:id="@id/to_row">
+        <TextView android:layout_column="1" android:text="@string/message_view_to_label" style="@style/message_details_label" />
+        <TextView android:autoLink="email" android:id="@id/to" style="@style/message_details_value_selectable" />
+    </TableRow>
+    <TableRow android:id="@id/cc_row">
+        <TextView android:layout_column="1" android:text="@string/message_view_cc_label" style="@style/message_details_label" />
+        <TextView android:autoLink="email" android:id="@id/cc" style="@style/message_details_value_selectable" />
+    </TableRow>
+    <TableRow android:id="@id/bcc_row">
+        <TextView android:layout_column="1" android:text="@string/message_view_bcc_label" style="@style/message_details_label" />
+        <TextView android:autoLink="email" android:id="@id/bcc" style="@style/message_details_value_selectable" />
+    </TableRow>
+</TableLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/setup_fragment_padding_left" android:paddingTop="@dimen/setup_fragment_padding_top" android:paddingRight="@dimen/setup_fragment_padding_right" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <fragment android:id="@id/setup_fragment" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:layout_alignParentTop="true" class="com.android.email.activity.setup.AccountSetupIncomingFragment" />
+        <include layout="@layout/account_setup_buttons" />
+    </LinearLayout>
+</ScrollView>

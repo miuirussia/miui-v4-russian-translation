@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/waiting_for_sync_message" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="32.0dip" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/waitinf_for_sync_message_1" />
+    <TextView android:textSize="20.0dip" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="32.0dip" android:text="@string/waitinf_for_sync_message_2" />
+    <ProgressBar android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="32.0dip" style="?android:attr/progressBarStyleLarge" />
+</LinearLayout>

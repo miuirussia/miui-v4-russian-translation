@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow android:paddingTop="16.0dip">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_exchange_username_label" />
+        <EditText android:id="@id/account_username" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="textEmailAddress" android:imeOptions="actionDone" android:contentDescription="@string/account_setup_exchange_username_label" />
+    </TableRow>
+    <TableRow android:paddingTop="16.0dip">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_incoming_password_label" />
+        <EditText android:id="@id/account_password" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="textPassword" android:imeOptions="actionDone" android:contentDescription="@string/account_setup_incoming_password_label" />
+    </TableRow>
+    <TableRow android:paddingTop="16.0dip">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_exchange_server_label" />
+        <EditText android:id="@id/account_server" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="textUri" android:imeOptions="actionDone" android:contentDescription="@string/account_setup_exchange_server_label" />
+    </TableRow>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="32.0dip">
+        <View android:background="@color/account_setup_divider_color" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        <CheckBox android:id="@id/account_ssl" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="32.0dip" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:text="@string/account_setup_exchange_ssl_label" />
+        <View android:background="@color/account_setup_divider_color" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        <CheckBox android:id="@id/account_trust_certificates" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="32.0dip" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:text="@string/account_setup_exchange_trust_certificates_label" />
+        <View android:id="@id/account_trust_certificates_divider" android:background="@color/account_setup_divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        <include android:id="@id/client_certificate_selector" android:visibility="gone" layout="@layout/client_certificate_selector" />
+        <View android:id="@id/client_certificate_divider" android:background="@color/account_setup_divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    </LinearLayout>
+    <TableRow android:paddingTop="32.0dip">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_exchange_device_id_label" />
+        <TextView android:textColor="#ffbebebe" android:id="@id/device_id" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </TableRow>
+</TableLayout>

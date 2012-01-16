@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:entries="@array/layout_style_entries" android:title="Настройка статусбара" android:key="layout_style" android:summary="Выберите положение элементов статусбара" android:entryValues="@array/layout_style_values" />
+    <PreferenceCategory android:title="@string/title" />
+    <PreferenceScreen android:title="@string/battery_options" android:key="battery_options_pref">
+        <Preference android:title="@string/battery_colour" android:key="battery_color_pref" />
+        <PreferenceCategory>
+            <ListPreference android:persistent="false" android:entries="@array/battery_indicator_style_entries" android:title="@string/battery_indicator_style" android:key="battery_indicator_style" android:entryValues="@array/battery_indicator_style_values" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/clock_options">
+        <Preference android:title="@string/clock_colour" android:key="clock_color_pref" />
+        <ListPreference android:entries="@array/am_pm_entries" android:title="@string/clock_format" android:key="clock_am_pm" android:entryValues="@array/am_pm_values" />
+        <CheckBoxPreference android:title="@string/show_clock_title" android:key="show_clock" android:summary="@string/show_clock_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/show_alarm_title" android:key="show_alarm" android:summary="@string/show_alarm_summary" android:defaultValue="true" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/carrier_options">
+        <Preference android:title="@string/carrier_colour" android:key="carrier_color_pref" />
+        <CheckBoxPreference android:title="@string/show_carrier_title" android:key="show_carrier" android:summary="@string/show_carrier_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/custom_carrier_logo" android:key="show_logo" android:summary="@string/custom_carrier_logo_summary" android:dependency="show_carrier" />
+        <CheckBoxPreference android:title="@string/custom_carrier" android:key="custom_carrier" android:summary="@string/custom_carrier_summary" android:dependency="show_carrier" />
+        <EditTextPreference android:title="@string/custom_carrier_text" android:key="custom_carrier_text" android:dependency="custom_carrier" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/date_format_options">
+        <PreferenceCategory>
+            <EditTextPreference android:title="@string/notification_bar_date_format" android:key="drop_down_date" android:summary="03/10/2008" />
+            <EditTextPreference android:title="@string/lockscreen_date_format" android:key="lockscreen_date" android:summary="03/10/2008" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/date_help" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/ui_overscroll_title">
+        <PreferenceCategory>
+            <ListPreference android:entries="@array/pref_overscroll_effect_entries" android:title="@string/pref_overscroll_title" android:key="pref_overscroll_effect" android:summary="@string/pref_overscroll_summary" android:dialogTitle="@string/pref_overscroll_title" android:entryValues="@array/pref_overscroll_effect_values" />
+            <ListPreference android:entries="@array/entries_overscroll_weight" android:title="@string/pref_overscroll_weight_title" android:key="pref_overscroll_weight" android:summary="@string/pref_overscroll_weight_summary" android:dialogTitle="@string/pref_overscroll_weight_title" android:entryValues="@array/values_overscroll_weight" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/choose_color">
+        <Preference android:title="@string/choose_wallpaper_color" android:key="wallpaper_color_pref" />
+        <CheckBoxPreference android:title="@string/use_custom_title" android:key="custom_statusbar" android:summary="@string/use_custom_summary" android:defaultValue="false" />
+        <Preference android:title="@string/choose_statusbar_color" android:key="statusbar_color_pref" android:dependency="custom_statusbar" />
+    </PreferenceScreen>
+    <Preference android:title="@string/about_title" android:key="about_pref" android:summary="@string/about_summary" />
+</PreferenceScreen>

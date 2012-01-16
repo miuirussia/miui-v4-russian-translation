@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.email.activity.ThreePaneLayout android:splitMotionEvents="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/three_pane_collapsible_impl" />
+</com.android.email.activity.ThreePaneLayout>

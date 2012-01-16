@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/message_list_item_wide"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/checkmark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/btn_check_on_normal_holo_light" />
+    <TextView android:textSize="@dimen/wide_senders_font_size" android:layout_gravity="center_vertical" android:id="@id/senders" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/long_string" android:lines="1" android:layout_weight="0.3" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/reply_state" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_badge_reply_holo_light" />
+    <TextView android:textSize="@dimen/wide_subject_font_size" android:layout_gravity="center_vertical" android:id="@id/subject" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:text="@string/long_string" android:lines="2" android:layout_weight="0.7" />
+    <RelativeLayout android:layout_width="144.0dip" android:layout_height="fill_parent">
+        <View android:id="@id/color_chip" android:paddingTop="2.0dip" android:layout_width="@dimen/message_list_item_color_tip_width" android:layout_height="@dimen/message_list_item_color_tip_height" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        <ImageView android:id="@id/paperclip" android:layout_width="36.0dip" android:layout_height="16.0dip" android:layout_marginRight="4.0dip" android:src="@drawable/ic_attachment_holo_light" android:layout_centerVertical="true" />
+        <TextView android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/long_string" android:lines="1" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/star" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/btn_star_off_normal_email_holo_light" />
+</LinearLayout>

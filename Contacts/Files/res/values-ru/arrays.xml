@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="otherLabels">
-        <item>Организация</item>
-        <item>Заметка</item>
-    </string-array>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
+	<string-array name="otherLabels">
+		<item>Организация</item>
+		<item>Заметка</item>
+	</string-array>
 </resources>

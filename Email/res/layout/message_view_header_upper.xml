@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/header_convo_view_sender_bg_holo" android:layout_width="fill_parent" android:layout_height="@dimen/message_header_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <QuickContactBadge android:id="@id/badge" android:layout_width="@dimen/message_header_badge_width" android:layout_height="@dimen/message_header_badge_width" android:scaleType="centerCrop" />
+    <View android:background="@android:color/white" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+    <RelativeLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/message_header_name_margin" android:layout_weight="1.0">
+        <TextView android:id="@id/from_name" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/message_header_sender_name" />
+        <ImageView android:id="@id/presence" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="2.0dip" android:src="@android:drawable/presence_offline" android:layout_below="@id/from_name" />
+        <TextView android:textSize="14.0dip" android:textColor="@color/text_secondary_color_inverse" android:ellipsize="end" android:id="@id/from_address" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toRightOf="@id/presence" android:layout_below="@id/from_name" android:layout_alignWithParentIfMissing="true" style="@style/message_header_sender_address" />
+    </RelativeLayout>
+    <include layout="@layout/message_view_header_actions" />
+</LinearLayout>

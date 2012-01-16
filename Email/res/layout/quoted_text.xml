@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/quoted_text_area" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/quoted_text_bar" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <RelativeLayout android:id="@id/quoted_text_row" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentLeft="true">
+            <CheckBox android:gravity="center_vertical" android:id="@id/include_quoted_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:contentDescription="@string/message_compose_quoted_text_label" />
+            <TextView android:gravity="left|center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:text="@string/message_compose_quoted_text_label" android:layout_toRightOf="@id/include_quoted_text" android:textAllCaps="true" style="@style/QuotedTextHeaderStyle" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <View android:id="@id/divider_bar" android:background="#ffbabebe" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_below="@id/quoted_text_bar" />
+    <WebView android:id="@id/quoted_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/divider_bar" />
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="MIUI Настройки">
+        <Preference android:title="Автор: Andy Thomson" android:key="about_andy_twitter" android:summary="Нажмите, чтобы связаться со мной через Twitter" />
+        <Preference android:title="Перевод:" android:key="about_andy_twitter" android:summary="KOJAN Development Group" />
+    </PreferenceCategory>
+</PreferenceScreen>

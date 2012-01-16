@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/setup_padding_left" android:paddingTop="@dimen/setup_padding_top" android:paddingRight="@dimen/setup_padding_right" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/accountSetupHeadline" android:id="@id/headline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:text="@string/account_setup_account_type_headline" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <View android:id="@id/top_divider" android:background="@color/account_setup_divider_color" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginBottom="16.0dip" android:layout_below="@id/headline" />
+    <RelativeLayout android:id="@id/main_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="64.0dip" android:layout_below="@id/top_divider" android:layout_alignParentLeft="true"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textAppearance="@style/accountSetupInfoText" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="16.0dip" android:text="@string/account_setup_account_type_instructions" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <Button android:id="@id/pop" android:layout_marginLeft="48.0dip" android:layout_marginTop="@dimen/setup_buttons_vertical_spacing" android:text="@string/account_setup_account_type_pop_action" android:layout_below="@id/instructions" android:layout_alignParentLeft="true" style="@style/accountSetupButton" />
+        <Button android:id="@id/imap" android:layout_marginLeft="48.0dip" android:layout_marginTop="@dimen/setup_buttons_vertical_spacing" android:text="@string/account_setup_account_type_imap_action" android:layout_below="@id/pop" android:layout_alignParentLeft="true" style="@style/accountSetupButton" />
+        <Button android:id="@id/exchange" android:layout_marginLeft="48.0dip" android:layout_marginTop="@dimen/setup_buttons_vertical_spacing" android:text="@string/account_setup_account_type_exchange_action" android:layout_below="@id/imap" android:layout_alignParentLeft="true" style="@style/accountSetupButton" />
+    </RelativeLayout>
+    <Button android:id="@id/previous" android:layout_marginTop="@dimen/setup_buttons_padding_top" android:layout_marginRight="@dimen/setup_buttons_padding_right" android:text="@string/previous_action" style="@style/accountSetupTypePrevious" />
+</RelativeLayout>

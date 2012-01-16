@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/setup_padding_left" android:paddingTop="@dimen/setup_padding_top" android:paddingRight="@dimen/setup_padding_right" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textAppearance="@style/accountSetupHeadline" android:id="@id/headline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:text="@string/account_setup_basics_headline" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+            <View android:id="@id/top_divider" android:background="@color/account_setup_divider_color" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginBottom="16.0dip" android:layout_below="@id/headline" />
+            <FrameLayout android:id="@id/common" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/top_divider" android:layout_alignParentLeft="true" android:layout_alignParentRight="true">
+                <include layout="@layout/account_setup_basics_common" />
+            </FrameLayout>
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/setup_buttons_padding_bottom">
+            <Button android:id="@id/manual_setup" android:layout_marginLeft="@dimen/setup_buttons_padding_left" android:text="@string/account_setup_basics_manual_setup_action" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" style="@style/accountSetupButton" />
+            <Button android:id="@id/next" android:layout_marginRight="@dimen/setup_buttons_padding_right" android:text="@string/next_action" android:layout_alignParentTop="true" android:layout_alignParentRight="true" style="@style/accountSetupButton" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

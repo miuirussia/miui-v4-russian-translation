@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.email.view.CertificateSelector android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/select_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/account_setup_exchange_use_certificate" android:layout_alignParentRight="true" style="@style/accountSetupButton" />
+    <TextView android:textStyle="bold" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/account_setup_exchange_certificate_title" android:layout_toLeftOf="@id/select_button" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <TextView android:textColor="@color/text_secondary_color" android:ellipsize="end" android:id="@id/certificate_alias" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:text="@string/account_setup_exchange_no_certificate" android:singleLine="true" android:layout_toLeftOf="@id/select_button" android:layout_below="@id/title" android:layout_alignParentLeft="true" />
+</com.android.email.view.CertificateSelector>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
+	<string name="app_name">Брелок</string>
+	<string name="title_no_certs">Сертификаты не найдены</string>
+	<string name="title_select_cert">Выбор сертификата</string>
+	<string name="requesting_application">Приложение %s требует сертификат. Выбранный сертификат позволит приложению использовать этот идентификатор для связи с сервером в данный момент и в будущем.</string>
+	<string name="requesting_server">Приложение был определено сервером как %s трубется подтвердить доступ к сертификату если Вы доверяете приложению.</string>
+	<string name="install_new_cert_message">Вы можете установить сертификат из файла PKCS#12 с %1$s или %2$s расширением, расположенным на внешнем носителе.</string>
+	<string name="install_new_cert_button_label">Установить</string>
+	<string name="allow_button">Разрешить</string>
+	<string name="deny_button">Запретить</string>
+</resources>

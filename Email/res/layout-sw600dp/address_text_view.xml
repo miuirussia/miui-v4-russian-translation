@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.email.activity.AddressTextView android:inputType="textMultiLine|textEmailAddress" android:imeOptions="actionNext" style="@style/message_compose_header_field_value"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

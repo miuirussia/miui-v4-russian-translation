@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/setup_item_inset_left" android:paddingRight="@dimen/setup_item_inset_right" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/accountSetupInfoText" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/accounts_welcome" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <TableLayout android:id="@id/email_password_table" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_below="@id/instructions">
+        <TableRow android:paddingTop="16.0dip">
+            <TextView android:textAppearance="@style/accountSetupLabelText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_basics_email_label" />
+            <EditText android:id="@id/account_email" android:layout_width="@dimen/setup_credentials_input_width" android:layout_height="wrap_content" android:inputType="textEmailAddress" android:imeOptions="actionNext" android:contentDescription="@string/account_setup_basics_email_label" />
+        </TableRow>
+        <TableRow android:paddingTop="16.0dip">
+            <TextView android:textAppearance="@style/accountSetupLabelText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_basics_password_label" />
+            <EditText android:id="@id/account_password" android:nextFocusDown="@id/next" android:layout_width="@dimen/setup_credentials_input_width" android:layout_height="wrap_content" android:inputType="textPassword" android:imeOptions="actionDone" android:contentDescription="@string/account_setup_basics_password_label" />
+        </TableRow>
+    </TableLayout>
+    <View android:id="@id/account_default_divider_1" android:background="@color/account_setup_divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="48.0dip" android:layout_below="@id/email_password_table" />
+    <CheckBox android:textAppearance="@style/accountSetupInfoText" android:id="@id/account_default" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="32.0dip" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:text="@string/account_setup_basics_default_label" android:layout_below="@id/account_default_divider_1" />
+    <View android:id="@id/account_default_divider_2" android:background="@color/account_setup_divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_below="@id/account_default" />
+</RelativeLayout>

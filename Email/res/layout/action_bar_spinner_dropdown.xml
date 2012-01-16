@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="48.0dip" style="?android:attr/spinnerDropDownItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:ellipsize="end" android:id="@id/display_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" style="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" />
+        <TextView android:ellipsize="end" android:id="@id/email_address" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/display_name" android:layout_centerVertical="true" android:layout_alignWithParentIfMissing="true" style="@android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <View android:id="@id/color_chip" android:background="@android:color/black" android:layout_width="32.0dip" android:layout_height="6.0dip" android:layout_marginLeft="8.0dip" android:layout_marginBottom="2.0dip" android:layout_alignParentTop="true" />
+        <TextView android:id="@id/unread_count" android:layout_centerVertical="true" style="@style/unreadCount" />
+    </RelativeLayout>
+</LinearLayout>

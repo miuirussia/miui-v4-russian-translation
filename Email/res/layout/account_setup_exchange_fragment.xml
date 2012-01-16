@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_exchange_username_label" />
+    <EditText android:id="@id/account_username" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textEmailAddress" android:imeOptions="actionNext" android:contentDescription="@string/account_setup_exchange_username_label" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_incoming_password_label" />
+    <EditText android:id="@id/account_password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textPassword" android:imeOptions="actionNext" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_exchange_server_label" />
+    <EditText android:id="@id/account_server" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textUri" android:imeOptions="actionDone" android:contentDescription="@string/account_setup_exchange_server_label" />
+    <CheckBox android:id="@id/account_ssl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_exchange_ssl_label" />
+    <CheckBox android:id="@id/account_trust_certificates" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_exchange_trust_certificates_label" />
+    <include android:id="@id/client_certificate_selector" android:visibility="gone" layout="@layout/client_certificate_selector" />
+    <TextView android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_exchange_device_id_label" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffbebebe" android:id="@id/device_id" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

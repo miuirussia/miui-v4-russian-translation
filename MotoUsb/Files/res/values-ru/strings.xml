@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
+	<string name="usb_period">.</string>
+	<string name="usb_ok">ОК</string>
+	<string name="usb_cancel">Отмена</string>
+	<string name="usb_3_periods">...</string>
+	<string name="usb_toast_connecting_to">Идет соединение для</string>
+	<string name="usb_toast_phone_data_disabled">Данные телефона отключены</string>
+	<string name="usb_no_memory_card_notification_title">Карта памяти не вставлена</string>
+	<string name="usb_no_memory_card_notification_message_title">Отсутствует карта памяти</string>
+	<string name="usb_no_memory_card_notification_message">Вставьте карту памяти</string>
+	<string name="usb_selection_notification_title">USB-подключение</string>
+	<string name="usb_selection_notification_message">Выберите для управления USB-подключением</string>
+	<string name="usb_selection_notification_message_for_modem">Косн. для откл. и открытия внутр. данных телефона</string>
+	<string name="usb_connection">USB-подключение</string>
+	<string name="usb_mode_ngp">Портал & Инструменты</string>
+	<string name="usb_mode_mtp">Синхронизация Windows Media</string>
+	<string name="usb_mode_msc">Доступ к карте памяти</string>
+	<string name="usb_mode_modem">Телефон как модем</string>
+	<string name="usb_mode_none">Только зарядка</string>
+	<string name="usb_toast_insert_card">Вставьте карту памяти для медиа</string>
+	<string name="usb_progress_message">Перекл. на\u0020</string>
+	<string name="usb_error_message">USB-подключение невозм. изменить на\u0020</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
+	<string name="app_name">MIUI Настройки</string>
+	<string name="ambilwarna_cancel">Отмена</string>
+	<string name="ambilwarna_ok">OK</string>
+	<string name="automatic_battery_enabled">Цвет меняется от уровня батареи</string>
+	<string name="automatic_battery_disabled">Цвет постоянен</string>
+	<string name="show_clock_title">Часы</string>
+	<string name="show_clock_summary">Выключите, чтобы скрыть часы</string>
+	<string name="notify_adb">Уведомление</string>
+	<string name="notify_adb_summary">Показывать уведомление о включенной отладке</string>
+	<string name="show_carrier_title">Оператор</string>
+	<string name="show_carrier_summary">Выключите, чтобы скрыть имя оператора</string>
+	<string name="custom_carrier">Свой оператор</string>
+	<string name="custom_carrier_summary">Задайте свое имя оператора</string>
+	<string name="custom_carrier_text">Имя оператора</string>
+	<string name="custom_carrier_logo">Лого оператора</string>
+	<string name="custom_carrier_logo_summary">Показывать картинку оператора</string>
+	<string name="notification_bar_date_format">Настройки даты в уведомлениях</string>
+	<string name="lockscreen_date_format">Настройки даты на локскрине</string>
+	<string name="date_format_options">Настройки даты</string>
+	<string name="show_alarm_title">Иконка будильника</string>
+	<string name="show_alarm_summary">Выключите, чтобы скрыть иконку будильника</string>
+	<string name="carrier_options">Настройки оператора</string>
+	<string name="clock_colour">Цвет часов</string>
+	<string name="battery_colour">Выбор цвета</string>
+	<string name="battery_indicator_style">Стиль индикатора батареи</string>
+	<string name="carrier_colour">Выберите цвет текста оператора</string>
+	<string name="title">Настройки элементов статусбара</string>
+	<string name="battery_options">Настройки батареи</string>
+	<string name="clock_options">Настройки часов</string>
+	<string name="about_title">О программе</string>
+	<string name="about_summary">Показывает информацию об этом приложении</string>
+	<string name="clock_format">Формат часов</string>
+	<string name="ui_overscroll_title">Прокрутка</string>
+	<string name="pref_overscroll_title">Эффект прокрутки</string>
+	<string name="pref_overscroll_summary">Стиль прокрутки</string>
+	<string name="pref_overscroll_weight_title">Сила эффекта</string>
+	<string name="pref_overscroll_weight_summary">Величина эффекта</string>
+	<string name="date_help">"Вот некоторые форматы дат:- 
+Для Сентября месяца:
+Вводим M получаем-> 9
+Вводим MM получаем -> 09
+Вводим MMM получаем -> Сен
+Вводим MMMM получаем -> Сентябрь
+
+Пример для седьмой минуты, каждого часа:
+Вводим m получаем -> 7
+Вводим mm получаем -> 07
+Вводим mmm получаем -> 007
+Вводим mmmm получаем -> 0007
+Вводим mmaa получаем -> 07pm
+
+Пример для 6 апреля 1970 года в 3:23 утра:
+MM/dd/yy h:mmaa -> 04/06/70 3:23am
+MMM dd, yyyy h:mmaa -> Апр 6, 1970 3:23am
+MMMM dd, yyyy h:mmaa -> Апреля 6, 1970 3:23am
+E, dd MMMM, yyyy h:mmaa -> Пон, 06 Апреля, 1970 3:23am
+EEEE, dd MMMM, yyyy h:mmaa -> Понедельник, 06 Апреля, 1970 3:23am"</string>
+	<string name="choose_color">Настройки цветов</string>
+	<string name="choose_wallpaper_color">Цвет обоев</string>
+	<string name="use_custom_title">Выбор цвета статусбара</string>
+	<string name="use_custom_summary">Включите для выбора цвета статусбара</string>
+	<string name="choose_statusbar_color">Цвет статусбара</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:paddingLeft="@dimen/setup_fragment_padding_left" android:paddingTop="@dimen/setup_fragment_padding_top" android:paddingRight="@dimen/setup_fragment_padding_right" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <FrameLayout android:id="@id/common" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_below="@id/top_divider" android:layout_alignParentLeft="true" android:layout_alignParentRight="true">
+            <include layout="@layout/account_setup_basics_common" />
+        </FrameLayout>
+        <LinearLayout android:orientation="horizontal" android:paddingTop="16.0dip" android:paddingBottom="@dimen/settings_buttons_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/common">
+            <Button android:id="@id/manual_setup" android:layout_width="0.0dip" android:text="@string/account_setup_basics_manual_setup_action" android:layout_weight="1.0" style="@style/accountSetupButton" />
+            <Button android:id="@id/next" android:layout_width="0.0dip" android:text="@string/next_action" android:layout_weight="1.0" style="@style/accountSetupButton" />
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

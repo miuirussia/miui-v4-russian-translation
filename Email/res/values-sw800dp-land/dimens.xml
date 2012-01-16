@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="setup_padding_top">16.0dip</dimen>
+    <dimen name="setup_padding_left">128.0dip</dimen>
+    <dimen name="setup_padding_right">128.0dip</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/version" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/debug_version_fmt" />
+    <CheckBox android:id="@id/debug_logging" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_enable_debug_logging_label" />
+    <CheckBox android:id="@id/exchange_logging" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_enable_exchange_logging_label" />
+    <CheckBox android:id="@id/exchange_file_logging" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_enable_exchange_file_logging_label" />
+    <Button android:id="@id/clear_webview_cache" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_clear_webview_cache" />
+    <CheckBox android:id="@id/debug_disable_graphics_acceleration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_disable_graphics_acceleration_label" />
+    <CheckBox android:id="@id/debug_force_one_minute_refresh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_force_one_minute_refresh_label" />
+    <CheckBox android:id="@id/debug_enable_strict_mode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_enable_strict_mode_label" />
+</LinearLayout>

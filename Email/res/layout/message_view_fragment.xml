@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:layout_gravity="center" android:id="@id/loading_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyleLarge" />
+    <com.android.email.view.NonLockingScrollView android:id="@id/main_panel" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textStyle="bold" android:textColor="?android:textColorSecondary" android:id="@id/subject" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="8.0dip" android:layout_marginBottom="4.0dip" />
+            <include layout="@layout/message_view_header_upper" />
+            <FrameLayout android:id="@id/message_view_subheader" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+                <include layout="@layout/message_view_subheader" />
+            </FrameLayout>
+            <View android:layout_width="fill_parent" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" style="@style/message_view_horizontal_divider" />
+            <LinearLayout android:orientation="vertical" android:id="@id/message_tabs_section" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+                <Button android:textAppearance="?android:textAppearanceSmall" android:id="@id/show_pictures" android:layout_width="wrap_content" android:layout_height="48.0dip" android:text="@string/message_view_show_pictures_action" android:drawableLeft="@drawable/ic_show_images_holo_light" android:drawablePadding="8.0dip" style="?android:attr/borderlessButtonStyle" />
+                <Button android:textAppearance="?android:textAppearanceSmall" android:id="@id/always_show_pictures_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="48.0dip" android:text="@string/message_view_always_show_pictures_prompt" android:drawableLeft="@drawable/ic_show_images_holo_light" android:drawablePadding="8.0dip" style="?android:attr/borderlessButtonStyle" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <Button android:id="@id/show_message" android:layout_width="wrap_content" android:text="@string/message_view_show_message_action" style="@style/message_view_tab" />
+                    <Button android:id="@id/show_invite" android:layout_width="wrap_content" android:text="@string/message_view_show_invite_action" style="@style/message_view_tab" />
+                    <Button android:id="@id/show_attachments" android:layout_width="wrap_content" style="@style/message_view_tab" />
+                    <View android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+                </LinearLayout>
+                <View android:layout_width="fill_parent" style="@style/message_view_horizontal_divider" />
+            </LinearLayout>
+            <com.android.email.view.RigidWebView android:id="@id/message_content" android:background="@android:color/white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" />
+            <ScrollView android:id="@id/invite_scroll" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+                <include layout="@layout/message_view_invitation" />
+            </ScrollView>
+            <ScrollView android:id="@id/attachments_scroll" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+                <LinearLayout android:orientation="vertical" android:id="@id/attachments" android:background="@android:color/white" android:padding="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </ScrollView>
+        </LinearLayout>
+    </com.android.email.view.NonLockingScrollView>
+</FrameLayout>

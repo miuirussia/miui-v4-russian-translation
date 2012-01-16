@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/setup_item_inset_left" android:paddingRight="@dimen/setup_item_inset_right" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/accountSetupInfoText" android:textSize="20.0sp" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/accounts_welcome" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <EditText android:id="@id/account_email" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/account_setup_basics_email_label" android:layout_below="@id/instructions" android:inputType="textEmailAddress" android:imeOptions="actionNext" android:contentDescription="@string/account_setup_basics_email_label" />
+    <EditText android:id="@id/account_password" android:nextFocusDown="@id/next" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/account_setup_basics_password_label" android:layout_below="@id/account_email" android:inputType="textPassword" android:imeOptions="actionDone" android:contentDescription="@string/account_setup_basics_password_label" />
+    <CheckBox android:id="@id/account_default" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_basics_default_label" android:layout_below="@id/account_password" />
+</RelativeLayout>

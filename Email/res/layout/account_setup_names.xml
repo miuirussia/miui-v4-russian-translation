@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/setup_fragment_padding_left" android:paddingTop="@dimen/setup_fragment_padding_top" android:paddingRight="@dimen/setup_fragment_padding_right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_names_headline" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_names_account_name_label" />
+        <EditText android:id="@id/account_description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textCapWords|textNoSuggestions" android:imeOptions="actionNext" android:contentDescription="@string/account_setup_names_account_name_label" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorPrimary" android:id="@id/account_name_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/account_setup_names_user_name_label" />
+        <EditText android:id="@id/account_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textPersonName" android:imeOptions="actionDone" android:contentDescription="@string/account_setup_names_user_name_label" />
+        <Button android:layout_gravity="right" android:id="@id/next" android:layout_marginTop="16.0dip" android:text="@string/next_action" style="@style/accountSetupButton" />
+    </LinearLayout>
+</ScrollView>

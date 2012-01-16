@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:id="@id/sub_header_contents_collapsed" android:layout_width="fill_parent" android:layout_height="48.0dip"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:ellipsize="end" android:id="@id/addresses" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:singleLine="true" android:layout_weight="1.0" style="@style/message_view_text" />
+        <TextView android:id="@id/datetime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:singleLine="true" style="@style/message_view_text" />
+        <ImageView android:id="@id/show_details" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="48.0dip" android:layout_marginLeft="4.0dip" android:src="@drawable/expander_open_holo_light" android:scaleType="center" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/sub_header_contents_expanded" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include layout="@layout/message_view_details" />
+        <ImageView android:layout_gravity="right" android:id="@id/show_details" android:layout_width="wrap_content" android:layout_height="48.0dip" android:layout_marginLeft="4.0dip" android:src="@drawable/expander_close_holo_light" android:scaleType="center" />
+    </FrameLayout>
+</merge>

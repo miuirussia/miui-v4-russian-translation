@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow android:paddingTop="16.0dip">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_outgoing_smtp_server_label" />
+        <EditText android:id="@id/account_server" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="textUri" android:imeOptions="actionDone" />
+    </TableRow>
+    <TableRow android:paddingTop="16.0dip">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_outgoing_security_label" />
+        <Spinner android:id="@id/account_security_type" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </TableRow>
+    <TableRow android:paddingTop="16.0dip">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_outgoing_port_label" />
+        <EditText android:id="@id/account_port" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="number" android:imeOptions="actionDone" />
+    </TableRow>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="32.0dip">
+        <View android:background="@color/account_setup_divider_color" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        <CheckBox android:id="@id/account_require_login" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="32.0dip" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:text="@string/account_setup_outgoing_require_login_label" />
+        <View android:background="@color/account_setup_divider_color" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    </LinearLayout>
+    <TableRow android:id="@id/account_require_login_settings" android:paddingTop="16.0dip" android:visibility="gone">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_outgoing_username_label" />
+        <EditText android:id="@id/account_username" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="textEmailAddress" android:imeOptions="actionDone" />
+    </TableRow>
+    <TableRow android:id="@id/account_require_login_settings_2" android:paddingTop="16.0dip" android:visibility="gone">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/account_setup_outgoing_password_label" />
+        <EditText android:id="@id/account_password" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="textPassword" android:imeOptions="actionDone" />
+    </TableRow>
+</TableLayout>

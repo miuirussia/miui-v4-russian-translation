@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mailbox_list_width">100.0dip</dimen>
+    <dimen name="message_list_width">100.0dip</dimen>
+    <dimen name="action_bar_account_name_max_width">100.0dip</dimen>
+    <dimen name="action_bar_mailbox_name_max_width">100.0dip</dimen>
+    <dimen name="action_bar_mailbox_name_left_margin">8.0dip</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout android:background="@drawable/list_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textAppearance="@android:style/TextAppearance.WindowTitle" android:textColor="#ffead1ae" android:gravity="center_vertical" android:id="@id/tv_title_bar" android:background="@drawable/title_bar_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" />
+        <EditableListView android:id="@id/notes_list" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="0.0dip" android:listSelector="@android:color/transparent" android:cacheColorHint="@null" android:divider="@null" android:layout_weight="1.0" />
+    </LinearLayout>
+    <Button android:id="@id/btn_new_note" android:background="@drawable/ic_new_note" android:focusable="false" style="@android:style/BottomButtonBar" />
+    <EditableListActionBar android:id="@id/bottom_btn_action_bar" android:visibility="gone" style="@android:style/BottomButtonBar">
+        <ImageTextButton android:id="@id/btn_delete" android:textSize="13sp" android:text="@string/button_delete" android:drawableLeft="@drawable/delete" android:drawablePadding="5.0dip" style="@android:style/BottomButton.Left" />
+        <Button android:id="@id/btn_move" android:text="@string/button_move" style="@android:style/BottomButton.Middle" />
+        <Button android:id="@id/btn_check" android:text="@string/button_check" style="@android:style/BottomButton.Right" />
+    </EditableListActionBar>
+</FrameLayout>

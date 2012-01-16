@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_menu_compose_normal_holo_light" android:id="@id/compose" android:orderInCategory="100" android:title="@string/compose_action" android:alphabeticShortcut="c" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_menu_search_holo_light" android:id="@id/search" android:orderInCategory="200" android:title="@string/search_action" android:alphabeticShortcut="s" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_menu_move_to_holo_light" android:id="@id/show_all_mailboxes" android:orderInCategory="300" android:title="@string/mailbox_list_account_selector_show_all_folders" android:alphabeticShortcut="c" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_menu_refresh_holo_light" android:id="@id/refresh" android:orderInCategory="400" android:title="@string/refresh_action" android:alphabeticShortcut="r" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/menu_item_newer" android:id="@id/newer" android:visible="false" android:orderInCategory="1500" android:showAsAction="always" />
+    <item android:icon="@drawable/menu_item_older" android:id="@id/older" android:visible="false" android:orderInCategory="1600" android:showAsAction="always" />
+    <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/mailbox_settings" android:orderInCategory="2000" android:title="@string/mailbox_settings_action" />
+    <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/account_settings" android:orderInCategory="3000" android:title="@string/settings_action" />
+</menu>

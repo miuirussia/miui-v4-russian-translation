@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_menu_send_holo_light" android:id="@id/send" android:title="@string/send_action" android:alphabeticShortcut="s" android:showAsAction="ifRoom|withText" />
+    <item android:id="@id/add_attachment" android:title="@string/add_file_attachment" />
+    <item android:id="@id/add_cc_bcc" android:title="@string/add_cc_bcc_menu" />
+    <item android:id="@id/save" android:title="@string/save_draft_action" android:alphabeticShortcut="d" />
+    <item android:icon="@drawable/ic_menu_trash_holo_light" android:id="@id/discard" android:title="@string/discard_action" android:alphabeticShortcut="q" />
+    <item android:id="@id/show_quick_text_list_dialog" android:title="@string/show_quick_text_list_dialog_action" android:alphabeticShortcut="r" />
+    <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/settings" android:title="@string/settings_action" />
+</menu>

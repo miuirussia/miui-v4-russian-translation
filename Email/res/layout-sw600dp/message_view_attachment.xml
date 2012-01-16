@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/attachment_bg_holo" android:layout_width="fill_parent" android:layout_height="64.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="vertical" android:background="#ffe5e5e5" android:layout_width="64.0dip" android:layout_height="64.0dip">
+        <ImageView android:id="@id/attachment_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_attachment_holo_light" android:scaleType="center" />
+        <ProgressBar android:id="@id/progress" android:padding="0.0dip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="100" style="?android:attr/progressBarStyleHorizontal" />
+    </FrameLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:divider="?android:dividerVertical" android:layout_weight="1.0" android:showDividers="middle" android:dividerPadding="16.0dip">
+        <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="32.0dip" android:layout_marginRight="16.0dip" android:layout_weight="1.0">
+            <TextView android:textSize="18.0dip" android:textColor="#ff333333" android:ellipsize="middle" android:id="@id/attachment_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="14.0sp" android:textColor="@color/text_secondary_color" android:id="@id/attachment_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/attachment_name" android:layout_alignParentLeft="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="224.0dip" android:layout_height="fill_parent" android:divider="?android:dividerVertical" android:layout_weight="0.0" android:showDividers="middle">
+            <Button android:id="@id/load" android:visibility="gone" android:text="@string/message_view_attachment_load_action" style="@style/Attachment.Button" />
+            <Button android:id="@id/cancel" android:visibility="gone" android:text="@string/message_view_attachment_cancel_action" style="@style/Attachment.Button" />
+            <Button android:id="@id/info" android:visibility="gone" android:text="@string/message_view_attachment_info_action" style="@style/Attachment.Button" />
+            <Button android:id="@id/open" android:visibility="gone" android:text="@string/message_view_attachment_view_action" style="@style/Attachment.Button" />
+            <Button android:id="@id/save" android:visibility="gone" android:text="@string/message_view_attachment_save_action" style="@style/Attachment.Button" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

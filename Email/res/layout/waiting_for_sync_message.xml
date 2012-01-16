@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/waiting_for_sync_message" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="top|center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ProgressBar android:id="@id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:layout_centerVertical="true" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/waitinf_for_sync_message_1" android:layout_toRightOf="@id/progress" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/waitinf_for_sync_message_2" android:layout_toRightOf="@id/progress" android:layout_below="@id/title" />
+    </RelativeLayout>
+</FrameLayout>

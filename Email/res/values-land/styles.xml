@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="action_bar_spinner_primary_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/text_primary_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="action_bar_spinner_secondary_text">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/text_secondary_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_marginTop">-2.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="message_view_action_buttons" parent="@android:style/Widget.Holo.Button.Borderless">
+        <item name="android:padding">2.0dip</item>
+        <item name="android:layout_width">32.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style>
+    <style name="ComposeEditTextView">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">40.0dip</item>
+    </style>
+    <style name="ComposeFieldLayout" parent="@android:style/Widget.Holo.Light.EditText">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">38.0dip</item>
+    </style>
+    <style name="SearchBar">
+        <item name="android:layout_width">360.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="action_bar_unread_count">
+        <item name="android:textSize">30.0sp</item>
+        <item name="android:textColor">@color/text_ternary_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>

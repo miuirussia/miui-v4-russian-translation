@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_senders_font_size">14.0sp</dimen>
+    <dimen name="widget_subject_font_size">14.0sp</dimen>
+    <dimen name="widget_date_font_size">14.0sp</dimen>
+    <dimen name="mailbox_list_width">206.0dip</dimen>
+    <dimen name="message_list_width">440.0dip</dimen>
+    <dimen name="action_bar_account_name_max_width">128.0dip</dimen>
+    <dimen name="action_bar_mailbox_name_max_width">128.0dip</dimen>
+    <dimen name="action_bar_mailbox_name_left_margin">16.0dip</dimen>
+    <dimen name="setup_padding_top">32.0dip</dimen>
+    <dimen name="setup_padding_left">32.0dip</dimen>
+    <dimen name="setup_padding_right">32.0dip</dimen>
+    <dimen name="message_compose_field_label_width">120.0dip</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/reply" android:src="@drawable/ic_reply_holo_dark" android:baselineAlignBottom="true" android:contentDescription="@string/reply_action" style="@style/message_view_action_buttons" />
+    <ImageButton android:id="@id/reply_all" android:src="@drawable/ic_reply_all_holo_dark" android:baselineAlignBottom="true" android:contentDescription="@string/reply_all_action" style="@style/message_view_action_buttons" />
+    <ImageButton android:id="@id/forward" android:src="@drawable/ic_forward_holo_dark" android:baselineAlignBottom="true" android:contentDescription="@string/forward_action" style="@style/message_view_action_buttons" />
+    <ImageButton android:id="@id/favorite" android:src="@drawable/btn_star_off_convo_holo_light" android:baselineAlignBottom="true" android:contentDescription="@string/favorite_action" style="@style/message_view_action_buttons" />
+</merge>

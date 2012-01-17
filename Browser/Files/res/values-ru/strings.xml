@@ -322,7 +322,7 @@
 	<string name="save">ОК</string>
 	<string name="save_to_bookmarks">Сохранить в закладках</string>
 	<string name="search_button_text">Перейти</string>
-	<string name="search_hint">Search or type URL</string>
+	<string name="search_hint">Введите адрес или слово для поиска</string>
 	<string name="search_label">Браузер</string>
 	<string name="search_settings_description">Закладки и история</string>
 	<string name="search_the_web">Искать в Интернете</string>
@@ -352,7 +352,7 @@
 	<string name="tab_most_visited">Наиболее посещаемые</string>
 	<string name="tab_quicklinks">Быстрые ссылки</string>
 	<string name="tab_snapshots">Сохраненные страницы</string>
-	<string name="tab_yellowpage">Yellow page</string>
+	<string name="tab_yellowpage">Рекомендуемые</string>
 	<string name="title_bar_loading">Загрузки…</string>
 	<string name="too_many_subwindows_dialog_message">Невозможно открыть новое всплывающее (pop-up) окно, т.к. одновременно может быть отрыто только одно</string>
 	<string name="too_many_subwindows_dialog_title">Всплываеющее (pop-up) окно отрывается</string>

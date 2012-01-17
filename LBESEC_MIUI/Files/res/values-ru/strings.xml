@@ -155,5 +155,5 @@
   <string name="Privacy_App_Uninstall">Удаление</string>
   <string name="Privacy_Perm_Count">Разрешено: %1$d Запрещено: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s пытается получить доступ с правами суперпользователя, который по умолчанию отключен для обеспечения безопасности системы. Если вам необходимо включить эту функцию, перейдите в настройки Менеджера дорступа</string>
-  <string name="app_name">Менеджер доступа</string>
+  <string name="app_name">Безопасность</string>
 </resources>

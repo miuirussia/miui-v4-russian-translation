@@ -352,7 +352,7 @@
 	<string name="tab_most_visited">Наиболее посещаемые</string>
 	<string name="tab_quicklinks">Быстрые ссылки</string>
 	<string name="tab_snapshots">Сохраненные страницы</string>
-	<string name="tab_yellowpage">Рекомендуемые</string>
+	<string name="tab_yellowpage">Интересы</string>
 	<string name="title_bar_loading">Загрузки…</string>
 	<string name="too_many_subwindows_dialog_message">Невозможно открыть новое всплывающее (pop-up) окно, т.к. одновременно может быть отрыто только одно</string>
 	<string name="too_many_subwindows_dialog_title">Всплываеющее (pop-up) окно отрывается</string>

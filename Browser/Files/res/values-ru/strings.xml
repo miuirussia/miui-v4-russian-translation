@@ -15,7 +15,7 @@
   <string name="tab_quicklinks">Быстрые ссылки</string>
   <string name="added_to_bookmarks">Добавлено в закладки.</string>
   <string name="removed_from_bookmarks">Удалено из закладок.</string>
-  <string name="sign_in_to">Войти в %s1 \"%s2\"</string>
+  <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
   <string name="username">Имя</string>
   <string name="password">Пароль</string>
   <string name="action">Вход</string>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="colorchooser_standard_color_value">
+        <item>0</item>
+        <item>-16777216</item>
+        <item>-6737152</item>
+        <item>-13421824</item>
+        <item>-16764160</item>
+        <item>-16764058</item>
+        <item>-16777088</item>
+        <item>-13421671</item>
+        <item>-13421773</item>
+        <item>-8388608</item>
+        <item>-39424</item>
+        <item>-8355840</item>
+        <item>-16744448</item>
+        <item>-16744320</item>
+        <item>-16776961</item>
+        <item>-10066279</item>
+        <item>-8355712</item>
+        <item>-65536</item>
+        <item>-26368</item>
+        <item>-6697984</item>
+        <item>-13395610</item>
+        <item>-13382452</item>
+        <item>-13408513</item>
+        <item>-8388480</item>
+        <item>-6908266</item>
+        <item>-65281</item>
+        <item>-13312</item>
+        <item>-256</item>
+        <item>-16711936</item>
+        <item>-16711681</item>
+        <item>-16724737</item>
+        <item>-6737050</item>
+        <item>-4144960</item>
+        <item>-26164</item>
+        <item>-13159</item>
+        <item>-103</item>
+        <item>-3342388</item>
+        <item>-3342337</item>
+        <item>-6697729</item>
+        <item>-3368449</item>
+        <item>-1</item>
+    </integer-array>
+    <string-array name="colorchooser_standard_color_name">
+        <item>Нет</item>
+        <item>Черный</item>
+        <item>Коричневый</item>
+        <item>Оливково-зелёный</item>
+        <item>Темно-зеленый</item>
+        <item>Темный серо-голубой</item>
+        <item>Темно-синий</item>
+        <item>Индиго</item>
+        <item>Серый 80%</item>
+        <item>Темно-красный</item>
+        <item>Оранжевый</item>
+        <item>Темно-желтый</item>
+        <item>Зеленый</item>
+        <item>Серо-голубой</item>
+        <item>Синий</item>
+        <item>Сине-серый</item>
+        <item>Серый 50%</item>
+        <item>Красный</item>
+        <item>Светло-оранжевый</item>
+        <item>Светло-зеленый</item>
+        <item>Изумрудный</item>
+        <item>Зеленовато-голубой</item>
+        <item>Светло-синий</item>
+        <item>Фиолетовый</item>
+        <item>Серый 40%</item>
+        <item>Розовый</item>
+        <item>Золотистый</item>
+        <item>Желтый</item>
+        <item>Ярко-зеленый</item>
+        <item>Бирюзовый</item>
+        <item>Небесно-голубой</item>
+        <item>Сливовый</item>
+        <item>Серый 25%</item>
+        <item>Насыщенный розовый</item>
+        <item>Желтовато-коричневый</item>
+        <item>Светло-желтый</item>
+        <item>Светло-зеленый</item>
+        <item>Светло-бирюзовый</item>
+        <item>Тусклый синий</item>
+        <item>Сиреневый</item>
+        <item>Белый</item>
+    </string-array>
+    <string-array name="back_key_entries">
+        <item>На уровень вверх</item>
+        <item>Выход</item>
+    </string-array>
+    <string-array name="download_dir_entries">
+        <item>Текущая папка</item>
+        <item>Определенная папка</item>
+        <item>Всегда спрашивать</item>
+    </string-array>
+    <string-array name="write_display_modes">
+        <item>Оригинал</item>
+        <item>Позитив</item>
+        <item>Негатив</item>
+    </string-array>
+</resources>

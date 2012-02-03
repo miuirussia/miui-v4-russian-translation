@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диктофон</string>
+    <string name="recording">Запись...</string>
+    <string name="recording_stopped">Запись остановлена</string>
+    <string name="storage_is_full">SD-карта заполнена</string>
+    <string name="max_length_reached">Достигнута максимальная длина</string>
+    <string name="insert_sd_card">Вставьте SD-карту</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy_HH:mm:ss</string>
+    <string name="audio_db_artist_name">Ваши записи</string>
+    <string name="audio_db_album_name">Аудиозаписи</string>
+    <string name="audio_db_playlist_name">Мои записи</string>
+    <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
+    <string name="error_app_internal">Внутренняя ошибка приложения</string>
+    <string name="error_mediadb_new_record">Невозможно сохранить записанный звук</string>
+    <string name="default_record_name">без имени</string>
+    <string name="menu_view_record_list">Открыть список записей</string>
+    <string name="menu_setting">Настройки</string>
+    <string name="delete_dialog_title">Хотите удалить текущую запись?</string>
+    <string name="overwrite_dialog_title">%s уже существует. Вы хотите перезаписать запись?</string>
+    <string name="preferences_title">Настройки</string>
+    <string name="pref_title_record_type">Тип файла</string>
+    <string name="prefDialogTitle_recordType">Пожалуйста, выберите тип файла</string>
+    <string name="prefDefault_recordType">audio/3gpp</string>
+    <string name="pref_title_enable_high_quality">Высокое качество</string>
+    <string name="pref_summary_enable_high_quality">Аудиозапись с высоким качеством может быть больше</string>
+    <string name="pref_title_enable_sound_effect">Включить звуки</string>
+    <string name="pref_summary_enable_sound_effect">Воспроизведение звука, когда меняется состояние</string>
+    <string name="notification_recording">Запись</string>
+    <string name="notification_stopped">Запись остановлена</string>
+    <string name="notification_warning">Мало места (меньше чем для %d минут)...</string>
+    <string name="record_list">Список записей</string>
+    <string name="sd_card_not_available">SD-карта не доступна</string>
+    <string name="call_record">Запись вызова</string>
+    <string name="open_file_explorer">Открыть Файлы</string>
+    <string name="no_file">Нет записей</string>
+    <string name="mark_now">(Сейчас)</string>
+    <string name="second">%d секунд</string>
+    <string name="minute">%d минут</string>
+    <string name="hour">%d часов</string>
+    <string name="call_record_or">или</string>
+    <string name="dialog_play">Играть</string>
+    <string name="dialog_send">Отправить</string>
+    <string name="dialog_delete">Удалить</string>
+    <string name="accept">Done</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Монитор</string>
+    <string name="duration" formatted="false">С %d.%d.%d по %d.%d.%d</string>
+    <string name="auto_turn_off_mobile">Выключить автоматически</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="menu_sort_by_name">По имени</string>
+    <string name="menu_sort_by_traffic">По трафику</string>
+    <string name="menu_display_system_app">Отображать сис. прилож-я</string>
+    <string name="menu_not_display_system_app">Скрыть сис. прилож-я</string>
+    <string name="input_max_traffic">Доступный траффик</string>
+    <string name="input_warning_traffic">Введите порог предупреждения (МБ)</string>
+    <string name="max_traffic_monthly">Месячный максимум доступных 2G/3G данных</string>
+    <string name="monitor_starting_day">Дата начала мониторинга</string>
+    <string name="date_format">%s</string>
+    <string name="traffic_none">Нет</string>
+    <string name="version_text">Версия: %1$s</string>
+    <string name="duration_days" formatted="false">%d дней %d часов %d минут</string>
+    <string name="duration_hours" formatted="false">%d часов %d минут</string>
+    <string name="duration_minutes">%d минут</string>
+    <string name="traffic_data">Трафик</string>
+    <string name="remain">" Осталось "</string>
+    <string name="threshold">" Предел "</string>
+    <string name="used">"Использовано "</string>
+    <string name="exceed">" Превышено "</string>
+    <string name="settings">Настройки</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">2G/3G:%s</string>
+    <string name="wifi_format">Wi-Fi:%s</string>
+    <string name="mobile_traffic">2G/3G</string>
+    <string name="network_control">Сетевой коммутатор</string>
+    <string name="network_monitor">Монитор</string>
+    <string name="all_apps">Все программы</string>
+    <string name="refresh">Обновить</string>
+    <string name="display_system_app">Системные приложения</string>
+    <string name="force_stop">Принудительная остановка</string>
+    <string name="app_detail">Инфо программы</string>
+    <string name="app_detail_control">Управление</string>
+    <string name="loading_apps_list">Загрузка списка программ...</string>
+    <string name="apply_rules_failed_known">Ошибка применения правил</string>
+    <string name="apply_rules_failed">Ошибка применения правил</string>
+    <string name="monitor_settings">Параметры</string>
+    <string name="process_kernel_label">Android OS</string>
+    <string name="tether_settings_title_usb">USB Tethering</string>
+    <string name="tether_settings_title_wifi">Wi-Fi Tethering</string>
+    <string name="tether_settings_title_bluetooth">Bluetooth Tethering</string>
+    <string name="tether_settings_title_usb_bluetooth">Tethering</string>
+    <string name="tether_settings_title_all">Network Tethering</string>
+    <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
+    <string name="data_usage_cycle_editor_subtitle">Дата:</string>
+    <string name="data_usage_cycle_editor_positive">Вы уверены?</string>
+    <string name="data_usage_label_foreground">В приложениях: %s</string>
+    <string name="data_usage_label_background">Фоновые: %s</string>
+    <string name="data_usage_restrict_background">Ограничить фон. данные</string>
+    <string name="data_usage_restrict_background_help">Запретить приложению использовать интернет, когда оно в фоне</string>
+    <string name="data_usage_restrict_background_title">Ограничить фон. данные</string>
+    <string name="data_usage_restrict_background_summary">Интернет будет ограничен, и приложениям нужен будет Wi-Fi для соединения</string>
+</resources>

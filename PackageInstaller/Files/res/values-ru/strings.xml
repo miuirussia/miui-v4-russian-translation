@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Программа установки пакетов</string>
+    <string name="install">Установка</string>
+    <string name="done">Готово</string>
+    <string name="security_settings_desc">Разрешить приложению:</string>
+    <string name="cancel">Отмена</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="installing">Выполняется установка...</string>
+    <string name="install_done">Приложение установлено</string>
+    <string name="install_confirm_question">Установить приложение?</string>
+    <string name="install_failed">Приложение не установлено</string>
+    <string name="install_failed_msg">%1$s не удалось установить на этот телефон</string>
+    <string name="launch">Открыть</string>
+    <string name="unknown_apps_dlg_title">Внимание!</string>
+    <string name="unknown_apps_dlg_text">Для безопасности, телефон блокирует установку приложений, полученных не с Android Market</string>
+    <string name="ok">ОК</string>
+    <string name="settings">Настройки</string>
+    <string name="manage_applications">Управление приложениями</string>
+    <string name="dlg_app_replacement_title">Обновление приложения</string>
+    <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит другое приложение.
+
+Все пользовательские данные будут сохранены"</string>
+    <string name="dlg_sys_app_replacement_statement">"Это системное приложение. Заменить?
+
+Все пользовательские данные будут сохранены"</string>
+    <string name="out_of_space_dlg_title">Недостаточно места</string>
+    <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку</string>
+    <string name="dlg_ok">ОК</string>
+    <string name="app_not_found_dlg_title">Приложение не найдено</string>
+    <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
+    <string name="uninstall_application_text">Приложение будет удалено</string>
+    <string name="uninstall_update_text">Обновление приложения будет удалено. Вы и далее сможете использовать версию приложения, установленную на заводе-изготовителе.</string>
+    <string name="uninstalling">Выполняется удаление...</string>
+    <string name="uninstall_done">Удаление завершено</string>
+    <string name="uninstall_failed">Ошибка при удалении</string>
+    <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
+    <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
+    <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
+    <string name="uninstall_application_question">Удалить приложение?</string>
+    <string name="uninstall_update_question">Удалить обновление?</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Инструменты SIM-карты</string>
+    <string name="menu_end_session">Закончить сеанс</string>
+    <string name="help">Справка</string>
+    <string name="menu_back">Назад</string>
+    <string name="service_name">Название службы</string>
+    <string name="stk_no_service">Вне зоны обслуживания</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_yes">Да</string>
+    <string name="button_no">Нет</string>
+    <string name="alphabet">Алфавит</string>
+    <string name="digits">Цифры (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Посылка вызова...</string>
+    <string name="stk_app_state">Состояние приложения</string>
+    <string name="enable_app">Включено</string>
+    <string name="disable_app">Отключено</string>
+</resources>

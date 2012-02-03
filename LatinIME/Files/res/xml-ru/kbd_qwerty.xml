@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard latin:keyboardLocale="ru"
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <include latin:keyboardLayout="@xml/kbd_rows_russian" />
+</Keyboard>

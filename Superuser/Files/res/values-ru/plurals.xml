@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="restore_complete">
+        <item quantity="other">%1$d приложений с данными восстановлено</item>
+        <item quantity="one">Одно приложение и данные восстановлены</item>
+    </plurals>
+    <plurals name="pref_logs_deleted">
+        <item quantity="other">%1$d пунктов удалено из журнала</item>
+        <item quantity="one">Один пункт удален из журнала</item>
+    </plurals>
+    <plurals name="pin_incorrect_try">
+        <item quantity="other">Нет - осталось %d попыток</item>
+        <item quantity="one">Последний шанс</item>
+    </plurals>
+    <plurals name="malicious_apps_message1">
+        <item quantity="other">Следующие пакеты были отмечены злонамеренными:</item>
+        <item quantity="one">Следующий пакет был отмечен вредоносным:</item>
+    </plurals>
+</resources>

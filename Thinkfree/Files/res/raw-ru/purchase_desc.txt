@@ -1,0 +1,8 @@
+﻿﻿<html>
+<head>
+	<title>Купить Thinkdroid</title>
+</head>
+<body text="#FFFFFF">
+Для использования этой функции необходимо приобрести платный пакет. Перейти на Android Market сейчас?
+</body>
+</html>

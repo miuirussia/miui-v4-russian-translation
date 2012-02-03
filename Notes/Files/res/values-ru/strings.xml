@@ -50,7 +50,7 @@
     <string name="menu_remove_remind">Удалить напоминание</string>
     <string name="menu_title_select_folder">Выберите папку</string>
     <string name="menu_move_parent_folder">Назад</string>
-    <string name="info_note_enter_desktop">Заметка добавленя на рабочий стол</string>
+    <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
     <string name="alert_message_delete_folder">Папка вместе с содержащимися в ней заметками будет удалена</string>
     <string name="alert_title_delete">Удалить выбранные заметки</string>
     <string name="alert_message_delete_notes">Выбранные заметки будут удалены</string>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
-	<string-array name="prefEntries_recordType">
-		<item>amr</item>
-		<item>3gpp</item>
-	</string-array>
-</resources>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
-	<string-array name="counter_names">
-		<item>Сегодня</item>
-		<item>За неделю</item>
-		<item>За месяц</item>
-	</string-array>
-</resources>

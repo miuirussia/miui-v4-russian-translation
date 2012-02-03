@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--Created with Android Translaton Wizard v0.0.0.165--><resources>
-	<string-array name="menu_share_ways">
-		<item>Сообщение</item>
-		<item>E-mail</item>
-	</string-array>
-</resources>

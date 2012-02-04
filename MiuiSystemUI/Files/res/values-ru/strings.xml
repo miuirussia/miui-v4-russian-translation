@@ -125,7 +125,7 @@
     <string name="tab_toggles_lable">Переключатели</string>
     <string name="status_bar_time_format_12">h:mma</string>
     <string name="status_bar_time_format_24">H:mm</string>
-    <string name="status_bar_date_format">d MMMM yyyy,</string>
+    <string name="status_bar_date_format">d MMMM yyyy, EEEE</string>
     <string name="usb_mode_notification">Режим накопителя</string>
     <string name="usb_mode_dont_ask">Не спрашивать в следующий раз</string>
     <string name="usb_mode_mount_storage_title">Хотите включить режим накопителя?</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="yes">Да</string>
@@ -674,8 +674,8 @@
   <string name="device_cpu">Частота процессора:</string>
   <string name="device_memory">RAM:</string>
   <string name="device_internal_memory">Внутренняя память:</string>
-  <string name="device_sd_memory">SD card:</string>
-  <string name="device_cpu2_info">двухъядерный</string>
+  <string name="device_sd_memory">SD-карта:</string>
+  <string name="device_cpu2_info">2 ядра\u0020</string>
   <string name="device_info_not_available">Недоступно</string>
   <string name="device_status_activity_title">Общая информация</string>
   <string name="device_status">Общая информация</string>

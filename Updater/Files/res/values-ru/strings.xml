@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_name">Обновления</string>
@@ -7,7 +7,7 @@
   <string name="download_whole_rom">Полный пакет (%s)</string>
   <string name="download_ota_rom">Обновление (%s)</string>
   <string name="apply_later_button_text">Обновить позже</string>
-  <string name="switch_system">Перезагрузится</string>
+  <string name="switch_system">Перезагрузиться</string>
   <string name="start_update">Начать обновление</string>
   <string name="applying_update">Обновление (%s)</string>
   <string name="apply_update_guide">Обновление продолжится в фоне</string>

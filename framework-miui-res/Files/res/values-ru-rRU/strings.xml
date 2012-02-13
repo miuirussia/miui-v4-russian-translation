@@ -390,4 +390,24 @@
     <string name="select_all">Выбрать все</string>
     <string name="reverse_all">Очистить выделение</string>
     <string name="multi_select_title">Выбрано: %1$s</string>
+        <string name="lockscreen_plugged_in">Зарядка, %d%%</string>
+    <string name="lockscreen_charged">Заряжено.</string>
+    <string name="lockscreen_low_battery">Подключите зарядку.</string>
+    <string name="lockscreen_missing_sim_message_short">SIM card отсутствует.</string>
+    <string name="lockscreen_missing_sim_instructions">Пожалуйста вставьте a SIM card.</string>
+    <string name="lockscreen_network_locked_message">Network locked</string>
+    <string name="lockscreen_sim_puk_locked_message">SIM card is PUK-locked.</string>
+    <string name="lockscreen_sim_puk_locked_instructions">Please see the User Guide or contact Customer Care.</string>
+    <string name="lockscreen_sim_locked_message">SIM card is locked.</string>
+    <string name="lockscreen_instructions_when_pattern_disabled">Нажмите Menu для разблокировки.</string>
+    <string name="global_actions_toggle_airplane_mode">Режим полета</string>
+    <string name="global_actions_airplane_mode_on_status">Режим полета включен</string>
+    <string name="global_actions_airplane_mode_off_status">Режим полета отключен</string>
+    <string name="global_action_power_off">Отключить питание</string>
+    <string name="factorytest_reboot">Перезагрузка</string>
+    <string name="silent_mode_silent">Режим без звука</string>
+    <string name="silent_mode_vibrate">Режим вибрации</string>
+    <string name="silent_mode_ring">Звук включен</string>
+    <string name="ellipsis">...</string>
+    <string name="power_off">Отключение питания</string>
 </resources>

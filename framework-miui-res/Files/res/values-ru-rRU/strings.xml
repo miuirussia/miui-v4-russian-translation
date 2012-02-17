@@ -13,7 +13,7 @@
 
 
 
-Пожалуйста, переоткройте это приложение, чтобы обновить ресурсы"</string>
+Пожалуйста, перезапустите это приложение, чтобы обновить ресурсы"</string>
     <string name="resource_transparent_wallpaper">Прозрачный</string>
     <string name="resource_mute">Без звука</string>
     <string name="resource_default">По-умолчанию</string>
@@ -380,7 +380,7 @@
  Настройки -> Система -> Кнопки
  
  и включите Закрыть приложение при."</string>
-    <string name="force_exit_message">Было закрыто приложение \"%1$s\"</string>
+    <string name="force_exit_message">\"%1$s\" было закрыто</string>
     <string name="global_action_toggle_privacy_mode">Гость</string>
     <string name="global_action_privacy_mode_on_status">Режим гостя: Включен</string>
     <string name="global_action_privacy_mode_on_toast">Режим гостя включен - сообщения, журналы вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
@@ -390,16 +390,16 @@
     <string name="select_all">Выбрать все</string>
     <string name="reverse_all">Очистить выделение</string>
     <string name="multi_select_title">Выбрано: %1$s</string>
-        <string name="lockscreen_plugged_in">Зарядка, %d%%</string>
-    <string name="lockscreen_charged">Заряжено.</string>
-    <string name="lockscreen_low_battery">Подключите зарядку.</string>
-    <string name="lockscreen_missing_sim_message_short">SIM card отсутствует.</string>
+    <string name="lockscreen_plugged_in">Зарядка, %d%%</string>
+    <string name="lockscreen_charged">Батарея полностью заряжена</string>
+    <string name="lockscreen_low_battery">Батарея почти разряжена</string>
+    <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
     <string name="lockscreen_missing_sim_instructions">Пожалуйста вставьте a SIM card.</string>
-    <string name="lockscreen_network_locked_message">Network locked</string>
-    <string name="lockscreen_sim_puk_locked_message">SIM card is PUK-locked.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">Please see the User Guide or contact Customer Care.</string>
-    <string name="lockscreen_sim_locked_message">SIM card is locked.</string>
-    <string name="lockscreen_instructions_when_pattern_disabled">Нажмите Menu для разблокировки.</string>
+    <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
+    <string name="lockscreen_sim_puk_locked_message">SIM-карта заблакирована с помощью PUK</string>
+    <string name="lockscreen_sim_puk_locked_instructions">Пожалуйста, посмотрите в руководстве пользователя или обратитесь в службу помощи</string>
+    <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
+    <string name="lockscreen_instructions_when_pattern_disabled">Нажмите МЕНЮ для разблокировки</string>
     <string name="global_actions_toggle_airplane_mode">Режим полета</string>
     <string name="global_actions_airplane_mode_on_status">Режим полета включен</string>
     <string name="global_actions_airplane_mode_off_status">Режим полета отключен</string>

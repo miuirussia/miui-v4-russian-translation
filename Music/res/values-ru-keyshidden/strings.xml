@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="create_playlist_create_text_prompt">Откройте клавиатуру, чтобы ввести название для нового плейлиста, или нажмите \"Сохранить\", чтобы сохранить плейлист под названием \"%s\".</string>
-    <string name="rename_playlist_same_prompt">Откройте клавиатуру, чтобы ввести новое название для плейлиста \"%s\".</string>
-    <string name="rename_playlist_diff_prompt">Откройте клавиатуру, чтобы ввести другое название для плейлиста \"%1$s\", или нажмите \"Сохранить\", чтобы сохранить плейлист под названием \"%2$s\".</string>
-</resources>

@@ -394,7 +394,7 @@
     <string name="lockscreen_charged">Батарея полностью заряжена</string>
     <string name="lockscreen_low_battery">Батарея почти разряжена</string>
     <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
-    <string name="lockscreen_missing_sim_instructions">Пожалуйста вставьте a SIM card.</string>
+    <string name="lockscreen_missing_sim_instructions">Пожалуйста вставьте SIM-карту</string>
     <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
     <string name="lockscreen_sim_puk_locked_message">SIM-карта заблакирована с помощью PUK</string>
     <string name="lockscreen_sim_puk_locked_instructions">Пожалуйста, посмотрите в руководстве пользователя или обратитесь в службу помощи</string>

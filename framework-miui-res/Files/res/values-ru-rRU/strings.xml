@@ -390,7 +390,7 @@
     <string name="select_all">Выбрать все</string>
     <string name="reverse_all">Очистить выделение</string>
     <string name="multi_select_title">Выбрано: %1$s</string>
-    <string name="lockscreen_plugged_in">Зарядка, %d%%</string>
+    <string name="lockscreen_plugged_in">Идет зарядка - %d%%</string>
     <string name="lockscreen_charged">Батарея полностью заряжена</string>
     <string name="lockscreen_low_battery">Батарея почти разряжена</string>
     <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>

@@ -6,6 +6,12 @@
     <item type="id" name="alertTitle">@android:id/alertTitle</item>
     <item type="id" name="action_bar_container">@android:id/action_bar_container</item>
     <item type="id" name="split_action_bar">@android:id/split_action_bar</item>
+    <item type="id" name="android_alwaysUse">@android:id/alwaysUse</item>
+    <item type="id" name="android_clearDefaultHint">@android:id/clearDefaultHint</item>
+    <item type="id" name="android_banner">@android:id/banner</item>
+    <item type="id" name="android_mount_button">@android:id/mount_button</item>
+    <item type="id" name="android_unmount_button">@android:id/unmount_button</item>
+    <item type="id" name="android_title">@android:id/title</item>
     <item type="id" name="banner">false</item>
     <item type="id" name="photo">false</item>
     <item type="id" name="image_star">false</item>

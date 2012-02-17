@@ -46,6 +46,7 @@
   <string name="operation_cancel">Отменить</string>
   <string name="operation_cancel_selectall">Отменить все</string>
   <string name="operation_copy">Копировать</string>
+  <string name="operation_copy_path">Копировать путь</string>
   <string name="operation_create_folder">Новая папка</string>
   <string name="operation_create_folder_message">Пожалуйста, введите имя папки</string>
   <string name="operation_delete">Удалить</string>
@@ -66,12 +67,15 @@
   <string name="operation_show_sys">Показать системные</string>
   <string name="operation_unfavorite">Удалить из Избранного</string>
   <string name="removed_favorite">Удалить из Избранного</string>
+  <string name="sd_card_available">Свободно: </string>
+  <string name="sd_card_name">SD-карта: </string>
   <string name="sd_folder">SD-карта</string>
   <string name="search_hint">Введите часть или все имя файла</string>
   <string name="search_title">Поиск документов</string>
   <string name="start_server">Запустить службу</string>
   <string name="stop_server">Остановить службу</string>
   <string name="storage_warning">Внешний носитель не доступен</string>
+  <string name="tab_category">Обзор</string>
   <string name="tab_remote">Обмен</string>
   <string name="tab_sd">SD-карта</string>
   <string name="wifi_state">Статус Wi-Fi</string>

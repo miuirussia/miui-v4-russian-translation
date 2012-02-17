@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="transient_notification">@android:layout/transient_notification</item>
+</resources>

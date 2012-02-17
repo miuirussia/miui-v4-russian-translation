@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="anim" name="slide_out_down">@android:anim/slide_out_down</item>
+    <item type="anim" name="slide_in_right">@android:anim/slide_in_right</item>
+    <item type="anim" name="slide_out_left">@android:anim/slide_out_left</item>
+    <item type="anim" name="push_up_in">@android:anim/push_up_in</item>
+    <item type="anim" name="push_down_out">@android:anim/push_down_out</item>
+    <item type="anim" name="slide_in_up">@android:anim/slide_in_up</item>
+</resources>

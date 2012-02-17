@@ -1538,11 +1538,13 @@
   <string name="sms_delivered_sound_dialog_title">Выбор звука при доставке сообщения адресату</string>
   <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
   <string name="haptic_feedback_level">Уровень вибрации</string>
-  <string name="access_control_title">Управление доступом</string>
+  <string name="privacy_protect_title">Управление доступом</string>
+  <string name="privacy_mode_enable_title">Включить режим конфиденциальности</string>
   <string name="ac_enable_title">Ограничение доступа</string>
   <string name="ac_set_apps_title">Скрыть приложения</string>
   <string name="ac_privacy_mode_title">Режим гостя</string>
   <string name="access_control_password_title">Ограничение доступа</string>
+  <string name="access_control_apps_title">Управление доступом к приложениям</string>
   <string name="access_control_need_to_unlock">Введите пароль для разблокировки</string>
   <string name="access_control_need_password">"%s защищено паролем
 "</string>
@@ -1550,4 +1552,34 @@
   <string name="access_control_recording_intro_header">Нарисуйте графический ключ:</string>
   <string name="access_control_app_entry_single">Запустить это приложение</string>
   <string name="access_control_app_entry_multiple">Запустить %s</string>
+  <string name="key_settings_title">Кнопки управления</string>
+  <string name="key_settings">Кнопки управления</string>
+  <string name="back_long_press">Кнопка НАЗАД</string>
+  <string name="enable_back_long_press">По долгому нажатию - завершить приложение</string>
+  <string name="back_long_press_timeout">"Задержка
+%1$.1f сек."</string>
+  <string name="power_key">Кнопка включения</string>
+  <string name="disable_power_key_long_press_under_keyguard">Отключить на экр. блок.</string>
+  <string name="media_button">Медиа-кнопки</string>
+  <string name="preferred_media_app_summary">Выберите свой плеер</string>
+  <string name="no_media_button_receiver">Нет</string>
+  <string name="camera_key_action_title">Кнопка MI</string>
+  <string name="camera_key_action_setting_title">Кнопка MI</string>
+  <string name="camera_key_action_category_title">Использовать, если приложение камеры не открывается</string>
+  <string name="camera_key_action_none_title">Нет действия</string>
+  <string name="camera_key_action_shortcut_title">Ярлык</string>
+  <string name="camera_key_action_toggle_title">Переключатель</string>
+  <string name="camera_key_action_app_title">Открыть приложение</string>
+  <string name="camera_key_action_shortcut_home">Вернуться домой</string>
+  <string name="camera_key_action_shortcut_screenshot">Создать скриншот</string>
+  <string name="camera_key_action_shortcut_search">Поиск</string>
+  <string name="camera_key_action_shortcut_call">Вызов</string>
+  <string name="camera_key_action_shortcut_wake">Блокировка устройства</string>
+  <string name="multi_touch_points_category_title">Точки мултитач</string>
+  <string name="multi_touch_points_preference">Перезагрузить для применения</string>
+  <string name="trackball_wake_title">Пробуждение от трекбола</string>
+  <string name="trackball_settings">Трекбол</string>
+  <string name="pref_volume_category_title">Кнопки громкости</string>
+  <string name="pref_volume_wake_title">Вкл. экрана при нажатии</string>
+  <string name="pref_volume_wake_summary">Нажатие увеличения / уменьшения громкости для просыпания устройства</string>
 </resources>

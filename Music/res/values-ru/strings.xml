@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="confirm">ОК</string>
@@ -139,7 +139,7 @@
   <string name="no_effect">Отключен</string>
   <string name="equalizer_delete">Удалить</string>
   <string name="equalizer_delete_success">Текущий эффект удален</string>
-  <string name="equalizer_enable">Включить эквалайзер</string>
+  <string name="equalizer_enable">Настройка эквалайзера</string>
   <string name="equalizer_save_success">Эффект сохранен</string>
   <string name="create_equalzier_create_text_prompt">Имя эффекта</string>
   <string name="new_equalizer_name_template">Пользовательский профиль %d</string>

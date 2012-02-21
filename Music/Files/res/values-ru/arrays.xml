@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="equalizer_presents">
-        <item>Normal</item>
-        <item>Classic</item>
-        <item>Dance</item>
-        <item>Folk</item>
-        <item>Heavy Metal</item>
-        <item>Hip-Hop</item>
-        <item>Jazz</item>
-        <item>Pop</item>
-        <item>Rock</item>
+        <item>Стандартная</item>
+        <item>Классика</item>
+        <item>Танцевальная</item>
+        <item>Народные п.</item>
+        <item>Хэви металл</item>
+        <item>Хип-Хоп</item>
+        <item>Джаз</item>
+        <item>Поп</item>
+        <item>Рок</item>
     </string-array>
     <string-array name="weeklist">
         <item>1 неделя</item>

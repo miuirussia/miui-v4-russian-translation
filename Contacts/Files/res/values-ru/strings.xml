@@ -544,9 +544,9 @@
     <string name="openDialKeyboard">Клавиатура</string>
     <string name="t9_search_guide">Введите номер телефона или найдите контакт с помощью T9</string>
     <string name="date_time_set">Настроить</string>
-  <string name="sim_no_contact">Нет контактов на SIM-карте</string>
-  <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
-  <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
+    <string name="sim_no_contact">Нет контактов на SIM-карте</string>
+    <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
+    <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
     <string name="empty_divider_title">Вы можете</string>
     <string name="noContactHelpTextAccountsInfo">Синхронизация контактов с Google, Exchange</string>
     <string name="sync_xiaomi_cloud_contacts">Восстановить из онлайна</string>
@@ -591,16 +591,20 @@
     <string name="preference_export">Экспорт</string>
     <string name="preference_others">Другое</string>
     <string name="wipe_data">Очистить данные</string>
-  <string name="check_unsynchronized_accounts">Частота обновления контактов</string>
-  <string name="frequency_three_days">Каждые 3 дня</string>
-  <string name="frequency_weekly">Каждую неделю</string>
-  <string name="frequency_none">Никогда</string>
-  <string name="dirty_contacts_notification_title">Вы хотите, синхронизировать контакты?</string>
-  <string name="dirty_contacts_notification_description">У вас есть %d не синхронизированных контактов</string>
-  <string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
-  <string name="remind_btn_not_remind">"Не напоминать"</string>
-  <string name="remind_btn_sync_now">Сейчас</string>
-  <string name="remind_btn_ignore">Позже</string>
-  <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
+    <string name="check_unsynchronized_accounts">Частота обновления контактов</string>
+    <string name="frequency_three_days">Каждые 3 дня</string>
+    <string name="frequency_weekly">Каждую неделю</string>
+    <string name="frequency_none">Никогда</string>
+    <string name="dirty_contacts_notification_title">Вы хотите, синхронизировать контакты?</string>
+    <string name="dirty_contacts_notification_description">У вас есть %d не синхронизированных контактов</string>
+    <string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
+    <string name="remind_btn_not_remind">Не напоминать</string>
+    <string name="remind_btn_sync_now">Сейчас</string>
+    <string name="remind_btn_ignore">Позже</string>
+  <string name="display_only_phones">Только с тел. номером</string>
+  <string name="raw_contact_list_title">"Этот контакт содержит %1$d не обработанных контактов
+Нажмите для выбора и редактирования контакта"</string>
+  <string name="raw_contact_account_label">Аккаунт: %1$s</string>
+    <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
     <string name="unkown_location_or_sp_number">Неизвестно</string>
 </resources>

@@ -388,6 +388,7 @@
     <string name="batch_delete_thread_confirm_dialog_message">Удалить %1$s цепочку(и)?</string>
     <string name="batch_deleting_progress_message">Удаление...</string>
     <string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
+  <string name="attach_subject">Тема</string>
     <string name="delete_subject">Удалить тему</string>
     <string name="messaging_intent_label">Сообщения</string>
     <string name="multi_select_title_conversation_init">Пожалуйста, выберите цепочки</string>
@@ -412,10 +413,17 @@
     <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
     <string name="add_timing">Время</string>
     <string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
-    <string name="date_timed_message_dialog">Дата:</string>
-    <string name="time_timed_message_dialog">Время:</string>
     <string name="will_send_at">Будет отправлено: %s</string>
     <string name="error_timed_msg">Cannot schedule a time before now</string>
     <string name="menu_timed_message">Timed Message</string>
+  <string name="to_send_wrapper">Сообщение запланировано на: %s</string>
+  <string name="group_message">Групповое сообщение</string>
+  <string name="close">Закрыть</string>
+  <string name="timed_message_expired_title">%d запланированных сообщений не отправлено</string>
+  <string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
+  <string name="timed_message_to">для</string>
+  <string name="timed_message_in_total">... (всего: %d)</string>
+    <string name="date_timed_message_dialog">Дата:</string>
+    <string name="time_timed_message_dialog">Время:</string>
     <string name="message_title">%1$s %2$s написал:</string>
 </resources>

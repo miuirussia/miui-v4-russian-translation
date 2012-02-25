@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
-  <string name="app_name">Резервное копирование</string>
+  <string name="app_name">Р. К.</string>
   <string name="local_app_name">Резервное копирование</string>
-  <string name="local_home_title">Локальный</string>
+  <string name="local_home_title">Локальное</string>
   <string name="button_backup">Создать резервную копию</string>
   <string name="start_backup">Начать</string>
   <string name="button_cancel">Отмена</string>
   <string name="backup_empty">Резервные копии не найдены</string>
   <string name="backup_items_sysdata_tailer">" - системные данные, "</string>
-  <string name="backup_items_app_tailer">" - данные приложений"</string>
+  <string name="backup_items_app_tailer">" - данные приложений "</string>
   <string name="backup_failed">Резервное копирование не удалось, попробуйте еще раз</string>
   <string name="backup_recently">(Последний)</string>
   <string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
@@ -21,7 +21,7 @@
   <string name="menu_patch_delete">Удаление резервных копий</string>
   <string name="delete">Удалить</string>
   <string name="cancel">Отмена</string>
-  <string name="delete_backup">Удалить резервную копию</string>
+  <string name="delete_backup">Внимание</string>
   <string name="delete_backup_confirm">" Резервная копия будет удалена"</string>
   <string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите...</string>
   <string name="backup_error">Ошибка</string>
@@ -59,14 +59,6 @@
   <string name="account_login">Войти в систему</string>
   <string name="miliao_account_login">Войти в MiTalk</string>
   <string name="miliao_account_guide">"MiTalk повышен до аккаунта Xiaomi
-
-
-
-
-
-
-
-
 Наслаждайтесь всеми сервисами Xiaomi"</string>
   <string name="auto_backup">Автоматически</string>
   <string name="contact_title">Контакты</string>
@@ -99,42 +91,18 @@
   <string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
   <string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажмите ОК</string>
   <string name="task_service_not_launched">Сервис не запустился, ждите!</string>
-  <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено
-
-
-
-
-
-
-
-
+  <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено.
 Нажмите кнопку OK, чтобы удалить эту резервную копию"</string>
-  <string name="task_cloud_backup_cancel_dialog">"Резервное копирование не было завершено
-
-
-
-
-
-
-
-
+  <string name="task_cloud_backup_cancel_dialog">"Резервное копирование не было завершено.
 Нажмите кнопку OK, чтобы отменить незавершенную задачу"</string>
   <string name="task_restore_cancel_dialog">"Вы собираетесь отменить операцию.
-
-
-
-
-
-
-
-
 Это может привести к потере данных!"</string>
   <string name="task_backup_cancel_progress">Остановка процесса...</string>
   <string name="task_restore_cancel_progress">Остановка процесса...</string>
   <string name="nothing_searched">Ничего не найдено</string>
   <string name="restore_counts">Восстановление:</string>
   <string name="service_stoped">Служба остановилась</string>
-  <string name="sc_network_unavailable">Ошибка соединения сети</string>
+  <string name="sc_network_unavailable">Сеть не доступна</string>
   <string name="sc_bad_request">Ошибочный запрос</string>
   <string name="sc_unaccess_password_file">Не хранить пароли сетей Wi-Fi</string>
   <string name="sc_service_unavailable">Возможно сервис недоступен</string>
@@ -143,12 +111,12 @@
   <string name="sc_precondition_failed">Ваш акккаунт Xiaomi не связан с любым адресом электронной почты</string>
   <string name="sc_internal_server_error">Внутренняя ошибка сервера</string>
   <string name="sc_others">Исключение программы</string>
-  <string name="succeed">Завершено успешно</string>
+  <string name="succeed">Успешно завершено</string>
   <string name="fail">Ошибка</string>
   <string name="button_return">Назад</string>
   <string name="button_next">Вперед</string>
   <string name="button_finish">Готово</string>
-  <string name="progress_backup_hint">"Создание резервной копии: "</string>
+  <string name="progress_backup_hint">"Создание резервной копии..."</string>
   <string name="cancel_backup">Отмена</string>
   <string name="restore_contact">Восстановление контактов</string>
   <string name="restore_contact_content">При восстановлении адресной книги может произойти дублирование контактов, продолжить?</string>
@@ -167,7 +135,6 @@
   <string name="auto_backup_choose">Выбранные элементы</string>
   <string name="auto_backup_choose_empty">Нет резервных копий</string>
   <string name="auto_backup_progress">"Выполнение автоматического резервного копирования
-
 Подождите, пожалуйста..."</string>
   <string name="auto_backup_interval_min">1 день</string>
   <string name="auto_backup_interval_max">30 дней</string>
@@ -188,60 +155,10 @@
   <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
   <string name="total_num">%d всего записей</string>
   <string name="cloud_restore_guide">"Нажмите кнопку Начать для восстановления данных
-
-
-
-
-
-
-
-
 Вы можете восстановить %s в Р.К."</string>
   <string name="import_from_xiaomi_account_hint1">"1. Включите телефон с контактами
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2. Установите MiTalk и войдите в него.
-
-
-
-
-
-
-
-
  http://www.miliao.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3. Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>
   <string name="import_from_xiaomi_account_hint2">Примечание: Перейдите к следующему шагу, если резервная копия уже существует</string>
   <string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для резервного копирования контактов на других устройствах</string>

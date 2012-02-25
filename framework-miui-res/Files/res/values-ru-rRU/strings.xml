@@ -5,14 +5,6 @@
     <string name="resourcebrowser_lable">Ресурсы</string>
     <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
     <string name="sdcard_status_changed_dialog_message">"Выход...
-
-
-
-
-
-
-
-
 Пожалуйста, перезапустите это приложение, чтобы обновить ресурсы"</string>
     <string name="resource_transparent_wallpaper">Прозрачный</string>
     <string name="resource_mute">Без звука</string>
@@ -29,7 +21,7 @@
     <string name="description_download">Скачано:</string>
     <string name="description_version">Версия:</string>
     <string name="description_file">Файл:</string>
-    <string name="resource_local">%1$s</string>
+    <string name="resource_local">%1$s (Телефон)</string>
     <string name="resource_online">%1$s (Интернет)</string>
     <string name="resource_title">Подробнее</string>
     <string name="resource_download">Скачать</string>
@@ -70,7 +62,7 @@
     <string name="sd_not_available_low_internal_storage">SD-карта не доступна и отсутствует внутреннее устройство хранения</string>
     <string name="sd_not_available_saved_to_internal_storage">Файл сохранен во внутреннюю память</string>
     <string name="unknown">Неизвестно</string>
-    <string name="private_num">Частный номер</string>
+    <string name="private_num">Скрытый номер</string>
     <string name="payphone">Таксофон</string>
     <string name="callNoAnswerTimeFormat">%s гудков</string>
     <string name="date_day">E</string>
@@ -373,19 +365,17 @@
     <string name="country_name_uz">Узбекистан</string>
     <string name="firewall_setting">Черный список</string>
     <string name="caller_info_name_delimiter">или</string>
-    <string name="phoneTypeMms">ММС</string>
-    <string name="first_back_long_press_title">Кнопка НАЗАД - Принудителное завершение приложений</string>
-    <string name="first_back_long_press_message">"Чтобы принудительно закрыть приложение использую кнопку НАЗАД, зайдите в:
-
- Настройки -> Система -> Кнопки
- 
- и включите Закрыть приложение при."</string>
-    <string name="force_exit_message">\"%1$s\" было закрыто</string>
+    <string name="phoneTypeMms">MMS</string>
+    <string name="first_back_long_press_title">Принудителное завершение приложений кнопкой НАЗАД</string>
+    <string name="first_back_long_press_message">"Чтобы принудительно закрывать приложения удержанием кнопки НАЗАД, зайдите в:
+Настройки -> Система -> Кнопки
+и включите Закрыть приложение при."</string>
+    <string name="force_exit_message">Приложение \"%1$s\" было закрыто</string>
     <string name="global_action_toggle_privacy_mode">Гость</string>
-    <string name="global_action_privacy_mode_on_status">Режим гостя: Включен</string>
+    <string name="global_action_privacy_mode_on_status">Режим гостя включен</string>
     <string name="global_action_privacy_mode_on_toast">Режим гостя включен - сообщения, журналы вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
     <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также вы не сможете редактировать рабочий стол</string>
-    <string name="global_action_privacy_mode_off_status">Режим гостя: Выключен</string>
+    <string name="global_action_privacy_mode_off_status">Режим гостя выключен</string>
     <string name="delete">Удалить</string>
     <string name="select_all">Выбрать все</string>
     <string name="reverse_all">Очистить выделение</string>
@@ -394,20 +384,20 @@
     <string name="lockscreen_charged">Батарея полностью заряжена</string>
     <string name="lockscreen_low_battery">Батарея почти разряжена</string>
     <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
-    <string name="lockscreen_missing_sim_instructions">Пожалуйста вставьте SIM-карту</string>
+    <string name="lockscreen_missing_sim_instructions">Пожалуйста, вставьте SIM-карту</string>
     <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
-    <string name="lockscreen_sim_puk_locked_message">SIM-карта заблакирована с помощью PUK</string>
+    <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью PUK</string>
     <string name="lockscreen_sim_puk_locked_instructions">Пожалуйста, посмотрите в руководстве пользователя или обратитесь в службу помощи</string>
     <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Нажмите МЕНЮ для разблокировки</string>
     <string name="global_actions_toggle_airplane_mode">Режим полета</string>
     <string name="global_actions_airplane_mode_on_status">Режим полета включен</string>
     <string name="global_actions_airplane_mode_off_status">Режим полета отключен</string>
-    <string name="global_action_power_off">Отключить питание</string>
-    <string name="factorytest_reboot">Перезагрузка</string>
-    <string name="silent_mode_silent">Режим без звука</string>
+    <string name="global_action_power_off">Выключить телефон</string>
+    <string name="factorytest_reboot">Перезагрузить телефон</string>
+    <string name="silent_mode_silent">Режим \"Без звука\"</string>
     <string name="silent_mode_vibrate">Режим вибрации</string>
     <string name="silent_mode_ring">Звук включен</string>
     <string name="ellipsis">...</string>
-    <string name="power_off">Отключение питания</string>
+    <string name="power_off">Отключение питания...</string>
 </resources>

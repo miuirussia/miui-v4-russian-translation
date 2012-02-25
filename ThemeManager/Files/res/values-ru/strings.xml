@@ -9,7 +9,7 @@
     <string name="backup_theme_dialog_ok">Сохранить</string>
     <string name="backup_theme_dialog_message">Резервное копирование текущей темы по пути /sdcard/MIUI/theme/backup/backup.mtz</string>
     <string name="backup_theme_progress_message">Резервное копирование, подождите…</string>
-    <string name="backup_theme_success_message">Резервное копирование успешно завершено.</string>
+    <string name="backup_theme_success_message">Резервное копирование успешно завершено</string>
     <string name="theme_description_title_default">По умолчанию</string>
     <string name="theme_description_title_customized">Настройка</string>
     <string name="component_category_title">Редактировать</string>
@@ -36,7 +36,7 @@
     <string name="theme_component_title_all">Темы</string>
     <string name="apply_theme_no_select_message">Пожалуйста, выберите модуль приложения!</string>
     <string name="apply_lockscreen_paper_tips">Работает не стандартный экран блокировки, новые обои на нем могут не смениться</string>
-    <string name="play_all_audio_effect">играть звуковой эффект (всего: %1$s)</string>
+    <string name="play_all_audio_effect">воспроизвести звуковой эффект (всего: %1$s)</string>
     <string name="theme_import">Импорт</string>
     <string name="theme_select_others">Прочее</string>
     <string name="third_party_pickers_activity_title">Установить %1$s</string>
@@ -51,7 +51,7 @@
     <string name="resource_fail_to_show">Тема не содержит соответствующий ресурс</string>
     <string name="new_format_convert">Преобразовать %s в новый формат</string>
     <string name="old_format_title">Старый формат тем .mtz</string>
-    <string name="old_format_fail">Преобразование .mtz в новый формат не удалось.</string>
+    <string name="old_format_fail">Преобразование .mtz в новый формат не удалось</string>
     <string name="old_format_convert_tip1">Тема не в новом формате, преобразование может занять некоторое время</string>
     <string name="old_format_convert_tip2">Ресурсы можно удалить и обновить до новой версии через загрузку</string>
 </resources>

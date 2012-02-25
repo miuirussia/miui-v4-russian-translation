@@ -108,15 +108,15 @@
     <item>TTLS</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
-    <item>Push button</item>
-    <item>PIN from peer device</item>
-    <item>PIN from this device</item>
+    <item>Кнопка подключеня</item>
+    <item>PIN с подключаемого устройства</item>
+    <item>PIN с этого устройства</item>
   </string-array>
   <string-array name="wifi_p2p_status">
-    <item>Connected</item>
-    <item>Invited</item>
-    <item>Unsuccessful</item>
-    <item>Available</item>
+    <item>Подключен</item>
+    <item>Приглашен</item>
+    <item>Неудачно</item>
+    <item>Доступен</item>
     <item>Out-of-range</item>
   </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
@@ -164,10 +164,10 @@
     <item>GTC</item>
   </string-array>
   <string-array name="wifi_network_setup">
-    <item>Off</item>
-    <item>Push button</item>
-    <item>PIN from access point</item>
-    <item>PIN from this device</item>
+    <item>Отключено</item>
+    <item>Нажатием кнопки</item>
+    <item>PIN с точки доступа</item>
+    <item>PIN с данного устройства</item>
   </string-array>
   <string-array name="wifi_ip_settings">
     <item>Автоматически (DHCP)</item>
@@ -178,13 +178,13 @@
     <item>Вручную</item>
   </string-array>
   <string-array name="emergency_tone_entries">
-    <item>Выключено</item>
+    <item>Отключено</item>
     <item>Сигнал</item>
     <item>Вибрация</item>
   </string-array>
   <string-array name="special_locale_names">
-    <item>Chinese (Simplified)</item>
-    <item>Chinese (Traditional)</item>
+    <item>Китайский (Упрощенный)</item>
+    <item>Китайский (Традиционный)</item>
   </string-array>
   <string-array name="apn_auth_entries">
     <item>Нет</item>
@@ -213,7 +213,7 @@
     <item>Автоматически</item>
   </string-array>
   <string-array name="silent_mode_entries">
-    <item>Выключено</item>
+    <item>Отключено</item>
     <item>Только вибрация</item>
     <item>Без звука</item>
   </string-array>
@@ -223,17 +223,17 @@
     <item>Длинный</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
-    <item>Never check</item>
-    <item>Check for DRM content only</item>
-    <item>Always check</item>
+    <item>Никогда не проверять</item>
+    <item>Проверять только для DRM содержимого</item>
+    <item>Проверять всегда</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
-    <item>Never use HDCP checking</item>
-    <item>Use HDCP checking for DRM content only</item>
-    <item>Always use HDCP checking</item>
+    <item>Никогда не использовать проверку HDCP</item>
+    <item>Использовать HDCP только для проверки DRM содержимого</item>
+    <item>Всегда использовать проверку HDCP</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
-    <item>Выкл.</item>
+    <item>Отключено</item>
     <item>0.5x</item>
     <item>1x</item>
     <item>1.5x</item>
@@ -242,7 +242,7 @@
     <item>10x</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
-    <item>Выкл.</item>
+    <item>Отключено</item>
     <item>0.5x</item>
     <item>1x</item>
     <item>1.5x</item>
@@ -251,12 +251,12 @@
     <item>10x</item>
   </string-array>
   <string-array name="app_process_limit_entries">
-    <item>Standard limit</item>
-    <item>No background processes</item>
-    <item>At most 1 process</item>
-    <item>At most 2 processes</item>
-    <item>At most 3 processes</item>
-    <item>At most 4 processes</item>
+    <item>Стандартное ограничение</item>
+    <item>Без фоновых процессов</item>
+    <item>Максимум 1 процесс</item>
+    <item>Максимум 2 процесса</item>
+    <item>Максимум 3 процесса</item>
+    <item>Максимум 4 процесса</item>
   </string-array>
   <string-array name="vpn_types">
     <item>PPTP</item>

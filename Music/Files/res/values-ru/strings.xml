@@ -64,7 +64,7 @@
   <string name="rename_artist_menu">Изменить исполнителя</string>
   <string name="playlist_deleted_message">Плейлист удален</string>
   <string name="playlist_renamed_message">Плейлист переименован</string>
-  <string name="recentlyadded_title">Добавить песни</string>
+  <string name="recentlyadded_title">Недавно добавленные песни</string>
   <string name="sdcard_missing_title">Нет SD-карты</string>
   <string name="sdcard_missing_title_nosdcard">Нет памяти</string>
   <string name="sdcard_missing_message">SD-карта не найдена</string>
@@ -79,7 +79,7 @@
   <string name="unknown_album_name">Неизвестный альбом</string>
   <string name="ringtone_menu">Установить на звонок</string>
   <string name="ringtone_menu_short">Установить на звонок</string>
-  <string name="ringtone_set">Песня %s установлена на звонок</string>
+  <string name="ringtone_set">Песня \"%s установлена\" на звонок</string>
   <string name="play_selection">Воспроизвести</string>
   <string name="add_to_playlist">Добавить песню в</string>
   <string name="add_to_favorite">Добавить в избранное</string>
@@ -104,12 +104,12 @@
   <string name="download_finished">Скачано</string>
   <string name="download_processing">Загрузить</string>
   <string name="download_batch_start">Начать загрузку всех</string>
-  <string name="delete_file_from_sdcard">Удалить файл с SD-карты?</string>
+  <string name="delete_file_from_sdcard">Песня будет удалена с SD-карты</string>
   <string name="menu_more">Еще</string>
-  <string name="online_search_hint">Поиск музыки в онлайн</string>
+  <string name="online_search_hint">Поиск музыки онлайн</string>
   <string name="load_category_failed">Не удалось получить список, нажмите Повторить</string>
   <string name="load_category_in_process">Получить список</string>
-  <string name="flow_save_confirm">Я знаю</string>
+  <string name="flow_save_confirm">ОК</string>
   <string name="continue_when_wifi_disconnect">В зависимости от ваших настроек, вы используете провайдера связи для Интернет музыки, если вы хотите, сэкономить трафик, вы можете изменить настройки</string>
   <string name="stop_when_wifi_disconnect">В случае потери соединения WiFi, для экономии траффика, автоматически будут пропущены все онлайн песни. Если вы хотите прослушать песни в интернете с помощью сети оператора, вы можете изменить настройки</string>
   <string name="donot_ask_me_again">Не спрашивать</string>
@@ -121,7 +121,7 @@
   <string name="search_failed_report">Нет похожих треков</string>
   <string name="record_count">Всего %d записей</string>
   <string name="search_history">Поиск записей</string>
-  <string name="clear_search_history">Очистка истории запросов</string>
+  <string name="clear_search_history">Очистить историю запросов</string>
   <string name="modify_meta">Изменить теги</string>
   <string name="id3_edit">Редактировать информацию</string>
   <string name="lyric_download">Скачать текст песни</string>
@@ -132,7 +132,7 @@
   <string name="lrc_select">Выберите текст</string>
   <string name="album_picker_not_found">Приложение Галерея не найдено</string>
   <string name="id3_edit_failed">Не удалось отредактировать ID3</string>
-  <string name="album_search_failed">Обложки альбома не найдены...</string>
+  <string name="album_search_failed">Обложки альбома не найдены</string>
   <string name="start_to_download_album">Скачивание обложки для ваших песен</string>
   <string name="download_all_album">Скачать все обложки альбомов</string>
   <string name="equalizer">Эквалайзер</string>
@@ -146,9 +146,9 @@
   <string name="custom">Вручную</string>
   <string name="lpa_off_hint">You need to close low-power audio play to enable equalizer, please set in Settings-&gt; System -&gt; Battery Settings. Your battery consumption will increase.</string>
   <string name="id3_modify_confirm_text">Сохранить</string>
-  <string name="id3_modify_confirm_check">Хотите сохранить теги?</string>
+  <string name="id3_modify_confirm_check">Записать новые теги в файл</string>
   <string name="modify_id3_for_list">Информация ID3 будет изменена</string>
-  <string name="modify_id3_for_selected">Будет изменена информация ID3 для выбранных песен</string>
+  <string name="modify_id3_for_selected">Информация ID3 будет изменена для выбранных песен</string>
   <string name="track_edit">Песня</string>
   <string name="artist_edit">Исп-ль</string>
   <string name="album_edit">Альбом</string>
@@ -169,7 +169,7 @@
   <string name="musicbrowserlabel">Музыка</string>
   <string name="mediaplaybacklabel">Музыка</string>
   <string name="mediapickerlabel">Музыка</string>
-  <string name="online_music">Интернет Музыка</string>
+  <string name="online_music">Интернет музыка</string>
   <string name="artists_title">Исполнители</string>
   <string name="albums_title">Альбомы</string>
   <string name="folders_title">Папки</string>
@@ -178,7 +178,7 @@
   <string name="online_track_count">Бесконечно</string>
   <string name="playlist_new">Создать новый плейлист</string>
   <string name="playlist_recently_added">Добавлено ранее</string>
-  <string name="playlist_nowplaying">Сейчас играет</string>
+  <string name="playlist_nowplaying">Сейчас проигрывается</string>
   <string name="playlist_favorite">Избранное</string>
   <string name="create_playlist_create_text_prompt">Название плейлиста</string>
   <string name="create_confirm">Подтвердить</string>
@@ -186,7 +186,7 @@
   <string name="picker_song_add">Добавить (%d)</string>
   <string name="add_tracks">Добавить</string>
   <string name="albumsongseparator">,</string>
-  <string name="filter_max">2 МБ</string>
-  <string name="filter_min">0 КБ</string>
+  <string name="filter_max">2 Мб</string>
+  <string name="filter_min">0 Кб</string>
   <string name="fast_scroll_alphabet">\#ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ</string>
 </resources>

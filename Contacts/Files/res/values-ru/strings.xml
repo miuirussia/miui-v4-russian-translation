@@ -118,58 +118,36 @@
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения. (Если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения.</string>
     <string name="noContactsHelpText">"Нет контактов для показа.
-
 Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
- 
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
- 
-Новый контакт: добавление контакта.
- 
-Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+ Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+ Новый контакт: добавление контакта.
+ Импорт/экспорт: импорт контактов с SIM- или SD-карты
 "</string>
     <string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
-
 Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
-
 Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-
 Фильтр контактов: настройка параметров показа контактов.
-
 Новый контакт: добавление контакта.
- 
-Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+ Импорт/экспорт: импорт контактов с SIM- или SD-карты
 "</string>
     <string name="noContactsNoSimHelpText">"Нет контактов для показа.
-
 Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
- 
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
- 
-Новый контакт: добавление контакта.
- 
-Импорт/экспорт: импорт контактов с SD-карты.
+ Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+ Новый контакт: добавление контакта.
+ Импорт/экспорт: импорт контактов с SD-карты
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
-
 Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
-
 Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-
 Фильтр контактов: настройка параметров показа контактов.
-
 Новый контакт: добавление контакта.
- 
-Импорт/экспорт: импорт контактов с SD-карты.
+ Импорт/экспорт: импорт контактов с SD-карты
 "</string>
     <string name="noFavoritesHelpText">"У вас нет избранных контактов.
-
 Чтобы сделать контакт избранным,
-
         нажмите вкладку Контакты;
- 
 нажмите контакт, который нужно сделать избранным;
- 
-нажмите звездочку возле имени контакта.
+нажмите звездочку возле имени контакта
 "</string>
     <string name="liveFolder_all_label">Все контакты</string>
     <string name="liveFolder_favorites_label">Отмеченый</string>
@@ -205,8 +183,8 @@
     <string name="no_sdcard_message">SD-карта не обнаружена.</string>
     <string name="searching_vcard_title">Поиск vCard</string>
     <string name="import_from_sim">Импортировать с SIM-карты</string>
-    <string name="import_from_sdcard">Импорт из накопителя</string>
-    <string name="export_to_sdcard">Экспорт на накопитель</string>
+    <string name="import_from_sdcard">Импорт с SD-карты</string>
+    <string name="export_to_sdcard">Экспорт на SD-карту</string>
     <string name="share_visible_contacts">Передать видимые контакты</string>
     <string name="import_one_vcard_string">Импорт одного файла VCard</string>
     <string name="import_multiple_vcard_string">Импорт нескольких файлов vCard</string>
@@ -215,10 +193,10 @@
     <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
     <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s</string>
     <string name="fail_reason_io_error">Ошибка ввода-вывода</string>
-    <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой.</string>
+    <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой</string>
     <string name="fail_reason_not_supported">Формат не поддерживается.</string>
-    <string name="vcard_import_failed">Не удалось импортировать данные vCard.</string>
-    <string name="import_failure_no_vcard_file">На SD-карте нет файлов VCard.</string>
+    <string name="vcard_import_failed">Не удалось импортировать данные vCard</string>
+    <string name="import_failure_no_vcard_file">На SD-карте нет файлов VCard</string>
     <string name="fail_reason_unknown">Неизвестная ошибка</string>
     <string name="select_vcard_title">Выбор файла vCard</string>
     <string name="caching_vcard_title">Кэширование</string>
@@ -240,16 +218,16 @@
     <string name="exporting_contact_failed_title">Сбой экспорта</string>
     <string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
 Причина: %s"</string>
-    <string name="fail_reason_no_exportable_contact">Нет контактов для экспорта.</string>
-    <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте.</string>
+    <string name="fail_reason_no_exportable_contact">Нет контактов для экспорта</string>
+    <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте</string>
     <string name="fail_reason_too_long_filename">Слишком длинное название: %s.</string>
-    <string name="exporting_vcard_finished_title">Экспорт файла \"%s\" завершен.</string>
-    <string name="exporting_vcard_canceled_title">Экспорт файла \"%s\" отменен.</string>
+    <string name="exporting_vcard_finished_title">Экспорт файла \"%s\" завершен</string>
+    <string name="exporting_vcard_canceled_title">Экспорт файла \"%s\" отменен</string>
     <string name="exporting_contact_list_title">Экспорт данных контакта</string>
-    <string name="exporting_contact_list_message">Контактные данные экспортируются в файл \"%s\".</string>
+    <string name="exporting_contact_list_message">Контактные данные экспортируются в файл \"%s\"</string>
     <string name="fail_reason_could_not_initialize_exporter">Не удалось запустить функцию экспорта. Причина: %s</string>
     <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте. Причина: %s</string>
-    <string name="composer_failed_to_get_database_infomation">База данных недоступна.</string>
+    <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
     <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
     <string name="composer_not_initialized">Сбой при запуске редактора vCard.</string>
     <string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть файл \"%s\". Причина: %s</string>
@@ -262,7 +240,7 @@
     <string name="call_disambig_title">Вызов</string>
     <string name="sms_disambig_title">Отправить SMS с помощью</string>
     <string name="make_primary">Запомнить выбранное</string>
-    <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении.</string>
+    <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
     <string name="missing_name">Имя не указано</string>
     <string name="menu_accounts">Аккаунты</string>
     <string name="menu_contacts_filter">Фильтр контактов</string>
@@ -376,7 +354,7 @@
     <string name="contact_read_only">Здесь доступно только для чтения.</string>
     <string name="no_contact_details">Нет других данных об этом контакте.</string>
     <string name="group_read_only">Здесь доступно только для чтения.</string>
-    <string name="display_options_sort_list_by">Упорядочить контакты</string>
+    <string name="display_options_sort_list_by">Сортировка контактов</string>
     <string name="display_options_sort_by_given_name">По имени</string>
     <string name="display_options_sort_by_family_name">По фамилии</string>
     <string name="display_options_view_names_as">Показывать в контактах</string>
@@ -390,9 +368,7 @@
     <string name="locale_change_in_progress">Список контактов обновляется после смены языка интерфейса.</string>
     <string name="upgrade_in_progress">Список контактов обновляется...</string>
     <string name="upgrade_out_of_memory">"Контакты обновляются.
-
 Для этого требуется около %s МБ внутренней памяти.
-
 Выберите подходящую опцию:"</string>
     <string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
     <string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>
@@ -452,7 +428,7 @@
     <string name="clear_default">Удалить настройки по умолчанию</string>
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="cancel_confirmation_dialog_title">Отмена изменений</string>
-    <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
+    <string name="cancel_confirmation_dialog_message">Изменения не будут сохранены</string>
     <string name="profile_display_name">Настроить профиль</string>
     <string name="enter_contact_name">Имя контакта</string>
     <string name="view_updates_from_group">Обновления</string>
@@ -464,10 +440,10 @@
     <string name="voicemail_fetching_timout">Не удалось получить голосовую почту.</string>
     <string name="call_log_new_header">Новые</string>
     <string name="call_log_old_header">Раньше</string>
-    <string name="voicemail_status_voicemail_not_available">Не удалось подключиться к серверу голосовой почты.</string>
-    <string name="voicemail_status_messages_waiting">Не удалось подключиться к серверу. Есть новые сообщения.</string>
-    <string name="voicemail_status_configure_voicemail">Настройте голосовую почту.</string>
-    <string name="voicemail_status_audio_not_available">Аудио недоступно.</string>
+    <string name="voicemail_status_voicemail_not_available">Не удалось подключиться к серверу голосовой почты</string>
+    <string name="voicemail_status_messages_waiting">Не удалось подключиться к серверу. Есть новые сообщения</string>
+    <string name="voicemail_status_configure_voicemail">Настройте голосовую почту</string>
+    <string name="voicemail_status_audio_not_available">Аудио недоступно</string>
     <string name="voicemail_status_action_configure">Настройка</string>
     <string name="voicemail_status_action_call_server">Получить почту</string>
     <string name="voicemail_speed_slowest">Минимальная скорость</string>
@@ -498,7 +474,6 @@
     <string name="local_profile_title">Мой профиль</string>
     <string name="external_profile_title">Мой профиль %1$s</string>
     <string name="no_account_prompt">"Подключите Контакты к аккаунту Google, чтобы:
-
 • Всегда иметь под рукой обновленные данные – на любом устройстве.
 • Синхронизировать все контакты – вы никогда не потеряете их."</string>
     <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>

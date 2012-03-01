@@ -74,7 +74,7 @@
     <string name="failed_to_add_media">Невозможно добавить этот объект (%1$s)</string>
     <string name="failed_to_resize_image">Не удалось изменить размер рисунка</string>
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера.</string>
-    <string name="forward_prefix">"Fwd: "</string>
+    <string name="forward_prefix">"От: "</string>
     <string name="discard_message">Отменить</string>
     <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один реальный получатель.</string>
     <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
@@ -224,9 +224,9 @@
     <string name="sms_full_body">Память переполнена. Чтобы сохранить новые сообщения, удалите несколько старых.</string>
     <string name="sms_rejected_title">Сообщение SMS отклонено</string>
     <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
-    <string name="type_audio">аудио</string>
-    <string name="type_picture">картинка</string>
-    <string name="type_video">видео</string>
+    <string name="type_audio">Аудиозапись</string>
+    <string name="type_picture">Изображение</string>
+    <string name="type_video">Видеозапись</string>
     <string name="confirm">Подтвердить</string>
     <string name="message_send_read_report">Будет отправлен отчет о прочтении</string>
     <string name="message_queued">Сервис недоступен. Мы попробуем отправить сообщение позже</string>
@@ -259,7 +259,7 @@
     <string name="class_0_message_activity">Сообщение класса 0</string>
     <string name="search_label">Сообщения</string>
     <string name="search_hint">Поиск сообщений</string>
-    <string name="search">SMS/MMS</string>
+    <string name="search">СМС/MMS</string>
     <string name="search_setting_description">Текст в сообщениях</string>
     <string name="search_empty">Ничего не найдено</string>
     <string name="search_history">Результатов для \"%2$s\": %1$s</string>
@@ -310,12 +310,12 @@
     <string name="send_to_index_contact">Отправлено %1$s из %2$s...</string>
     <string name="message_received">Доставлено</string>
     <string name="message_failed">Ошибка отправки</string>
-    <string name="message_pending">отправка</string>
+    <string name="message_pending">Отправка</string>
     <string name="message_readed">Прочитано</string>
     <string name="message_rejected">Отклонено</string>
     <string name="resent_message">Повторить</string>
     <string name="group_resend_message">Переслать(%d)</string>
-    <string name="nosend_message">не отправлено</string>
+    <string name="nosend_message">Не отправлено</string>
     <string name="group_message_failed_title">Не удалось отправить %d, повторить попытку?</string>
     <string name="context_menu_view_mms">Просмотр MMS</string>
     <string name="context_menu_dial">Вызов</string>
@@ -414,8 +414,8 @@
     <string name="add_timing">Время</string>
     <string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
     <string name="will_send_at">Будет отправлено: %s</string>
-    <string name="error_timed_msg">Cannot schedule a time before now</string>
-    <string name="menu_timed_message">Timed Message</string>
+    <string name="error_timed_msg">Невозможно запланировать время ранее текущего</string>
+    <string name="menu_timed_message">Запланированное сообщение</string>
   <string name="to_send_wrapper">Сообщение запланировано на: %s</string>
   <string name="group_message">Групповое сообщение</string>
   <string name="close">Закрыть</string>

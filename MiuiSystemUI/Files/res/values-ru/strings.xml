@@ -14,8 +14,8 @@
     <string name="battery_low_title">Подключите зарядное устройство</string>
     <string name="battery_low_subtitle">Батарея разряжена</string>
     <string name="battery_low_percent_format">Осталось: %d%%</string>
-    <string name="invalid_charger">"Зарядка через порт USB не поддерживается.
-Используйте только зарядное устройство из комплекта поставки"</string>
+    <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
+Используйте зарядное устройство из комплекта поставки"</string>
     <string name="battery_low_why">Статистика</string>
     <string name="status_bar_settings_settings_button">Настройки</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
@@ -49,7 +49,7 @@
     <string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
     <string name="screenshot_failed_title">Не удалось сохранить скриншот</string>
     <string name="screenshot_failed_text">Не удалось сохранить скриншот. Возможно, накопители заняты</string>
-    <string name="usb_preference_title">Параметры передачи через USB</string>
+    <string name="usb_preference_title">Параметры передачи данных по USB</string>
     <string name="use_mtp_button_title">Подключить как мультимедийный проигрыватель (MTP)</string>
     <string name="use_ptp_button_title">Установить как камеру (PTP)</string>
     <string name="installer_cd_button_title">Установить приложение</string>
@@ -105,7 +105,7 @@
     <string name="accessibility_gps_acquiring">Установление связи с GPS</string>
     <string name="accessibility_tty_enabled">Телетайп включен</string>
     <string name="accessibility_ringer_vibrate">Вибровызов</string>
-    <string name="accessibility_ringer_silent">Беззвучный режим</string>
+    <string name="accessibility_ringer_silent">Режим "Без звука"</string>
     <string name="accessibility_recents_item_dismissed">Приложение \"%s\" удалено из списка</string>
     <string name="data_usage_disabled_dialog_3g_title">Передача данных по каналам 2G и 3G отключена</string>
     <string name="data_usage_disabled_dialog_4g_title">Передача данных по каналу 4G отключена</string>
@@ -128,7 +128,7 @@
     <string name="usb_mode_notification">Режим накопителя</string>
     <string name="usb_mode_dont_ask">Не спрашивать в следующий раз</string>
     <string name="usb_mode_mount_storage_title">Хотите включить режим накопителя?</string>
-    <string name="mount_storage">Включить</string>
+    <string name="mount_storage">Подключить как диск</string>
     <string name="dismount_storage">Только зарядка</string>
     <string name="move_data_to_sdcard_title">Перенос данных на SD-карту</string>
     <string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше внутренней памяти</string>

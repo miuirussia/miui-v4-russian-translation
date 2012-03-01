@@ -49,7 +49,7 @@
     <string name="sort_by_not_defined">По порядку</string>
     <string name="sort_by_frequency">По популярности</string>
     <string name="sort_by_abc">По имени</string>
-    <string name="encryption">Шифрование</string>
+    <string name="encryption">Зашифрование</string>
     <string name="default_folder_title_tools">Инструменты</string>
     <string name="default_folder_title_recommend">Рекомендуемые</string>
     <string name="preferences_title">Параметры рабочего стола</string>
@@ -59,7 +59,7 @@
     <string name="pref_render_in_truecolor_title">Качественные цвета</string>
     <string name="pref_render_in_truecolor_summary">Включите, чтобы улучшить качество цветов</string>
     <string name="pref_enable_drawing_cache_title">Кэш Графики</string>
-    <string name="pref_enable_drawing_cache_summary">"Включение этой опции позволит высвободить больше памяти 
+    <string name="pref_enable_drawing_cache_summary">"Включение этой опции позволит освободить больше памяти 
 , но это снизит поток"</string>
     <string name="pref_icon_shadow_title">Тень от значков</string>
     <string name="pref_icon_shadow_summary">Включение и выключение теней от значков</string>

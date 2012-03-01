@@ -29,7 +29,7 @@
         <item>30 минут</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Выкл.</item>
+        <item>Отключено</item>
         <item>5 минут</item>
         <item>10 минут</item>
         <item>15 минут</item>

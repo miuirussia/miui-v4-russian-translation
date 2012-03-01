@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Фильтр</string>
-    <string name="firewall_settings_tab_title">Фильтр</string>
+    <string name="app_name">Антиспам</string>
+    <string name="firewall_settings_tab_title">Антиспам</string>
     <string name="black_white_list_tab_title">Списки</string>
     <string name="call_log_tab_title">Звонки</string>
     <string name="mms_log_tab_title">Сообщения</string>
@@ -74,7 +74,7 @@
     <string name="fw_ms_muted">Сообщение беззвучно</string>
     <string name="fw_ms_rejected">Сообщение заблокировано</string>
     <string name="fw_ms_filtered">Сообщение отфильтровано</string>
-    <string name="fw_ms_imported">Импортируются СМС</string>
+    <string name="fw_ms_imported">Импортируются SMS</string>
     <string name="fw_keyword_list">Список фильтрации</string>
     <string name="fw_keyword_list_hint">Список фильрации сообщений по шаблонам</string>
     <string name="menu_edit">Изменить</string>

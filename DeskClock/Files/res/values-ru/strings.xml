@@ -11,7 +11,7 @@
     <string name="delete_alarm">Удалить будильник</string>
     <string name="enable_alarm">Включить будильник</string>
     <string name="disable_alarm">Выключить будильник</string>
-    <string name="enable_disable_alarm">Вкл. или Выкл. будильника</string>
+    <string name="enable_disable_alarm">Включение или отключение будильника</string>
     <string name="delete_alarm_confirm">Удалить будильник?</string>
     <string name="show_clock">Показать часы</string>
     <string name="hide_clock">Спрятать часы</string>
@@ -43,7 +43,7 @@
     <string name="snooze_duration_title">Интервал повтора сигнала</string>
     <string name="auto_silence_title">Автовыключение</string>
     <string name="auto_silence_summary">Сигнал отключится через %d мин.</string>
-    <string name="auto_silence_never">Выкл.</string>
+    <string name="auto_silence_never">Отключено</string>
     <string name="done">Готово</string>
     <string name="revert">Отмена</string>
     <string name="delete">Удалить</string>

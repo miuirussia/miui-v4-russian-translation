@@ -30,7 +30,7 @@
     <string name="deny">Отказать</string>
     <string name="set">Установить</string>
     <string name="remember">Запомнить</string>
-    <string name="remember_disabled">Запоминание выключено пока программа su не обновлена</string>
+    <string name="remember_disabled">Запоминание отключено, пока программа su не обновлена</string>
     <string name="request">%1$s как %2$s (uid: %3$d)</string>
     <string name="unknown">Неизвестное имя</string>
     <string name="allowed">Допускается</string>

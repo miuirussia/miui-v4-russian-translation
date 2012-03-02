@@ -25,8 +25,8 @@
     <string name="pref_camera_id_entry_back">Задняя</string>
     <string name="pref_camera_id_entry_front">Передняя</string>
     <string name="pref_camera_recordlocation_title">Геотеги</string>
-    <string name="pref_camera_recordlocation_entry_off">Выкл.</string>
-    <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
+    <string name="pref_camera_recordlocation_entry_off">Отключено</string>
+    <string name="pref_camera_recordlocation_entry_on">Включено</string>
     <string name="pref_video_quality_title">Качество видео</string>
     <string name="pref_video_time_lapse_frame_interval_title">Замедление</string>
     <string name="pref_camera_settings_category">Настройки камеры</string>
@@ -38,8 +38,8 @@
     <string name="pref_camera_focusmode_entry_macro">Макро</string>
     <string name="pref_camera_flashmode_title">Режим вспышки</string>
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
-    <string name="pref_camera_flashmode_entry_on">Вкл.</string>
-    <string name="pref_camera_flashmode_entry_off">Выкл.</string>
+    <string name="pref_camera_flashmode_entry_on">Включено</string>
+    <string name="pref_camera_flashmode_entry_off">Отключено</string>
     <string name="pref_camera_whitebalance_title">Баланс белого</string>
     <string name="pref_camera_whitebalance_entry_auto">Авто</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Лампа накаливания</string>

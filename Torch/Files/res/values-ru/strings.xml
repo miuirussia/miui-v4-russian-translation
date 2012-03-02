@@ -14,13 +14,13 @@
     <string name="license">"Оригинальный код программы взят с телефона Nexus One от Ben Buxton, реализовано на правах GPL, v3.
 http://n1torch.googlecode.com/
 
-Thanks to David Prieto for new UI design.
+Спасибо Дэвиду Прието (David Prieto) за новый дизайн.
 
-Modified for CyanogenMod by Steve Kondik.
+Изменено для CyanogenMod Стивом Кондик (Steve Kondik).
 
 "</string>
     <string name="warning_label">Осторожно</string>
-    <string name="brightwarn">"Полная яркость успешно тестировалась на 30 минутах, но очень нагревается, и начинает мигать (временно) на 45 минутах. Длительныые операции приведут к непредсказуемым последствиям.
+    <string name="brightwarn">"Полная яркость успешно тестировалась на 30 минутах, но очень нагревается, и начинает мигать (временно) на 45 минутах. Длительные операции приведут к непредсказуемым последствиям.
 
 Виджеты пока не поддерживаются.
 
@@ -29,7 +29,7 @@ Modified for CyanogenMod by Steve Kondik.
     <string name="brightwarn_negative">Нет, спасибо</string>
     <string name="brightwarn_accept">Принять</string>
     <string name="label_on">Включено</string>
-    <string name="label_off">Выключено</string>
+    <string name="label_off">Отключено</string>
     <string name="label_high">Высокая яркость</string>
     <string name="label_strobe">Стробоскоп</string>
     <string name="label_frequency">Частота: (сдвиньте, чтобы изменить)</string>

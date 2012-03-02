@@ -761,8 +761,8 @@
 Перейдите на страницу "<b>google.com/accounts/recovery</b></string>
     <string name="lockscreen_glogin_checking_password">Проверка...</string>
     <string name="lockscreen_unlock_label">Разблокировать</string>
-    <string name="lockscreen_sound_on_label">Вкл. звук</string>
-    <string name="lockscreen_sound_off_label">Откл. звук</string>
+    <string name="lockscreen_sound_on_label">Включить звук</string>
+    <string name="lockscreen_sound_off_label">Отключить звук</string>
     <string name="lockscreen_access_pattern_start">Ввод графического ключа</string>
     <string name="lockscreen_access_pattern_cleared">Графический ключ сброшен</string>
     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
@@ -1036,7 +1036,7 @@
 для аккаунта %s"</string>
     <string name="input_method_binding_label">Способ ввода</string>
     <string name="sync_binding_label">Синхр.</string>
-    <string name="accessibility_binding_label">Спец. возможности</string>
+    <string name="accessibility_binding_label">Специальные возможности</string>
     <string name="wallpaper_binding_label">Фоновый рисунок</string>
     <string name="chooser_wallpaper">Сменить обои</string>
     <string name="vpn_title">Сеть VPN активна.</string>
@@ -1044,7 +1044,7 @@
     <string name="vpn_text">Нажмите здесь, чтобы изменить настройки сети.</string>
     <string name="vpn_text_long">Подключено: \"%s\". Нажмите здесь, чтобы изменить настройки сети.</string>
     <string name="upload_file">Выбрать файл</string>
-    <string name="no_file_chosen">Не выбран файл</string>
+    <string name="no_file_chosen">Файл не выбран</string>
     <string name="reset">Сбросить</string>
     <string name="submit">Отправить</string>
     <string name="car_mode_disable_notification_title">Включен режим \"Штурман\"</string>
@@ -1107,7 +1107,7 @@
     <string name="radiobutton_selected">выбрано</string>
     <string name="radiobutton_not_selected">не выбрано</string>
     <string name="switch_on">Включено</string>
-    <string name="switch_off">Выкл.</string>
+    <string name="switch_off">Отключено</string>
     <string name="togglebutton_pressed">нажато</string>
     <string name="togglebutton_not_pressed">не нажато</string>
     <string name="keyboardview_keycode_alt">Клавиша ALT</string>

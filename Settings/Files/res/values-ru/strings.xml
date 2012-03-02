@@ -425,7 +425,7 @@
   <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_on_summary">Можно обмениваться контентом по NFC</string>
-  <string name="android_beam_off_summary">Выключено</string>
+  <string name="android_beam_off_summary">Отключено</string>
   <string name="android_beam_disabled_summary">Недоступно, так как отключена связь малого радиуса действия</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_explained">"Когда включена эта функция, данные приложений можно передавать на другие устройства с поддержкой связи малого радиуса действия. Например, отправлять страницы браузера, видео YouTube, контакты и другие сведения.
@@ -634,9 +634,9 @@
   <string name="screensaver_component_title">Заставка</string>
   <string name="screensaver_timeout_title">Время до активации</string>
   <string name="screensaver_timeout_summary">%1$s</string>
-  <string name="screensaver_timeout_zero_summary">Выкл.</string>
+  <string name="screensaver_timeout_zero_summary">Отключено</string>
   <string name="screensaver_test">Попробовать</string>
-  <string name="screensaver_activate_on_dock_title">Вкл. в док-станции</string>
+  <string name="screensaver_activate_on_dock_title">Включить в док-станции</string>
   <string name="automatic_brightness">Автонастройка</string>
   <string name="title_font_size">Размер шрифта</string>
   <string name="summary_font_size">%1$s</string>
@@ -763,8 +763,8 @@
   <string name="apn_protocol">Протокол APN</string>
   <string name="apn_roaming_protocol">APN для роуминга</string>
   <string name="carrier_enabled">Включить/выключить APN</string>
-  <string name="carrier_enabled_summaryOn">APN вкл.</string>
-  <string name="carrier_enabled_summaryOff">APN выкл.</string>
+  <string name="carrier_enabled_summaryOn">APN включен</string>
+  <string name="carrier_enabled_summaryOff">APN выключен</string>
   <string name="bearer">Владелец</string>
   <string name="menu_delete">Удалить APN</string>
   <string name="menu_new">Новая точка доступа</string>
@@ -1120,8 +1120,8 @@
   <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
   <string name="accessibility_menu_item_settings">Настройки</string>
   <string name="accessibility_menu_item_tutorial">Руководство</string>
-  <string name="accessibility_service_state_on">Вкл.</string>
-  <string name="accessibility_service_state_off">Выключено</string>
+  <string name="accessibility_service_state_on">Включено</string>
+  <string name="accessibility_service_state_off">Отключено</string>
   <string name="accessibility_script_injection_allowed">Разрешена</string>
   <string name="accessibility_script_injection_disallowed">Запрещена</string>
   <string name="accessibility_script_injection_button_allow">Разрешить</string>
@@ -1148,7 +1148,7 @@
   <string name="battery_stats_duration">%1$s с момента отключения от питания</string>
   <string name="battery_stats_charging_label">Идет зарядка</string>
   <string name="battery_stats_screen_on_label">Экран включен</string>
-  <string name="battery_stats_gps_on_label">GPS вкл.</string>
+  <string name="battery_stats_gps_on_label">GPS включен</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_stats_wake_lock_label">Режим бодрствования</string>
   <string name="battery_stats_phone_signal_label">Уровень сигнала моб. сети</string>
@@ -1240,7 +1240,7 @@
   <string name="tts_engine_security_warning">Данная система синтеза речи может записывать произносимые слова, включая личные данные, такие как пароли и номера кредитных карт. Это осуществляет система %s. Разрешить использование этой системы синтеза речи?</string>
   <string name="tts_engines_section">Системы</string>
   <string name="tts_engine_name_settings">Настройки %s</string>
-  <string name="tts_engine_name_is_enabled_summary">%s вкл.</string>
+  <string name="tts_engine_name_is_enabled_summary">%s включен</string>
   <string name="tts_engine_name_is_disabled_summary">%s: отключено</string>
   <string name="tts_engine_settings_section">Настройки синтеза</string>
   <string name="tts_engine_settings_title">Настройки %s</string>
@@ -1338,14 +1338,14 @@
   <string name="wifi_setup_description_connected">"Нажмите Далее для продолжения установки.
 
 Нажмите Назад для подключения к другой сети Wi-Fi."</string>
-  <string name="time_zone_auto_stub">Select Time Zone</string>
+  <string name="time_zone_auto_stub">Выбрать временную зону</string>
   <string name="accessibility_sync_enabled">Синхронизация включена</string>
   <string name="accessibility_sync_disabled">Синхронизация отключена</string>
   <string name="accessibility_sync_error">Ошибка синхронизации.</string>
   <string name="account_sync_settings_title">Настройки синхронизации</string>
   <string name="sync_is_failing">Проблемы с синхронизацией. Скоро все заработает.</string>
   <string name="add_account_label">Добавить аккаунт</string>
-  <string name="xiaomi_account">Xiaomi Account</string>
+  <string name="xiaomi_account">Аккаунт Xiaomi</string>
   <string name="background_data">Фоновый режим</string>
   <string name="background_data_summary">Синхронизация, отправка и получение данных доступны всегда</string>
   <string name="background_data_dialog_title">Откл. фоновый режим?</string>
@@ -1436,9 +1436,9 @@
   <string name="data_usage_tab_mobile">Мобильный</string>
   <string name="data_usage_tab_4g">Трафик 4G</string>
   <string name="data_usage_tab_3g">2G/3G</string>
-  <string name="data_usage_list_mobile">моб. сети</string>
+  <string name="data_usage_list_mobile">Мобильные сети</string>
   <string name="data_usage_list_none">нет</string>
-  <string name="data_usage_enable_mobile">Моб. трафик</string>
+  <string name="data_usage_enable_mobile">Мобильный трафик</string>
   <string name="data_usage_enable_3g">Передача данных по сетям 2G/3G</string>
   <string name="data_usage_enable_4g">Передача данных 4G</string>
   <string name="data_usage_app_settings">Настройки приложения</string>
@@ -1446,7 +1446,7 @@
   <string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей. Использовать Wi-Fi.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика.</string>
   <string name="data_usage_app_restrict_dialog_title">Ограничение фонового режима</string>
-  <string name="data_usage_app_restrict_dialog">"Если нет доступа к Wi-Fi, эта функция может приостановить приложения, использующие фоновый режим обмена данными.
+  <string name="data_usage_app_restrict_dialog">"Если отсутствует доступ к Wi-Fi, функция может приостановить приложения, использующие фоновый режим обмена данными.
 
 Более подходящие параметры можно найти в настройках этих приложений."</string>
   <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
@@ -1559,7 +1559,7 @@
   <string name="back_long_press_timeout">"Задержка
 %1$.1f сек."</string>
   <string name="power_key">Кнопка включения</string>
-  <string name="disable_power_key_long_press_under_keyguard">Отключить на экр. блок.</string>
+  <string name="disable_power_key_long_press_under_keyguard">Отключить на экране блокировки</string>
   <string name="media_button">Медиа-кнопки</string>
   <string name="preferred_media_app_summary">Выберите свой плеер</string>
   <string name="no_media_button_receiver">Нет</string>
@@ -1580,6 +1580,6 @@
   <string name="trackball_wake_title">Пробуждение от трекбола</string>
   <string name="trackball_settings">Трекбол</string>
   <string name="pref_volume_category_title">Кнопки громкости</string>
-  <string name="pref_volume_wake_title">Вкл. экрана при нажатии</string>
+  <string name="pref_volume_wake_title">Включение экрана при нажатии</string>
   <string name="pref_volume_wake_summary">Нажатие увеличения / уменьшения громкости для просыпания устройства</string>
 </resources>

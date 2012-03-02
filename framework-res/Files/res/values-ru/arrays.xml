@@ -43,4 +43,10 @@
         <item>Другое</item>
         <item>Создать свой ярлык</item>
     </string-array>
+        <string-array name="four_way_reboot">
+        <item>Нормально</item>
+        <item>Быстро</item>
+        <item>Загрузчик</item>
+        <item>Recovery</item>
+    </string-array>
 </resources>

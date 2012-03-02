@@ -49,7 +49,7 @@
     <string name="sort_by_not_defined">По порядку</string>
     <string name="sort_by_frequency">По популярности</string>
     <string name="sort_by_abc">По имени</string>
-    <string name="encryption">Зашифрование</string>
+    <string name="encryption">Шифрование</string>
     <string name="default_folder_title_tools">Инструменты</string>
     <string name="default_folder_title_recommend">Рекомендуемые</string>
     <string name="preferences_title">Параметры рабочего стола</string>

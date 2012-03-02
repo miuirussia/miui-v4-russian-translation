@@ -43,10 +43,10 @@
         <item>Другое</item>
         <item>Создать свой ярлык</item>
     </string-array>
-        <string-array name="four_way_reboot">
-        <item>Нормально</item>
-        <item>Быстро</item>
-        <item>Загрузчик</item>
-        <item>Recovery</item>
+    <string-array name="four_way_reboot">
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>В режим Bootloader</item>
+        <item>В режим Recovery</item>
     </string-array>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="confirm">ОК</string>
@@ -8,6 +8,7 @@
   <string name="deselect_all">Снять все</string>
   <string name="network_error">Нет подключения к сети, пожалуйста, проверьте сетевые настройки</string>
   <string name="server_failed">Подключение к серверу не удалось, повторите попытку позже</string>
+  <string name="artist_details_format">%1$s, %2$s</string>
   <string name="sleep_mode">Спящий режим</string>
   <string name="cancel_sleep_mode">Спящий режим отключен</string>
   <string name="select_quit_time">Автоотключение плеера через (в минутах):</string>
@@ -65,12 +66,8 @@
   <string name="playlist_deleted_message">Плейлист удален</string>
   <string name="playlist_renamed_message">Плейлист переименован</string>
   <string name="recentlyadded_title">Недавно добавленные песни</string>
-  <string name="sdcard_missing_title">Нет SD-карты</string>
-  <string name="sdcard_missing_title_nosdcard">Нет памяти</string>
   <string name="sdcard_missing_message">SD-карта не найдена</string>
   <string name="sdcard_missing_message_nosdcard">SD-карта не найдена</string>
-  <string name="sdcard_busy_title">SD-карта не доступна</string>
-  <string name="sdcard_busy_title_nosdcard">SD-карта не доступна</string>
   <string name="sdcard_busy_message">К сожалению, SD-карта занята</string>
   <string name="sdcard_busy_message_nosdcard">К сожалению, SD-карта занята</string>
   <string name="sdcard_error_message">Ошибка SD-карты</string>
@@ -95,7 +92,6 @@
   <string name="music_picker_title">Выбрать песню</string>
   <string name="search_settings_description">Исполнитель, Альбом и трек</string>
   <string name="search_hint">Поиск музыки</string>
-  <string name="widget_initial_text">Нажмите для выбора </string>
   <string name="all_tracks">Все песни</string>
   <string name="menu_batch_selection">Выбрать несколько</string>
   <string name="send_to">Отправить песню через</string>
@@ -105,7 +101,6 @@
   <string name="download_processing">Загрузить</string>
   <string name="download_batch_start">Начать загрузку всех</string>
   <string name="delete_file_from_sdcard">Песня будет удалена с SD-карты</string>
-  <string name="menu_more">Еще</string>
   <string name="online_search_hint">Поиск музыки онлайн</string>
   <string name="load_category_failed">Не удалось получить список, нажмите Повторить</string>
   <string name="load_category_in_process">Получить список</string>
@@ -161,8 +156,8 @@
   <string name="service_start_error_button">OК</string>
   <string name="streamloadingtext">Подключение к %s</string>
   <string name="playback_failed">Данный формат песни не поддерживается</string>
-  <string name="playback_failed_by_bad_file">"'%s' не найден"</string>
-  <string name="playback_failed_by_network">"'%s' не найден"</string>
+  <string name="playback_failed_by_bad_file">"%s не найден"</string>
+  <string name="playback_failed_by_network">"%s не найден"</string>
   <string name="playback_failed_no_title_by_bad_file">не найден</string>
   <string name="playback_failed_no_title_by_network">не найден, проверьте подключение к сети</string>
   <string name="buffering">Кэширование...</string>
@@ -185,8 +180,25 @@
   <string name="overwrite_confirm">Перезаписать</string>
   <string name="picker_song_add">Добавить (%d)</string>
   <string name="add_tracks">Добавить</string>
-  <string name="albumsongseparator">,</string>
+  <string name="detail_artist">"Исполнитель: "</string>
+  <string name="detail_album">"Альбом: "</string>
+  <string name="detail_genre">"Жанр: "</string>
+  <string name="detail_size">"Размер: "</string>
+  <string name="detail_format">"Формат: "</string>
+  <string name="notification_artist_album">%2$s %1$s</string>
+  <string name="durationformatshort">%2$d:%5$02d</string>
+  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="min_interval">1</string>
+  <string name="max_interval">90</string>
+  <string name="default_interval">30</string>
   <string name="filter_max">2 Мб</string>
   <string name="filter_min">0 Кб</string>
-  <string name="fast_scroll_alphabet">\#ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ</string>
+  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="sdcard_missing_title">Нет SD-карты</string>
+  <string name="sdcard_missing_title_nosdcard">Нет памяти</string>
+  <string name="sdcard_busy_title">SD-карта не доступна</string>
+  <string name="sdcard_busy_title_nosdcard">SD-карта не доступна</string>
+  <string name="widget_initial_text">Нажмите для выбора </string>
+  <string name="menu_more">Еще</string>
 </resources>

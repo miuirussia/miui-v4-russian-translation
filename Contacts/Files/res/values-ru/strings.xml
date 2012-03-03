@@ -607,4 +607,5 @@
   <string name="raw_contact_account_label">Аккаунт: %1$s</string>
     <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
     <string name="unkown_location_or_sp_number">Неизвестно</string>
+    <string name="menu_send_to_desktop">Создать ярлык</string>  <string name="send_contact_shortcut_todesktop_success">Ярлык на рабочем столе создан</string>
 </resources>

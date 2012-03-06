@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string-array name="timezone_filters">
@@ -132,14 +132,14 @@
     <item>Отличный</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries">
-    <item>Всегда</item>
+    <item>Выключен</item>
     <item>Если подключено питание</item>
-    <item>Никогда (увеличивает передачу данных)</item>
+    <item>Включен</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries_wifi_only">
-    <item>Всегда</item>
+    <item>Выключен</item>
     <item>Если подключено питание</item>
-    <item>Никогда</item>
+    <item>Включен</item>
   </string-array>
   <string-array name="wifi_frequency_band_entries">
     <item>Автоматически</item>

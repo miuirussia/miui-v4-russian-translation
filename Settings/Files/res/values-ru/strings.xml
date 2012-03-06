@@ -455,7 +455,8 @@
   <string name="wifi_menu_connect">Подключиться к сети</string>
   <string name="wifi_menu_forget">Удалить эту сеть</string>
   <string name="wifi_menu_modify">Изменить сеть</string>
-  <string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети, включите Wi-Fi.</string>
+  <string name="wifi_empty_list_wifi_off">"Чтобы просмотреть доступные сети
+включите Wi-Fi"</string>
   <string name="wifi_show_advanced">Дополнительно</string>
   <string name="wifi_network_setup">WPS</string>
   <string name="wifi_wps_pin">Введите PIN-код точки доступа</string>

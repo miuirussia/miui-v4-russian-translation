@@ -54,11 +54,11 @@
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">%d песен добавлено в плейлист</item>
-        <item quantity="one">одна песня добавлена в плейлист</item>
+        <item quantity="one">Песня добавлена в плейлист</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">%d песен добавлено в плейлист</item>
-        <item quantity="one">песня добавлена в плейлист</item>
+        <item quantity="one">Песня добавлена в плейлист</item>
     </plurals>
     <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d песен</item>
@@ -66,7 +66,7 @@
     </plurals>
     <plurals name="NNNtracksdeleted">
         <item quantity="other">%d песен удалено</item>
-        <item quantity="one">песня удалена</item>
+        <item quantity="one">Песня удалена</item>
     </plurals>
     <plurals name="Nnowplaying">
         <item quantity="other">песен проигрывается</item>

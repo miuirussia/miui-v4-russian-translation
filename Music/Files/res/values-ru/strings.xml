@@ -11,9 +11,10 @@
   <string name="artist_details_format">%1$s, %2$s</string>
   <string name="sleep_mode">Спящий режим</string>
   <string name="cancel_sleep_mode">Спящий режим отключен</string>
-  <string name="select_quit_time">Автоотключение плеера через (в минутах):</string>
+  <string name="select_quit_time">Автоотключение плеера через
+  (в минутах):</string>
   <string name="quit_warining">Проигрыватель будет отключен через %d мин.</string>
-  <string name="music_settings">Настройка</string>
+  <string name="music_settings">Настройки</string>
   <string name="mobile_connect_settings">Мобильная сеть</string>
   <string name="download_album_settings">Загрузка обложек</string>
   <string name="download_album_summary">Автозагрузка отсутсвующих обложек альбомов</string>
@@ -23,10 +24,10 @@
   <string name="listen_to_online_summary">Онлайн прослушивание музыки через Wi-Fi/2G/3G. Рекумендуется использование Wi-Fi</string>
   <string name="flow_save_hint">Всплывающие сообщения</string>
   <string name="flow_save_hint_summary">Всегда запрашивать подтверждение для использования мобильной сети</string>
-  <string name="other_settings">Другое</string>
+  <string name="other_settings">Прочие настройки</string>
   <string name="music_filter">Фильтр для музыкальных файлов</string>
   <string name="min_track_size">Минимальный размер файла</string>
-  <string name="filter_by_folder">Фильтр по папкам</string>
+  <string name="filter_by_folder">Сканируемые папки</string>
   <string name="select_folder">Сканируемые папки</string>
   <string name="android_album_settings">Встроенные обложки</string>
   <string name="android_album_summary">Автоматически использовать обложку альбома из песен</string>
@@ -40,7 +41,7 @@
   <string name="shake_summary">Встряхните устройство для перехода к следующему треку</string>
   <string name="shake_sensitivity_settings">Чувствительность встряхивания</string>
   <string name="shake_sensitivity_summary">Настройка чувствительности встряхивания</string>
-  <string name="shake_sensitivity_helper">Сдвинте влево для повышения чувствительности, вправо - для понижения</string>
+  <string name="shake_sensitivity_helper">Влево - повышение чувствительности, вправо - понижение</string>
   <string name="album_display_settings">Отображение обложек</string>
   <string name="lyric_display_settings">Отображение текстов</string>
   <string name="spectrogram_display_settings">Отображение спектра</string>
@@ -76,7 +77,7 @@
   <string name="unknown_album_name">Неизвестный альбом</string>
   <string name="ringtone_menu">Установить на звонок</string>
   <string name="ringtone_menu_short">Установить на звонок</string>
-  <string name="ringtone_set">Песня \"%s установлена\" на звонок</string>
+  <string name="ringtone_set">Песня \"%s\" установлена на звонок</string>
   <string name="play_selection">Воспроизвести</string>
   <string name="add_to_playlist">Добавить песню в</string>
   <string name="add_to_favorite">Добавить в избранное</string>

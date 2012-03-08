@@ -11,8 +11,8 @@
   <string name="artist_details_format">%1$s, %2$s</string>
   <string name="sleep_mode">Спящий режим</string>
   <string name="cancel_sleep_mode">Спящий режим отключен</string>
-  <string name="select_quit_time">Автоотключение плеера через
-  (в минутах):</string>
+  <string name="select_quit_time">"Автоотключение плеера через
+  (в минутах):"</string>
   <string name="quit_warining">Проигрыватель будет отключен через %d мин.</string>
   <string name="music_settings">Настройки</string>
   <string name="mobile_connect_settings">Мобильная сеть</string>

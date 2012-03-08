@@ -108,7 +108,7 @@
   <string name="continue_when_wifi_disconnect">В зависимости от ваших настроек, вы используете провайдера связи для Интернет музыки, если вы хотите, сэкономить трафик, вы можете изменить настройки</string>
   <string name="stop_when_wifi_disconnect">В случае потери соединения WiFi, для экономии траффика, автоматически будут пропущены все онлайн песни. Если вы хотите прослушать песни в интернете с помощью сети оператора, вы можете изменить настройки</string>
   <string name="donot_ask_me_again">Не спрашивать</string>
-  <string name="lrc_search_failed">Тексты песен не найдены!</string>
+  <string name="lrc_search_failed">Тексты песен не найдены</string>
   <string name="lrc_searching">Поиск текста песни...</string>
   <string name="lyric_open_other_connect">Открыть сетевые настройки оператора для загрузки текстов</string>
   <string name="search_in_process">Поиск</string>

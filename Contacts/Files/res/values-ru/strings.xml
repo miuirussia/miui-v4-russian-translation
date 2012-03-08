@@ -9,7 +9,7 @@
     <string name="launcherDialer">Телефон</string>
     <string name="people">Контакты</string>
     <string name="contactsList">Контакты</string>
-    <string name="shortcutContact">Контакт</string>
+    <string name="shortcutContact">Контакты</string>
     <string name="shortcutDialContact">Быстрый звонок</string>
     <string name="shortcutMessageContact">Быстрое SMS</string>
     <string name="shortcutActivityTitle">Выбрать контакт для быстрого вызова</string>
@@ -205,9 +205,9 @@
     <string name="no_sdcard_message">SD-карта не обнаружена.</string>
     <string name="searching_vcard_title">Поиск vCard</string>
     <string name="import_from_sim">Импортировать с SIM-карты</string>
-    <string name="import_from_sdcard">Импорт из накопителя</string>
-    <string name="export_to_sdcard">Экспорт на накопитель</string>
-    <string name="share_visible_contacts">Передать видимые контакты</string>
+    <string name="import_from_sdcard">Импорт с SD-карты</string>
+    <string name="export_to_sdcard">Экспорт на SD-карту</string>
+    <string name="share_visible_contacts">Передать все контакты</string>
     <string name="import_one_vcard_string">Импорт одного файла VCard</string>
     <string name="import_multiple_vcard_string">Импорт нескольких файлов vCard</string>
     <string name="import_all_vcard_string">Импорт всех файлов VCard</string>
@@ -215,10 +215,10 @@
     <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
     <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s</string>
     <string name="fail_reason_io_error">Ошибка ввода-вывода</string>
-    <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой.</string>
+    <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой</string>
     <string name="fail_reason_not_supported">Формат не поддерживается.</string>
-    <string name="vcard_import_failed">Не удалось импортировать данные vCard.</string>
-    <string name="import_failure_no_vcard_file">На SD-карте нет файлов VCard.</string>
+    <string name="vcard_import_failed">Не удалось импортировать данные vCard</string>
+    <string name="import_failure_no_vcard_file">На SD-карте нет файлов VCard</string>
     <string name="fail_reason_unknown">Неизвестная ошибка</string>
     <string name="select_vcard_title">Выбор файла vCard</string>
     <string name="caching_vcard_title">Кэширование</string>
@@ -236,17 +236,17 @@
     <string name="vcard_unknown_filename">контакт</string>
     <string name="percentage">%s%%</string>
     <string name="confirm_export_title">Экспорт контактов</string>
-    <string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\".</string>
+    <string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
     <string name="exporting_contact_failed_title">Сбой экспорта</string>
     <string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
 Причина: %s"</string>
-    <string name="fail_reason_no_exportable_contact">Нет контактов для экспорта.</string>
-    <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте.</string>
-    <string name="fail_reason_too_long_filename">Слишком длинное название: %s.</string>
-    <string name="exporting_vcard_finished_title">Экспорт файла \"%s\" завершен.</string>
-    <string name="exporting_vcard_canceled_title">Экспорт файла \"%s\" отменен.</string>
+    <string name="fail_reason_no_exportable_contact">Нет контактов для экспорта</string>
+    <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте</string>
+    <string name="fail_reason_too_long_filename">Слишком длинное название: %s</string>
+    <string name="exporting_vcard_finished_title">Экспорт файла \"%s\" завершен</string>
+    <string name="exporting_vcard_canceled_title">Экспорт файла \"%s\" отменен</string>
     <string name="exporting_contact_list_title">Экспорт данных контакта</string>
-    <string name="exporting_contact_list_message">Контактные данные экспортируются в файл \"%s\".</string>
+    <string name="exporting_contact_list_message">Контактные данные экспортируются в файл \"%s\"</string>
     <string name="fail_reason_could_not_initialize_exporter">Не удалось запустить функцию экспорта. Причина: %s</string>
     <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте. Причина: %s</string>
     <string name="composer_failed_to_get_database_infomation">База данных недоступна.</string>
@@ -391,7 +391,7 @@
     <string name="upgrade_in_progress">Список контактов обновляется...</string>
     <string name="upgrade_out_of_memory">"Контакты обновляются.
 
-Для этого требуется около %s МБ внутренней памяти.
+Для этого требуется около %s Мб внутренней памяти.
 
 Выберите подходящую опцию:"</string>
     <string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
@@ -458,16 +458,16 @@
     <string name="view_updates_from_group">Обновления</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="notification_new_voicemail_ticker">Новое гол. сообщение: %1$s</string>
-    <string name="voicemail_playback_error">Не удалось воспроизвести сообщение.</string>
+    <string name="voicemail_playback_error">Не удалось воспроизвести сообщение</string>
     <string name="voicemail_buffering">Буферизация...</string>
     <string name="voicemail_fetching_content">Получение голосовой почты...</string>
-    <string name="voicemail_fetching_timout">Не удалось получить голосовую почту.</string>
+    <string name="voicemail_fetching_timout">Не удалось получить голосовую почту</string>
     <string name="call_log_new_header">Новые</string>
     <string name="call_log_old_header">Раньше</string>
-    <string name="voicemail_status_voicemail_not_available">Не удалось подключиться к серверу голосовой почты.</string>
-    <string name="voicemail_status_messages_waiting">Не удалось подключиться к серверу. Есть новые сообщения.</string>
-    <string name="voicemail_status_configure_voicemail">Настройте голосовую почту.</string>
-    <string name="voicemail_status_audio_not_available">Аудио недоступно.</string>
+    <string name="voicemail_status_voicemail_not_available">Не удалось подключиться к серверу голосовой почты</string>
+    <string name="voicemail_status_messages_waiting">Не удалось подключиться к серверу. Есть новые сообщения</string>
+    <string name="voicemail_status_configure_voicemail">Настройте голосовую почту</string>
+    <string name="voicemail_status_audio_not_available">Аудио недоступно</string>
     <string name="voicemail_status_action_configure">Настройка</string>
     <string name="voicemail_status_action_call_server">Получить почту</string>
     <string name="voicemail_speed_slowest">Минимальная скорость</string>
@@ -500,7 +500,7 @@
     <string name="no_account_prompt">"Подключите Контакты к аккаунту Google, чтобы:
 
 • Всегда иметь под рукой обновленные данные – на любом устройстве.
-• Синхронизировать все контакты – вы никогда не потеряете их."</string>
+• Синхронизировать все контакты – вы никогда не потеряете их"</string>
     <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>
     <string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт %1$s.</string>
     <string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт.</string>
@@ -548,9 +548,9 @@
     <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
     <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
     <string name="empty_divider_title">Вы можете</string>
-    <string name="noContactHelpTextAccountsInfo">Синхронизация контактов с Google, Exchange</string>
-    <string name="sync_xiaomi_cloud_contacts">Восстановить из онлайна</string>
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить данные из резервной копии в аккаунте Xiaomi и MiTalk</string>
+    <string name="noContactHelpTextAccountsInfo">Синхронизировать контакты с Google, Exchange</string>
+    <string name="sync_xiaomi_cloud_contacts">Восстановить контакты из MIUI-облака</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в аккаунте Xiaomi и MiTalk</string>
     <string name="group_name_contacts">Контакты</string>
     <string name="group_name_friends">Друзья</string>
     <string name="group_name_family">Семья</string>
@@ -562,18 +562,18 @@
     <string name="nickname_picker_nickname_column">Имя</string>
     <string name="not_applied">Не поддерживается</string>
     <string name="toast_for_saving_nickname">Изменения сохранены</string>
-    <string name="toast_for_failed_saving_nickname">Сохранить изменения не удалось</string>
+    <string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>
     <string name="select_all">Выбрать все</string>
-    <string name="deselect_all">Снять выделение со всех</string>
-    <string name="select_none">Ничего не выбрано, операция недопустима</string>
+    <string name="deselect_all">Снять выделение</string>
+    <string name="select_none">Выберите хотя бы 1 контакт</string>
     <string name="toast_finish_delete_call_log">Журналы будут удалены</string>
     <string name="confirm_delete_selected_call_log">Вы уверены, что хотите удалить эти контакты (%1d)?</string>
     <string name="calllog_menu_blacklist">Добавить в черный список</string>
     <string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
     <string name="calllog_menu_send_sms">Послать SMS</string>
     <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>
-    <string name="delete_contact_calllog_title">Вы уверены, что хотите удалить журнал вызовов?</string>
-    <string name="delete_unknown_contact_calllog_title">Вы уверены, что хотите удалить журнал вызовов неизвестного контакта?</string>
+    <string name="delete_contact_calllog_title">Журнал вызовов будет очищен</string>
+    <string name="delete_unknown_contact_calllog_title">Запись журнала вызововов неизвестного контакта будет удалена</string>
     <string name="account_default">Телефон</string>
     <string name="account_sim">SIM-карта</string>
     <string name="edit_contact_card_title">Редактировать контакт</string>
@@ -607,5 +607,6 @@
   <string name="raw_contact_account_label">Аккаунт: %1$s</string>
     <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
     <string name="unkown_location_or_sp_number">Неизвестно</string>
-    <string name="menu_send_to_desktop">Создать ярлык</string>  <string name="send_contact_shortcut_todesktop_success">Ярлык на рабочем столе создан</string>
+    <string name="menu_send_to_desktop">Создать ярлык</string>
+  <string name="send_contact_shortcut_todesktop_success">Ярлык на рабочем столе создан</string>
 </resources>

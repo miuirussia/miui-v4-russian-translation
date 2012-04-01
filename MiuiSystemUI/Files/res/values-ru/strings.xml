@@ -126,8 +126,8 @@
     <string name="status_bar_time_format_24">H:mm</string>
     <string name="status_bar_date_format">EEEE, d MMMM yyyy</string>
     <string name="usb_mode_notification">Режим накопителя</string>
-    <string name="usb_mode_dont_ask">Не спрашивать в следующий раз</string>
-    <string name="usb_mode_mount_storage_title">Хотите включить режим накопителя?</string>
+    <string name="usb_mode_dont_ask">Запомнить мой выбор</string>
+    <string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
     <string name="mount_storage">Подключить как диск</string>
     <string name="dismount_storage">Только зарядка</string>
     <string name="move_data_to_sdcard_title">Перенос данных на SD-карту</string>
@@ -162,13 +162,14 @@
     <string name="settings_toggle_layout_style">Стиль статус бара</string>
     <string name="settings_toggle_layout_style_compact">Компакт</string>
     <string name="settings_toggle_layout_style_single_page">Полный</string>
-    <string name="settings_toggle_layout_style_applying">Применение стиля статус бара...</string>
+    <string name="settings_toggle_layout_style_applying">Применение стиля переключателей...</string>
     <string name="settings_toggle">Переключатели</string>
     <string name="settings_toggle_position">Выбор переключателей</string>
     <string name="settings_toggle_position_divider_page">%1$d переключателей выше - показываются</string>
     <string name="settings_toggle_position_divider_list">Переключатели выше - показываются</string>
     <string name="settings_toggle_position_reset">Сбросить переключатели</string>
-    <string name="settings_notification_icon">Уведомления в строке состояния</string>
+    <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
+	<string name="settings_notification_icon">Уведомления в строке состояния</string>
     <string name="settings_expanded_view">Настройки выдвижения</string>
     <string name="settings_expandable_under_keyguard">На экране блокировки</string>
     <string name="settings_expandable_under_keyguard_summary">Работает только при отсутствии пароля для разблокировки</string>
@@ -207,6 +208,8 @@
     <string name="camera_key_action_shortcut_search">Поиск</string>
     <string name="camera_key_action_shortcut_call">Вызов</string>
     <string name="camera_key_action_shortcut_wake">Блокировка</string>
+	<string name="torch_activity_name">Фанарик</string>
+    <string name="torch_activity_hint">Фонарик можно быстро включить, удерживая [icon], на экране блокировки</string>
     <string name="lockscreen_carrier_default">Нет сети</string>
     <string name="chooseUsbActivity">Выберите приложение для устройств USB</string>
     <string name="usb_storage_title">USB-подключено</string>
@@ -240,3 +243,4 @@
     <string name="battery_indicator_style">Стиль индикатора батареи</string>
     <string name="default_usb_mode">Тип подключения по USB</string>
     <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
+</resources>

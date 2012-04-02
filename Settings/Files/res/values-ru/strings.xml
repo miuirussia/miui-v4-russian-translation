@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="additional_system_update" />
+    <string name="additional_system_update_menu" />
+    <string name="input_method_selector_show_automatically_value">0</string>
+    <string name="input_method_selector_always_show_value">1</string>
+    <string name="input_method_selector_always_hide_value">2</string>
+    <string name="input_method_selector_visibility_default_value">0</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
     <string name="device_info_default">Неизвестно</string>
@@ -112,7 +118,7 @@
     <string name="bluetooth_device">Bluetooth-устройство без названия</string>
     <string name="progress_scanning">Поиск</string>
     <string name="progress_tap_to_pair">Выберите устройство</string>
-    <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены.</string>
+    <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
     <string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
     <string name="bluetooth_notif_title">Запрос на сопряжение</string>
     <string name="bluetooth_notif_message">Нажмите для подключения к устройству \"%1$s\"</string>
@@ -133,7 +139,7 @@
     <string name="bluetooth_phonebook_request">Запрос телефонной книги</string>
     <string name="bluetooth_pb_acceptance_dialog_text">Устройство %1$s пытается получить доступ к вашим контактам и журналу вызовов. Предоставить доступ для %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
-    <string name="date_and_time">Настройки даты и времени</string>
+    <string name="date_and_time">Настройки даты &amp; времени</string>
     <string name="date_time_12_hour_sample">1:00 pm</string>
     <string name="date_time_24_hour_sample">13:00</string>
     <string name="choose_timezone">Выбрать часовой пояс</string>
@@ -1583,7 +1589,7 @@
     <string name="pref_volume_wake_title">Включение экрана при нажатии</string>
     <string name="pref_volume_wake_summary">Нажатие увеличения / уменьшения громкости для просыпания устройства</string>
     <string name="status_bar_settings">Панель уведомлений</string>
-  <string name="complete_settings">Все настройки</string>
+	<string name="complete_settings">Все настройки</string>
     <string name="common_settings">Общие настройки</string>
     <string name="launcher_settings_title">Лончер</string>
     <string name="battery_settings">Батарея</string>
@@ -1591,13 +1597,14 @@
     <string name="battery_indicator_style">Стиль индикатора батареи</string>
     <string name="power_usage_history">Использование батареи</string>
     <string name="default_usb_mode">По умолчанию тип подключения USB</string>
-    <string name="screen_timeout_title">Screen sleep</string>
+    <string name="screen_timeout_title">Спящий режим</string>
     <string name="unlock_set_unlock_summary">Включите блокировку экрана, чтобы выбрать тип блокировки</string>
-    <string name="lock_settings_picker_settings">Set screen lock</string>
-    <string name="lock_screen_unlock_show">Display screen password interface directly</string>
-    <string name="lock_screen_unlock_show_summary">"Don't use other lockscreens after enabling, just go to screen unlock interface"</string>
+    <string name="lock_settings_picker_settings">Установить блокировку экрана</string>
+    <string name="lock_screen_unlock_show">Показать интерфейс ввода пароля</string>
+    <string name="lock_screen_unlock_show_summary">"Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана"</string>
     <string name="date_time_settings">Дата &amp; время</string>
     <string name="timezone_settings">Часовой пояс</string>
+	<string name="security_privacy_settings_title">Безопасность &amp; конфиденциальность</string>
     <string name="incoming_call_vibrate_abbreviation">Звонки</string>
     <string name="notification_vibrate_abbreviation">Уведомления</string>
     <string name="mms_vibrate_abbreviation">Сообщения</string>
@@ -1607,9 +1614,8 @@
     <string name="breathing_light_freq_title">LED частота мигания</string>
     <string name="breathing_light_freq_summary">LED пауза между миганиями</string>
     <string name="led_settings">LED</string>
-    <string name="led_colors_summary">Notification LED color</string>
-    <string name="led_frequence_summary">Set the interval between LED flashes</string>
-    <string name="led_pulse_summary">Pulse LED on new notifications</string>
-    <string name="show_rounded_corners">Show rounded corners</string>
+    <string name="led_colors_summary">LED цвет уведомлений</string>
+    <string name="led_frequence_summary">Установите интервал между миганием LED</string>
+    <string name="led_pulse_summary">Пульсирующий LED о новых уведомлениях</string>
+    <string name="show_rounded_corners">Показывать закругленными углами</string>
     <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
-</resources>

@@ -208,7 +208,7 @@
     <string name="camera_key_action_shortcut_search">Поиск</string>
     <string name="camera_key_action_shortcut_call">Вызов</string>
     <string name="camera_key_action_shortcut_wake">Блокировка</string>
-	<string name="torch_activity_name">Фанарик</string>
+	<string name="torch_activity_name">Фонарик</string>
     <string name="torch_activity_hint">Фонарик можно быстро включить, удерживая [icon], на экране блокировки</string>
     <string name="lockscreen_carrier_default">Нет сети</string>
     <string name="chooseUsbActivity">Выберите приложение для устройств USB</string>

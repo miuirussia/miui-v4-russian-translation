@@ -72,7 +72,7 @@
     <string name="stopwatch_title">Секундомер</string>
 	<string name="timer_title">Таймер</string>
 	<string name="menu_add_worldclock">Добавить часовой пояс</string>
-    <string name="menu_worldclock_edit">Редактировать мире часы</string>
+    <string name="menu_worldclock_edit">Редактировать мировые часы</string>
     <string name="menu_alarmclock_edit">Изменить будильник</string>
 	<string name="menu_delete">Удалить</string>
     <string name="menu_edit_systemtime">Настройка часов</string>

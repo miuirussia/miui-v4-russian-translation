@@ -1619,5 +1619,4 @@
     <string name="led_pulse_summary">Пульсирующий LED о новых уведомлениях</string>
     <string name="show_rounded_corners">Показывать закругленными углами</string>
     <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
-    <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
 </resources>

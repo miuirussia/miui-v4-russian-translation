@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="photoeditor_name">Фотостудия</string>
@@ -69,7 +69,6 @@
   <string name="select_album">Выбрать альбомы</string>
   <string name="select_group">Выбрать группы</string>
   <string name="set_image">Установить картинку как</string>
-  <string name="wallpaper">Установка обоев...</string>
   <string name="camera_setas_wallpaper">Обои</string>
   <string name="delete">Удалить</string>
   <string name="confirm_delete">Удалить</string>
@@ -116,6 +115,9 @@
   <string name="picasa_posts">Записи</string>
   <string name="make_available_offline">Офлайн-доступ</string>
   <string name="sync_picasa_albums">Обновить</string>
+  <string name="sd_explorer">Просмотр SD-карты</string>
+  <string name="home_my_captured_items">мои снимки</string>
+  <string name="all_media">Все фото</string>
   <string name="done">Готово</string>
   <string name="sequence_in_set">%1$d из %2$d:</string>
   <string name="title">Название</string>
@@ -170,10 +172,6 @@
   <string name="group_by">Сгруппировать</string>
   <string name="settings">Настройки</string>
   <string name="add_account">Добавить аккаунт</string>
-  <string name="sd_explorer">Просмотр SD-карты</string>
-  <string name="home_my_captured_items">мои снимки</string>
-  <string name="home_recent_albums">последний альбом</string>
-  <string name="all_media">Все фото</string>
   <string name="order_by">Сортировать по</string>
   <string name="set_recent_album">Сделать новый альбом</string>
   <string name="remove_recent_album">Удалить из последних альбомов</string>
@@ -181,7 +179,44 @@
   <string name="remove_hidden_album">Отменить скрытие</string>
   <string name="all_albums_desc">Альбомы</string>
   <string name="all_recent_albums_desc">Последние альбомы</string>
+  <string name="all_album">Все</string>
+  <string name="all_recent">Избранные</string>
   <string name="photos">Фотографии</string>
+  <string name="open_single_image_failure">Ошибка загрузки изображения!</string>
+  <string name="already_saved">Фотография сохранена в: %s</string>
+  <string name="failure_external_storage_not_writable">Внешний накопитель не доступен для записи!</string>
+  <string name="save_pic_error">Не удалось сохранить картинку!</string>
+  <string name="save_pic_to_success">"Изображение сохранено в
+%s"</string>
+  <string name="save_to_sdcard">Сохранить на SD-карту</string>
+  <string name="damaged_file">Файл поврежден</string>
+  <string name="camera_folder_display_name">Фотографии</string>
+  <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
+  <string name="internal_camera_folder_display_name">Internal Camera Photos</string>
+  <string name="internal_miui_capture_screen_folder_display_name">Internal Screenshots</string>
+  <string name="miliao_folder_display_name">MiTalk</string>
+  <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
+  <string name="must_pick_file">Выберите изображение</string>
+  <string name="play_video">Воспроизведение видео</string>
+  <string name="set_lock_or_wallpaper">Установить как фоновый рисунок</string>
+  <string name="set_wallpaper">На рабочий стол</string>
+  <string name="set_lockscreen">На экран блокировки</string>
+  <string name="apply_pic_for">Установить:</string>
+  <string name="wallpaper">На рабочий стол</string>
+  <string name="screen_saver_wallpaper">На экран блокировки</string>
+  <string name="contact_photo">Фото контакта</string>
+  <string name="cut">Обрезать</string>
+  <string name="turn_left">Повернуть</string>
+  <string name="turn_right">Повернуть</string>
+  <string name="disallowed_operation">Не поддерживается для данного типа данных</string>
+  <string name="more">Еще</string>
+  <string name="running_face_detection">Entering face identification,please wait...</string>
+  <string name="deleting_files">Удаление файлов...</string>
+  <string name="loading_files">Загрузка...</string>
+  <string name="open_map">Open map</string>
+  <string name="unknown_location">Unknown location</string>
+  <string name="sending_image_title">Отправить (%s)</string>
+  <string name="sending_video_title">Отправить (%s)</string>
   <string name="other_category">Другие настройки</string>
   <string name="show_hidden_album">Показать скрытые альбомы</string>
   <string name="auto_create_recent_album">Автоматическое создание последнего альбома</string>
@@ -200,22 +235,13 @@
   <string name="seconds">секунд</string>
   <string name="rename_failed">Не удалось переименовать</string>
   <string name="rename_failed_duplicated_name">Имя уже существует, не переименовать</string>
-  <string name="camera_folder_display_name">Фотографии</string>
-  <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
-  <string name="internal_camera_folder_display_name">Internal Camera Photos</string>
-  <string name="internal_miui_capture_screen_folder_display_name">Internal Screenshots</string>
-  <string name="miliao_folder_display_name">MiTalk</string>
-  <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
-  <string name="must_pick_file">Выберите изображение</string>
   <string name="warn">Внимание</string>
   <string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
-  <string name="deleting_files">Удаление файлов...</string>
   <string name="no_file">Файлы не найдены</string>
   <string name="no_files">Папка пуста</string>
   <string name="send">Отправить</string>
   <string name="sd_not_available">SD-карта размонтирована или недоступна</string>
   <string name="confirm_know">OK</string>
-  <string name="open_map">Open map</string>
   <string name="image_property">Свойства фотографии</string>
   <string name="video_property">Свойства видео</string>
   <string name="cancel_bookmark">Удалить из избранного</string>
@@ -223,10 +249,14 @@
   <string name="sd_folder">Папки SD карты</string>
   <string name="operation_delete_confirm_message">Медиа-файлы, которые выбраны или в выбранной папке, будут удалены с SD карты</string>
   <string name="menu_item_sort">Сортировка</string>
-  <string name="menu_item_sort_name">По имени</string>
-  <string name="menu_item_sort_size">По размеру</string>
-  <string name="menu_item_sort_visit">По частоте использования</string>
-  <string name="menu_item_sort_date">По дате</string>
+  <string name="menu_item_sort_name_asc">По имени (A-Z)</string>
+  <string name="menu_item_sort_name_desc">По имени (Z-A)</string>
+  <string name="menu_item_sort_size_asc">По размеру (A-Z)</string>
+  <string name="menu_item_sort_size_desc">По размеру (Z-A)</string>
+  <string name="menu_item_sort_visit_asc">По частоте (A-Z)</string>
+  <string name="menu_item_sort_visit_desc">По частоте (Z-A)</string>
+  <string name="menu_item_sort_date_asc">По дате (A-Z)</string>
+  <string name="menu_item_sort_date_desc">По дате (Z-A)</string>
   <string name="operation_send">Отправить</string>
   <string name="operation_rename">Переименовать</string>
   <string name="operation_delete">Удалить</string>
@@ -243,9 +273,8 @@
   <string name="file_info_dimension">Разрешение:</string>
   <string name="file_info_create_time">Создан:</string>
   <string name="file_info_duration">Продолжительность:</string>
-  <string name="unknown_location">Unknown location</string>
-  <string name="damaged_file">Файл поврежден</string>
   <string name="global_setting">Настройки</string>
   <string name="no_storage_title">Нет хранилища</string>
   <string name="no_storage_message">Нет доступных внешних носителей</string>
+  <string name="home_recent_albums">последний альбом</string>
 </resources>

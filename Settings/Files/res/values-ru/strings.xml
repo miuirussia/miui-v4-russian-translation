@@ -1591,7 +1591,7 @@
     <string name="status_bar_settings">Панель уведомлений</string>
 	<string name="complete_settings">Все настройки</string>
     <string name="common_settings">Общие настройки</string>
-    <string name="launcher_settings_title">Лончер</string>
+    <string name="launcher_settings_title">Рабочий стол</string>
     <string name="battery_settings">Батарея</string>
     <string name="battery_settings_title">Батарея</string>
     <string name="battery_indicator_style">Стиль индикатора батареи</string>
@@ -1619,3 +1619,5 @@
     <string name="led_pulse_summary">Пульсирующий LED о новых уведомлениях</string>
     <string name="show_rounded_corners">Показывать закругленными углами</string>
     <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
+    <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
+</resources>

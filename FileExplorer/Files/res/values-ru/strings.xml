@@ -67,8 +67,8 @@
   <string name="operation_show_sys">Показать системные</string>
   <string name="operation_unfavorite">Удалить из Избранного</string>
   <string name="removed_favorite">Удалить из Избранного</string>
-  <string name="sd_card_available">Свободно:\u0020</string>
-  <string name="sd_card_name">SD-карта:\u0020</string>
+  <string name="sd_card_available">"Свободно: "</string>
+  <string name="sd_card_size">SD-карта: %1$s</string>
   <string name="sd_folder">SD-карта</string>
   <string name="search_hint">Введите часть или все имя файла</string>
   <string name="search_title">Поиск документов</string>

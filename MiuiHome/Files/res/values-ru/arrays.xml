@@ -10,4 +10,10 @@
         <item>Вращение</item>
         <item>3D Куб</item>
     </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Как в теме</item>
+        <item>Центр</item>
+        <item>Лево</item>
+        <item>Право</item>
+    </string-array>
 </resources>

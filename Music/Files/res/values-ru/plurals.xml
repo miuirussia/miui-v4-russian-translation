@@ -65,8 +65,8 @@
         <item quantity="one">" категория"</item>
     </plurals>
     <plurals name="album_details_format">
-        <item quantity="other">%d песен</item>
-        <item quantity="one">%d песня</item>
+        <item quantity="other">%1$s, %2$d песен</item>
+        <item quantity="one">%1$s, %2$d песня</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
         <item quantity="other">%d песен были удалены.</item>

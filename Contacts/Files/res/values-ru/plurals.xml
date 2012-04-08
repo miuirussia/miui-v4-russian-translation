@@ -25,8 +25,8 @@
         <item quantity="one">1 группа</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">В группе %1$2$s %2$1$d чел.</item>
-        <item quantity="one">В группе %1$2$s %2$1$d чел.</item>
+        <item quantity="other">В группе %1$s %2$d чел.</item>
+        <item quantity="one">В группе %1$s %2$d чел.</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d чел.</item>

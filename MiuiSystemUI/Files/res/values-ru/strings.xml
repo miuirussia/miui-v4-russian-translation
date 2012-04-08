@@ -9,8 +9,8 @@
   <string name="status_bar_recent_inspect_item_title">О приложении</string>
   <string name="status_bar_no_recent_apps">Нет данных</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
-  <string name="status_bar_recent_clear_result">Освобождено %1$s памяти.
-Сейчас доступно: %2$s</string>
+  <string name="status_bar_recent_clear_result">"Освобождено %1$s памяти.
+Сейчас доступно: %2$s"</string>
   <string name="status_bar_no_notifications_title">Нет уведомлений</string>
   <string name="status_bar_ongoing_events_title">Текущие</string>
   <string name="status_bar_latest_events_title">Уведомления</string>

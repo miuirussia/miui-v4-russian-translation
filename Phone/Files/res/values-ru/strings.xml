@@ -76,9 +76,6 @@
   <string name="label_ndp">PIN для разблокировки сети SIM-карты</string>
   <string name="sim_ndp_unlock_text">Разблокировать</string>
   <string name="sim_ndp_dismiss_text">Закрыть</string>
-  <string name="requesting_unlock">Запрос разблокировки сети...</string>
-  <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
-  <string name="unlock_success">Разблокировка сети успешно завершена</string>
   <string name="imei">IMEI</string>
   <string name="meid">MEID</string>
   <string name="labelGSMMore">Настройки вызовов GSM</string>
@@ -174,7 +171,6 @@
   <string name="preferred_network_mode_cdma_evdo_summary">Предпочтительная сеть: CDMA/EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Предпочтительная сеть: только CDMA</string>
   <string name="preferred_network_mode_evdo_only_summary">Предпочтительная сеть: только EvDo</string>
-  <string name="preferred_network_mode_lte_cdma_summary">Предпочтительная сеть: LTE или CDMA</string>
   <string name="data_enabled">Передача данных</string>
   <string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
   <string name="roaming">Интернет-роуминг</string>
@@ -626,9 +622,6 @@
   <string name="description_target_answer">Правильный вариант</string>
   <string name="description_target_send_sms">Отправить SMS</string>
   <string name="description_target_decline">Отклонить</string>
-  <string name="description_direction_right">Направо для %s.</string>
-  <string name="description_direction_left">Налево для %s.</string>
-  <string name="description_direction_up">Вверх для %s.</string>
   <string name="add_button_miui">Добавить</string>
   <string name="always_enable_mms_miui">Всегда получать MMS</string>
   <string name="always_enable_mms_summary_miui">Получать MMS при выключенной передаче данных</string>
@@ -677,6 +670,12 @@
   <string name="call_forwarding_settings_miui">Настройки переадресации вызова</string>
   <string name="calling_via_template_miui">"Звонок через ^1
 ^2"</string>
+  <string name="call_log_number_limit_miui">Ограничение списка вызова</string>
+  <string name="call_log_number_limit_summary_miui">Ограничение количества номеров в списке вызовов
+</string>
+  <string name="call_log_number_limit_key_title">Максимально</string>
+  <string name="call_log_number_limit_title">Количество записей</string>
+  <string name="call_log_number_limit_subsummary">%d записей</string>
   <string name="call_recording_notification_summary_miui">Включить уведомления о начале и конце записи звонка</string>
   <string name="call_recording_notification_title_miui">Уведомление записи разговоров</string>
   <string name="call_recording_prompt_miui">Идет запись...</string>
@@ -786,6 +785,9 @@
   <string name="ignore_miui">Отклонить</string>
   <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты</string>
   <string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
+  <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
+  <string name="import_sim_entries_finish">Контакты с SIM импортированы успешно</string>
+  <string name="delete_sim_entries_finish">Удаление контактов с SIM успешно</string>
   <string name="import_sim_entry_miui">Импорт</string>
   <string name="invalid_new_pin2_miui">Новый PIN2 введен неверно, пожалуйста, введите новый PIN2 из 4~8 цифр</string>
   <string name="invalid_new_pin_miui">Новый PIN введен неверно, пожалуйста, введите новый PIN2 от 4~8 цифр</string>
@@ -830,6 +832,7 @@
   <string name="onscreen_merge_calls_text_miui">Соединить</string>
   <string name="onscreen_mute_text_miui">Без звука</string>
   <string name="onscreen_note_text_miui">Заметка</string>
+  <string name="onscreen_send_flash_text_miui">Вспышка</string>
   <string name="onscreen_speaker_text_miui">Динамик</string>
   <string name="onscreen_swap_calls_text_miui">Переключится</string>
   <string name="onscreen_tools_off_miui">Еще</string>
@@ -854,6 +857,11 @@ Please notice that PIN2 related functionality will be locked if failed again!"</
   <string name="preferred_network_type_pref_entries_auto_miui">Автоматически</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">2G (энергосбережение)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">3G</string>
+  <string name="preferred_network_type_pref_entries_global_miui">Глобальный</string>
+  <string name="preferred_network_type_3g_only_warning_miui">"Вы выбрали только 3G как тип сети, из-за этого возможна потеря сети при плохом покрытии сетей 3G
+Нажмите OK для продолжения"</string>
+  <string name="preferred_network_type_cdma_miui">CDMA</string>
+  <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_title_miui">Выбор типа сети</string>
   <string name="puk_lock_warning_miui">"
 Обратите внимание, что SIM-карта полностью заблокируется, если вы введете код неверно еще раз!"</string>
@@ -877,6 +885,10 @@ Please notice that PIN2 related functionality will be locked if failed again!"</
   <string name="sliding_up_hint_miui">Сдвиньте вверх, чтобы отклонить</string>
   <string name="telocation_setting_miui">Настройки положения</string>
   <string name="telocation_show_settings_miui">Настройки отображения</string>
+  <string name="tty_mode_entries_full_miui">TTY Full</string>
+  <string name="tty_mode_entries_hco_miui">TTY HCO</string>
+  <string name="tty_mode_entries_off_miui">TTY Off</string>
+  <string name="tty_mode_entries_vco_miui">TTY VCO</string>
   <string name="tty_mode_option_summary_miui">Установить режим телетайпа</string>
   <string name="tty_mode_option_title_miui">Режим телетайпа</string>
   <string name="turnover_mute_title_miui">Переворот - тишина</string>
@@ -892,4 +904,23 @@ Please notice that PIN2 related functionality will be locked if failed again!"</
   <string name="voice_quality_ui_values_clear_miui">Чистый</string>
   <string name="voice_quality_ui_values_crisp_miui">Хрустящий</string>
   <string name="voice_quality_ui_values_normal_miui">Нормальный</string>
+  <string name="sim_contacts_title_miui">Контакты на SIM-карте</string>
+  <string name="delete_sim_entry_miui">Удалить</string>
+  <string name="confirm_delete_sim_entry_miui">Вы уверены, что хотите удалить %d выбранных контактов с SIM-карты?</string>
+  <string name="deleting_sim_entry_miui">Удаление контактов на SIM-карте</string>
+  <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
+  <string name="import_all_sim_entry_miui">Импорт всех</string>
+  <string name="cdma_three_way_calls_miui">Три способа вызова</string>
+  <string name="cdma_conference_call_miui">Конференц-связь</string>
+  <string name="respond_via_sms_canned_response_1_miui">"Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Я позвоню вам позже"</string>
+  <string name="respond_via_sms_canned_response_2_miui">"Мне жаль, но я не могу отвечать на телефонные звонки прямо сейчас. Что я могу сделать для вас?"</string>
+  <string name="respond_via_sms_canned_response_3_miui">"Я сейчас очень занят. Позвоню позже"</string>
+  <string name="respond_via_sms_canned_response_4_miui">"Не могу говорить по телефону прямо сейчас. В чем дело?"</string>
+  <string name="description_direction_right">Направо для %s.</string>
+  <string name="description_direction_left">Налево для %s.</string>
+  <string name="description_direction_up">Вверх для %s.</string>
+  <string name="requesting_unlock">Запрос разблокировки сети...</string>
+  <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
+  <string name="unlock_success">Разблокировка сети успешно завершена</string>
+  <string name="preferred_network_mode_lte_cdma_summary">Предпочтительная сеть: LTE или CDMA</string>
 </resources>

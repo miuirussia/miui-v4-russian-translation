@@ -24,23 +24,6 @@
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не подходит для потокового воспроизведения на данном устройстве.</string>
     <string name="selectTextMode">Выбрать текст...</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="config_ethernet_iface_regex">eth\\d</string>
-    <string name="config_tether_apndata" />
-    <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
-    <string name="default_wallpaper_component">@null</string>
-    <string name="config_networkLocationProvider">com.google.android.location.NetworkLocationProvider</string>
-    <string name="config_geocodeProvider">com.google.android.location.GeocodeProvider</string>
-    <string name="config_datause_iface">rmnet0</string>
-    <string name="config_default_dns_server">8.8.8.8</string>
-    <string name="gsm_alphabet_default_charset" />
-    <string name="config_useragentprofile_url" />
-    <string name="config_isoImagePath" />
-    <string name="config_ntpServer">pool.ntp.org</string>
-    <string name="config_wimaxServiceJarLocation" />
-    <string name="config_wimaxNativeLibLocation" />
-    <string name="config_wimaxManagerClassname" />
-    <string name="config_wimaxServiceClassname" />
-    <string name="config_wimaxStateTrackerClassname" />
     <string name="month_long_standalone_january">Январь</string>
     <string name="month_long_standalone_february">Февраль</string>
     <string name="month_long_standalone_march">Март</string>
@@ -1587,34 +1570,6 @@
     <string name="zzz_dual_clock_city_seoul">Seoul</string>
     <string name="zzz_dual_clock_city_local">Local time</string>
     <string name="wifi_on_vt_not_allowed_msg">Video Telephony is impossible during Wi-Fi on</string>
-    <item type="string" name="APKTOOL_DUMMY_062b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_062c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_062d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_062e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_062f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0632">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0633">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0634">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0635">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0636">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0637">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0638">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0639">false</item>
-    <item type="string" name="APKTOOL_DUMMY_063a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_063b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_063c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_063d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_063e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_063f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0640">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0641">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0642">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0643">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0644">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0645">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0646">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0647">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0648">false</item>
     <string name="cutAll">Вырезать все</string>
     <string name="copyAll">Копировать все</string>
     <string name="undo">Отменить</string>

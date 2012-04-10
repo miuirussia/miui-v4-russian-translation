@@ -23,33 +23,6 @@
     <string name="dialog_alert_title">Внимание</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не подходит для потокового воспроизведения на данном устройстве.</string>
     <string name="selectTextMode">Выбрать текст...</string>
-<<<<<<< HEAD
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="month_long_standalone_january">Январь</string>
-    <string name="month_long_standalone_february">Февраль</string>
-    <string name="month_long_standalone_march">Март</string>
-    <string name="month_long_standalone_april">Апрель</string>
-    <string name="month_long_standalone_may">Май</string>
-    <string name="month_long_standalone_june">Июнь</string>
-    <string name="month_long_standalone_july">Июль</string>
-    <string name="month_long_standalone_august">Август</string>
-    <string name="month_long_standalone_september">Сентябрь</string>
-    <string name="month_long_standalone_october">Октябрь</string>
-    <string name="month_long_standalone_november">Ноябрь</string>
-    <string name="month_long_standalone_december">Декабрь</string>
-    <string name="month_long_january">Января</string>
-    <string name="month_long_february">Февраля</string>
-    <string name="month_long_march">Марта</string>
-    <string name="month_long_april">Апреля</string>
-    <string name="month_long_may">Мая</string>
-    <string name="month_long_june">Июня</string>
-    <string name="month_long_july">Июля</string>
-    <string name="month_long_august">Августа</string>
-    <string name="month_long_september">Сентября</string>
-    <string name="month_long_october">Октября</string>
-    <string name="month_long_november">Ноября</string>
-    <string name="month_long_december">Декабря</string>
-=======
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="month_long_standalone_january">январь</string>
     <string name="month_long_standalone_february">февраль</string>
@@ -75,7 +48,6 @@
     <string name="month_long_october">октября</string>
     <string name="month_long_november">ноября</string>
     <string name="month_long_december">декабря</string>
->>>>>>> parent of d0ba236... Merge pull request #64 from malchik-solnce/patch-2
     <string name="month_medium_january">янв</string>
     <string name="month_medium_february">фев</string>
     <string name="month_medium_march">мар</string>
@@ -1203,65 +1175,4 @@
     <string name="sending">Отправка...</string>
     <string name="launchBrowserDefault">Запустить браузер?</string>
     <string name="SetupCallDefault">Принять вызов?</string>
-<<<<<<< HEAD
-    <string name="lockscreen_unlock_guide_text">Проведите, чтобы разблокировать</string>
-    <string name="zzz_keyguard_password_attempt_count_pin_code">%1$d попытка осталась</string>
-    <string name="zzz_keyguard_password_attempts_count_pin_code">%1$d осталось попыток</string>
-    <string name="zzz_keyguard_password_attempt_count_puk_code">%1$d попытка осталась</string>
-    <string name="zzz_keyguard_password_attempts_count_puk_code">%1$d осталось попыток</string>
-    <string name="AcMmi">Авто-подключение</string>
-    <string name="StrPwRegFailure">Регистрация не удалась. Пожалуйста, попробуйте еще раз</string>
-    <string name="StrNegativePWCheck">Регистрация не удалась. Пожалуйста, попробуйте еще раз</string>
-    <string name="StrNumOfPWAttempsViolation">Регистрация не удалась. Пожалуйста, свяжитесь с центром CS</string>
-    <string name="StrUnknownSubscriber">Authentication failed. Please try again</string>
-    <string name="StrBearerSvcNotProvisoned">Service is not registered.Please contact CS center.</string>
-    <string name="StrTelesrviceNotProvisoned">Service is not registered.Please contact CS center.</string>
-    <string name="StrCallBarred">Service is limited.Please try again.</string>
-    <string name="StrIllegalSSOperation">Service code Error. Please try again.</string>
-    <string name="StrSSErrStatus">Authentication failed. Please try again.</string>
-    <string name="StrSSNotAvailable">Service is not registered.Please contact CS center.</string>
-    <string name="StrSSSubscriptionViolation">service scription is violation.Please contact CS center.</string>
-    <string name="StrSSIncompatibility">Service is incompatibility.Please contact CS center.</string>
-    <string name="StrSysFailure">System Error. Please try again.</string>
-    <string name="StrDataMissing">input data is missing.Please try again.</string>
-    <string name="StrUnexpectedDataValue">Unexpected data value.Please try again.</string>
-    <string name="StrIllegalSubscriber">Not registered number. Please try again.</string>
-    <string name="StrFacilityNotSupported">Facility is not supported.</string>
-    <string name="StrAbsentSubscriber">Network registration is delaying. Please try again.</string>
-    <string name="StrShortTermDenial">Network registration is delaying. Please try again.</string>
-    <string name="StrLongTermDenial">Network registration is delaying. Please contact CS center.</string>
-    <string name="StrPositionMethodFailure">Position method is failed.</string>
-    <string name="StrUnknownAlphabet">Unknown alphabet Please try again.</string>
-    <string name="StrUssd_Busy">Network registration is delaying.</string>
-    <string name="StrRejectedByUser">service is rejected by user.</string>
-    <string name="StrRejectedByNetwork">service is rejected by network.</string>
-    <string name="StrDeflectionToServedSubscriber">Deflection To Served Subscriber.</string>
-    <string name="StrSpecialServiceCode">Special ServiceCode.</string>
-    <string name="StrInvalidDeflectedToNumber">Invalid Deflected To Number. Please try again.</string>
-    <string name="StrMaxNumberOfMPTY_ParticipantsExceeded">MaxNumber Of MPTY_Participants Exceeded.</string>
-    <string name="StrResourcesNotAvailable">Resources is not available. Please try again.</string>
-    <string name="StrEtcReturnError">Пожалуйста, попробуйте еще раз</string>
-    <string name="KTmmiError">Connection problem or invalid MMI code</string>
-    <string name="CCRSetting">Setting</string>
-    <string name="CCRPopup">"Автоматическая диагностика и отчетности использования информации ежедневно помогает улучшить качество продукции Samsung и услуг. Вы можете изменить настройки, выбрав Об устройстве> Диагностика и использование информации."</string>
-    <string name="fmapp_name">FM Radio</string>
-    <string name="lockscreen_2ndLock_invalid_input">Incorrect backup PIN</string>
-    <string name="lockscreen_2ndLock_instructions">If you forget your Google sign-in details, you can enter your backup PIN to unlock</string>
-    <string name="lockscreen_2ndLock_instructions2">Введите резервный PIN-код чтобы разблокировать</string>
-    <string name="lockscreen_2ndLock_password">PASSWORD</string>
-    <string name="lockscreen_2ndLock_submit_button">OK</string>
-    <string name="lockscreen_failed_attempts_almost_glogin2" formatted="false">"Incorrect unlock pattern drawn %d times. %d attempts left before you will be asked to unlock device using your Google sign-in or backup PIN.
-
- Try again in %d seconds."</string>
-    <string name="zzz_dual_clock_city_seoul">Seoul</string>
-    <string name="zzz_dual_clock_city_local">Local time</string>
-    <string name="wifi_on_vt_not_allowed_msg">Video Telephony is impossible during Wi-Fi on</string>
-    <string name="cutAll">Вырезать все</string>
-    <string name="copyAll">Копировать все</string>
-    <string name="undo">Отменить</string>
-    <string name="redo">Вернуть</string>
-    <string name="operation_not_allowed">Операция не разрешена</string>
-    <string name="exceeded_maxlength">Превышен максимальный размер сообщения</string>
-=======
->>>>>>> parent of d0ba236... Merge pull request #64 from malchik-solnce/patch-2
 </resources>

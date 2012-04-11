@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_name">Темы</string>
@@ -60,4 +60,8 @@
   <string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка</string>
   <string name="apply_font_btn_reboot">Применить и перезагрузить</string>
   <string name="apply_font_btn_exclude">Без шрифта</string>
+<string name="title_online">Онлайн</string>
+<string name="title_local">Локально</string>
+<string name="title_component">Компоненты</string>
+<string name="change_wallpaper">Обои</string>
 </resources>

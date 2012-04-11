@@ -1,0 +1,7 @@
+[Smali]
+Count=1
+
+[1]
+Path=com\android\mms\data\FestivalSmsUpdater.smali
+SearchString=const-string v1, "http://www.miui.com"
+ReplaceString=const-string v1, "http://localhost"

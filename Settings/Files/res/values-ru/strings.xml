@@ -1619,4 +1619,15 @@
     <string name="led_pulse_summary">Пульсирующий LED о новых уведомлениях</string>
     <string name="show_rounded_corners">Показывать закругленными углами</string>
     <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
+    <string name="apn_general">Главный APN</string>
+    <string name="apn_mms">MMS</string>
+    <string name="apn_new">Создать APN</string>
+    <string name="apn_save">Сохранить APN?</string>
+    <string name="apn_save_msg">Настройки APN изменены, вы хотите сохранить их?</string>
+    <string name="forget_wifi_message">Забыть эту Wi-Fi сеть? Для подключения вы будете должны ввести пароль</string>
+    <string name="manually_add_network">Добавить сеть</string>
+    <string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
+    <string name="network_detail">Свойства сети %s</string>
+    <string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
+    <string name="sim_absent">Нет SIM/RUIM</string>
 </resources>

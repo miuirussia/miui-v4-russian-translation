@@ -45,8 +45,8 @@
   <string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
   <string name="app_name">Галерея</string>
   <string name="gadget_title">Рамка фотографии</string>
-  <string name="details_ms">%1$02d:%2$02d</string>
-  <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+  <string name="details_ms" formatted="false">%1$02d:%2$02d</string>
+  <string name="details_hms" formatted="false">%1$d:%2$02d:%3$02d</string>
   <string name="movie_view_label">Видеопроигрыватель</string>
   <string name="loading_video">Загрузка видео…</string>
   <string name="loading_image">Загрузка изображения...</string>
@@ -78,7 +78,7 @@
   <string name="deselect_all">Отменить все</string>
   <string name="slideshow">Слайд-шоу</string>
   <string name="details">Сведения</string>
-  <string name="details_title">Элементов %1$d из %2$d:</string>
+  <string name="details_title" formatted="false">Элементов %1$d из %2$d:</string>
   <string name="close">Закрыть</string>
   <string name="switch_to_camera">Переключиться на камеру</string>
   <string name="show_on_map">Показать на карте</string>
@@ -119,7 +119,7 @@
   <string name="home_my_captured_items">мои снимки</string>
   <string name="all_media">Все фото</string>
   <string name="done">Готово</string>
-  <string name="sequence_in_set">%1$d из %2$d:</string>
+  <string name="sequence_in_set" formatted="false">%1$d из %2$d:</string>
   <string name="title">Название</string>
   <string name="description">Описание</string>
   <string name="time">Время</string>
@@ -152,7 +152,7 @@
   <string name="free_space_format">Свободно: %s</string>
   <string name="size_below">%1$s или менее</string>
   <string name="size_above">%1$s или более</string>
-  <string name="size_between">%1$s – %2$s</string>
+  <string name="size_between" formatted="false">%1$s – %2$s</string>
   <string name="Import">Импорт</string>
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>
@@ -182,6 +182,7 @@
   <string name="all_album">Все</string>
   <string name="all_recent">Избранные</string>
   <string name="photos">Фотографии</string>
+  <string name="no_recent_album">Альбомы могут быть добавлены в избранное для быстрого просмотра</string>
   <string name="open_single_image_failure">Ошибка загрузки изображения!</string>
   <string name="already_saved">Фотография сохранена в: %s</string>
   <string name="failure_external_storage_not_writable">Внешний накопитель не доступен для записи!</string>
@@ -219,7 +220,8 @@
   <string name="sending_video_title">Отправить (%s)</string>
   <string name="other_category">Другие настройки</string>
   <string name="show_hidden_album">Показать скрытые альбомы</string>
-  <string name="auto_create_recent_album">Автоматическое создание последнего альбома</string>
+  <string name="auto_create_recent_album">Автоматическое создание избранного альбома</string>
+  <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
   <string name="not_auto_create_recent_album">Неавтоматическое создание последних альбомов</string>
   <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
   <string name="expand_album_in_home_page">Развернуть альбом на домашней странице</string>

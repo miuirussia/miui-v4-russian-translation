@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Р. К.</string>
+    <string name="app_name">Бэкап</string>
     <string name="local_app_name">Резервное копирование</string>
     <string name="local_home_title">Локальное</string>
     <string name="button_backup">Создать резервную копию</string>

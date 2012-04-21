@@ -115,7 +115,7 @@
   <string name="picasa_posts">Записи</string>
   <string name="make_available_offline">Офлайн-доступ</string>
   <string name="sync_picasa_albums">Обновить</string>
-  <string name="sd_explorer">Просмотр SD-карты</string>
+  <string name="sd_explorer">Карта памяти</string>
   <string name="home_my_captured_items">мои снимки</string>
   <string name="all_media">Все фото</string>
   <string name="done">Готово</string>
@@ -211,7 +211,7 @@
   <string name="turn_right">Повернуть</string>
   <string name="disallowed_operation">Не поддерживается для данного типа данных</string>
   <string name="more">Еще</string>
-  <string name="running_face_detection">Entering face identification,please wait...</string>
+  <string name="running_face_detection">Начало идентификации лица, пожалуйста, подождите...</string>
   <string name="deleting_files">Удаление файлов...</string>
   <string name="loading_files">Загрузка...</string>
   <string name="open_map">Open map</string>

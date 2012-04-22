@@ -11,8 +11,6 @@
   <string name="tab_most_visited">Часто посещаемые</string>
   <string name="tab_history">История</string>
   <string name="tab_snapshots">Сохраненные страницы</string>
-  <string name="tab_yellowpage">Интересы</string>
-  <string name="tab_quicklinks">Быстрые ссылки</string>
   <string name="added_to_bookmarks">Добавлено в закладки.</string>
   <string name="removed_from_bookmarks">Удалено из закладок.</string>
   <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
@@ -129,8 +127,6 @@
   <string name="pref_general_title">Общие</string>
   <string name="pref_general_sync_title">Синхронизация</string>
   <string name="pref_general_autofill_title">Автозаполнение</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_title">Выходить по закрытию последней вкладки</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_summary">Включите, чтобы закрыть браузер при закрытии последней вкладки, отключите, чтобы перейти на домашнюю страницу</string>
   <string name="pref_autofill_enabled">Автозаполнение форм</string>
   <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
   <string name="pref_autofill_profile_editor">Текст автозаполнения</string>
@@ -227,6 +223,7 @@
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
   <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
   <string name="js_engine_flags">Set JS flags</string>
+  <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_error_console">Показать консоль JavaScript</string>
   <string name="pref_development_reset_prelogin">Reset prelogin</string>
   <string name="pref_default_text_encoding">Кодировка текста</string>
@@ -357,6 +354,12 @@
   <string name="accessibility_state_incognito">Страница в режиме инкогнито</string>
   <string name="accessibility_state_frozen">Сохраненная страница</string>
   <string name="accessibility_transition_navscreen">Управление вкладками</string>
+  <string name="tab_yellowpage">Интересы</string>
+  <string name="tab_quicklinks">Быстрые ссылки</string>
+  <string name="pref_content_night_read_mode">Включить ночной режим</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_title">Выходить по закрытию последней вкладки</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_summary">Включите, чтобы закрыть браузер при закрытии последней вкладки, отключите, чтобы перейти на домашнюю страницу</string>
+  <string name="url_hint">Поиск или введите URL</string>
   <string name="file_picker_new_folder">Новая папка</string>
   <string name="file_picker_sdcard_not_found">SD-карта не найдена, пожалуйста, проверьте, подключено ли устройство к ПК</string>
   <string name="export_bookmark_sucess">Закладки с успехом экспортированы на SD-карту!</string>
@@ -374,4 +377,20 @@
   <string name="contextmenu_download_image_as">Сохранить изображение как</string>
   <string name="pref_ua_title">Настройки UserAgent</string>
   <string name="pref_ua_string">Определние браузера как</string>
+  <string name="dump_dom_tree">Дамп DOM дерева в файл</string>
+  <string name="dump_render_tree">Дамп Render дерева в файл</string>
+  <string name="dump_display_tree">Дамп Display дерева в файл</string>
+  <string name="pref_reading_mode_enabled_title">Режим чтения</string>
+  <string name="menu_exit">Выход</string>
+  <string name="exit_browser_warning">Выйти из браузера?</string>
+  <string name="tab_opened_background">Вкладка открыта в фоне.</string>
+  <string name="tab_closed">Вкладка закрыта.</string>
+  <string name="navigator_permissions_prompt_message" formatted="false">%s хочет получить доступ к %s на вашем устройстве</string>
+  <string name="navigator_permissions_prompt_remember">Запомнить</string>
+  <string name="navigator_permissions_prompt_share">Разрешить</string>
+  <string name="navigator_permissions_prompt_dont_share">Запретить</string>
+  <string name="pref_development_woff">Включить WOFF</string>
+  <string name="pref_lab_slide_tab_transitions">Переходы по вкладкам</string>
+  <string name="pref_lab_slide_tab_transitions_summary">Сдвиньте для перещения на другую вкладку в списке.</string>
+  <string name="help_page">Помощь</string>
 </resources>

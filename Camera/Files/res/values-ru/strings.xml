@@ -109,7 +109,7 @@
     <string name="M_MATRIX">Матрица</string>
     <string name="S_PHONE">Телефон</string>
     <string name="S_MMC">Карта памяти</string>
-    <string name="RM_NORMAL">Normal</string>
+    <string name="RM_NORMAL">Обычный</string>
     <string name="RM_MMS">Ограничение на MMS</string>
     <string name="RM_SLOW">Замедленное движение</string>
     <string name="RM_SELF">Авто запись</string>
@@ -165,7 +165,7 @@
     <string name="Title_ShootingMode">Режим съемки</string>
     <string name="Title_Flash">Вспышка</string>
     <string name="Title_Brightness">Яркость</string>
-    <string name="Title_ExposureValue">Значение экспозиции</string>
+    <string name="Title_ExposureValue">Экспозиция</string>
     <string name="Title_RecordingMode">Режим записи</string>
     <string name="Title_FocusMode">Режим фокусировки</string>
     <string name="Title_ImageQuality">Качество изображения</string>
@@ -180,9 +180,9 @@
     <string name="Title_VideoQuality">Качество видео</string>
     <string name="Title_AudioRecording">Запись звука</string>
     <string name="Title_Storage">Хранилище</string>
-    <string name="Title_Reset">Сбросить настройки</string>
+    <string name="Title_Reset">Сброс настроек</string>
     <string name="Title_Mode">Mode</string>
-    <string name="Title_Back">Back</string>
+    <string name="Title_Back">Назад</string>
     <string name="Title_ImageViewer">Просмотр изображения</string>
     <string name="Title_Outdoor_Visibility">Открытая видимость</string>
     <string name="Title_AutoFocus_Sound">Звук автофокусировки</string>
@@ -219,14 +219,14 @@
     <string name="Action_Shot_Helptext">Создать панораму из движущихся объектов</string>
     <string name="Stop_Motion_Helptext">Создание анимации из непрерывных снимков</string>
     <string name="Cartoon_Helptext">Превратите фотографию в мультфильм</string>
-    <string name="HDR_Helptext">Take HDR picture</string>
+    <string name="HDR_Helptext">Сделать HDR фото</string>
     <string name="help_text_panorama">Нажмите клавишу камеры и медленно перемещайте телефон в одном направлении</string>
     <string name="GPS_msg">GPS выкл</string>
     <string name="message_enable_GPS">Включите GPS в настройках, для использования геотегов</string>
     <string name="cancel">Отмена</string>
     <string name="app_name">Камера</string>
     <string name="SmileShot_message">Нажмите кнопку затвора</string>
-    <string name="HDRShot_message">Press the shutter(HDR)</string>
+    <string name="HDRShot_message">Нажмите кнопку спуска затвора(HDR)</string>
     <string name="Title_ResetDailog">Сбросить настройки камеры?</string>
     <string name="Title_ChangeMemoryInUseDailog">Измененить место хранения по умолчанию в карту памяти?</string>
     <string name="Title_InsertMemoryCardDailog">Вставьте карту памяти, чтобы использовать Камеру</string>
@@ -298,7 +298,7 @@ Direct connected"</string>
     <string name="deviceType">Тип устройства</string>
     <string name="mobileType">Мобильный</string>
     <string name="tabletType">Планшет</string>
-    <string name="pcType">PC</string>
+    <string name="pcType">ПК</string>
     <string name="profile_user_default_name">Неизвестный</string>
     <string name="shareshot_no_user">Нет контакта для отправки</string>
     <string name="sharehost_no_history">Нет истории</string>

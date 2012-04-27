@@ -524,6 +524,11 @@
   <string name="callrecordview_item_op_time_short_incoming">" | "</string>
   <string name="callrecordview_item_op_time_missed">Не подключен</string>
   <string name="callrecordview_item_op_time_rejected">Отклонен</string>
+  <string name="no_contact_name">Нет имени контакта</string>
+  <string name="contact_pick_photo">Фото</string>
+  <string name="select_photo_from_photo_package">Выберите фотографию из пакета фотографий</string>
+  <string name="select_new_photo_from_photo_package">Выберите фотографию из пакета фотографий</string>
+  <string name="photo_package_activity_title">Пакет фотографий</string>
   <string name="callrecordview_menu_show_title">Настройка отображения</string>
   <string name="callrecordview_menu_show_all">Все</string>
   <string name="callrecordview_menu_show_missed">Только пропущенные</string>
@@ -608,8 +613,6 @@
   <string name="display_only_phones">Только с тел. номером</string>
   <string name="display_sim_contacts">Показать контакты SIM</string>
   <string name="preference_sim">SIM-карта</string>
-  <string name="sim_contacts_visiable">Показывать</string>
-  <string name="sim_contacts_invisiable">Скрывать</string>
   <string name="preference_remove_duplicate">Слияние дубликатов контактов</string>
   <string name="scan_duplicate">"Поиск дубликатов данных, пожалуйста, подождите..."</string>
   <string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите...</string>
@@ -622,8 +625,11 @@
   <string name="label_merge">Объединено</string>
   <string name="label_no_duplicate_contacts">Отлично! Нет дубликатов контактов на данный момент!</string>
   <string name="quit_dialog_confirm_title">Вы действительно хотите выйти из объединения контактов?</string>
+  <string name="label_duplicate_count">(%1$d)</string>
   <string name="raw_contact_list_title">"Этот контакт содержит %1$d не обработанных контактов
 Нажмите для выбора и редактирования контакта"</string>
   <string name="raw_contact_account_label">Аккаунт: %1$s</string>
   <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>
+  <string name="sim_contacts_invisiable">Скрывать</string>
+  <string name="sim_contacts_visiable">Показывать</string>
 </resources>

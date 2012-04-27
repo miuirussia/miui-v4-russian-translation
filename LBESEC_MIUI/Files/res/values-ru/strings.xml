@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Безопасность</string>
-    <string name="Generic_Copyright">Powered by Team LBE</string>
+    <string name="app_name">Root права</string>
+    <string name="Generic_Copyright">Разработчик Team LBE</string>
     <string name="Generic_Version">Версия: %1$s</string>
     <string name="Generic_Configuration">Настройки</string>
     <string name="Generic_UserApp">Загруженные приложения (%d)</string>

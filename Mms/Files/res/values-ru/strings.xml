@@ -352,7 +352,8 @@
   <string name="new_phrase_hint">Введите фразу</string>
   <string name="full_phrase">Не более 50 фраз</string>
   <string name="delete_phrase">Удалить фразу</string>
-  <string name="phrase_confirm_delete_message">Удалить фразы</string>
+  <string name="phrase_confirm_delete_message">Выбранная фраза будет удалена</string>
+  <string name="phrase_from">Из %1s</string>
   <string name="pref_title_notification_body_enabled">Показывать сообщения</string>
   <string name="pref_summary_notification_body_enabled">Просмотр сообщений на экране блокировки и в статус баре</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Просмотр сообщений отключен в режиме гостя</string>
@@ -416,6 +417,10 @@
   <string name="wap_push_title">"[Push-сообщение] "</string>
   <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
   <string name="add_timing">Время</string>
+  <string name="menu_view_original_message">Просмотр исходного сообщения</string>
+  <string name="pref_title_system_mms_priority">Приоритет MMS приложения</string>
+  <string name="pref_summary_on_system_mms_priority">Системное Mms приложение получит сообщение первым</string>
+  <string name="pref_summary_off_system_mms_priority">Другое Mms приложение получит сообщение первым</string>
   <string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
   <string name="will_send_at">Будет отправлено: %s</string>
   <string name="error_timed_msg">Невозможно запланировать время ранее текущего</string>
@@ -427,15 +432,13 @@
   <string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
   <string name="timed_message_to">для</string>
   <string name="timed_message_in_total">... (всего: %d)</string>
-  <string name="confirm_delete_RUIM_message">This message on the RUIM will be deleted.</string>
-  <string name="confirm_delete_all_RUIM_messages">All messages on the RUIM will be deleted.</string>
-  <string name="pref_summary_manage_ruim_messages">Manage messages stored on your RUIM card</string>
-  <string name="pref_title_manage_ruim_messages">Manage RUIM card messages</string>
-  <string name="ruim_empty">No messages on the RUIM card.</string>
-  <string name="ruim_full_title">RUIM card full</string>
-  <string name="ruim_manage_messages_title">Text messages on RUIM card</string>
-  <string name="save_to_ruim">Save to RUIM card</string>
-  <string name="date_timed_message_dialog">Дата:</string>
-  <string name="time_timed_message_dialog">Время:</string>
-  <string name="message_title">%1$s %2$s написал:</string>
+  <string name="confirm_delete_RUIM_message">Это сообщение на RUIM будет удалено</string>
+  <string name="confirm_delete_all_RUIM_messages">Все сообщения на RUIM будут удалены</string>
+  <string name="festival_sms_sdcard_unready">SD-Карта не готова</string>
+  <string name="pref_summary_manage_ruim_messages">Управление сообщениями, хранящимися на RUIM карте</string>
+  <string name="pref_title_manage_ruim_messages">Управление сообщениями RUIM карты</string>
+  <string name="ruim_empty">Нет сообщений на RUIM карте</string>
+  <string name="ruim_full_title">RUIM карта полная</string>
+  <string name="ruim_manage_messages_title">Текстовые сообщения на RUIM карте</string>
+  <string name="save_to_ruim">Сохранить на карту RUIM</string>
 </resources>

@@ -91,19 +91,21 @@
   <string name="pause">Пауза</string>
   <string name="reset">Сброс</string>
   <string name="lap">Круг</string>
+  <string name="timer_continue">Продолжить</string>
   <string name="elapsed_hour">%d часов</string>
-  <string name="worldclock_empty_text">Нет мировых часов</string>
+  <string name="worldclock_empty_text">Нет мирового времени</string>
   <string name="alarmclock_empty_text">Нет будильников</string>
   <string name="timer_got_it">Отключить</string>
   <string name="timer_start_alarm">Время таймера вышло</string>
   <string name="dialog_confirm_abort">Вы хотите отменить изменения?</string>
-  <string name="remind_ringtone">звук напоминания</string>
+  <string name="remind_ringtone">Звук напоминания</string>
   <string name="keep_screen_on">Экран включен</string>
-  <string name="start_up">пуск</string>
-  <string name="cancel">стоп</string>
-  <string name="timer_minute">минута</string>
-  <string name="timer_hour">час</string>
+  <string name="start_up">Пуск</string>
+  <string name="cancel">Стоп</string>
+  <string name="timer_minute">м</string>
+  <string name="timer_hour">ч</string>
   <string name="timer_message_with_hour">таймер на %1$d часов и %2$d минут</string>
   <string name="timer_message">таймер на %1$d минут</string>
+  <string name="timer_tutorial">Сдвиньте стрелку</string>
   <string name="timer_is_running">таймер запущен</string>
 </resources>

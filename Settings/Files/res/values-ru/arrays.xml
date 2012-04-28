@@ -326,7 +326,49 @@
         <item>Зарядка</item>
         <item>Подключить SD карту</item>
     </string-array>
-	<string-array name="led_freq_entries">
+    <string-array name="led_color_entries">
+        <item>Белый</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+        <item>Синий</item>
+        <item>Желтый</item>
+        <item>Голубой</item>
+        <item>Пурпурный</item>
+        <item>Розовый</item>
+        <item>Оранжевый</item>
+        <item>Сапфир</item>
+    </string-array>
+    <string-array name="led_color_entries_for_mione">
+        <item>Белый</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+        <item>Синий</item>
+        <item>Желтый</item>
+        <item>Голубой</item>
+        <item>Пурпурный</item>
+        <item>Розовый</item>
+        <item>Оранжевый</item>
+        <item>Сапфир</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="multi_sim_summaries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+	<string-array name="multi_sim_entries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Запрашивать</item>
+    </string-array>
+    <string-array name="multi_sim_summaries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Запросить пользователя</item>
+    </string-array>
+    <string-array name="led_freq_entries">
         <item>2 секунды</item>
         <item>3 секунды</item>
         <item>4 секунды</item>

@@ -303,7 +303,6 @@
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Загрузка...</string>
   <string name="festival_sms_push">Поздравления</string>
-  <string name="festival_sms_sdcard_unready">Не удается загрузить список, убедитесь, что SD-карта вставлена</string>
   <string name="random_pick">Случайно</string>
   <string name="refresh">Обновить</string>
   <string name="refresh_failed">Обновление не выполнено</string>
@@ -353,6 +352,7 @@
   <string name="full_phrase">Не более 50 фраз</string>
   <string name="delete_phrase">Удалить фразу</string>
   <string name="phrase_confirm_delete_message">Удалить фразы</string>
+  <string name="phrase_from">Из %1s</string>
   <string name="pref_title_notification_body_enabled">Показывать сообщения</string>
   <string name="pref_summary_notification_body_enabled">Просмотр сообщений на экране блокировки и в статус баре</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Просмотр сообщений отключен в режиме гостя</string>
@@ -416,6 +416,10 @@
   <string name="wap_push_title">"[Push-сообщение] "</string>
   <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
   <string name="add_timing">Время</string>
+  <string name="menu_view_original_message">Показать оригинальное сообщение</string>
+  <string name="pref_title_system_mms_priority">Приоритет для \"Сообщения\"</string>
+  <string name="pref_summary_on_system_mms_priority">Системное приложение будет получать сообщения первым</string>
+  <string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми</string>
   <string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
   <string name="will_send_at">Будет отправлено: %s</string>
   <string name="error_timed_msg">Невозможно запланировать время ранее текущего</string>
@@ -429,6 +433,7 @@
   <string name="timed_message_in_total">... (всего: %d)</string>
   <string name="confirm_delete_RUIM_message">This message on the RUIM will be deleted.</string>
   <string name="confirm_delete_all_RUIM_messages">All messages on the RUIM will be deleted.</string>
+  <string name="festival_sms_sdcard_unready">Не удается загрузить список, убедитесь, что SD-карта вставлена</string>
   <string name="pref_summary_manage_ruim_messages">Manage messages stored on your RUIM card</string>
   <string name="pref_title_manage_ruim_messages">Manage RUIM card messages</string>
   <string name="ruim_empty">No messages on the RUIM card.</string>

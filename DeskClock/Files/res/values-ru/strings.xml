@@ -38,7 +38,6 @@
   <string name="analog_gadget">Часы</string>
   <string name="settings">Настройки</string>
   <string name="alarm_in_silent_mode_title">Включать всегда</string>
-  <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
   <string name="snooze_duration_title">Интервал повтора сигнала</string>
   <string name="auto_silence_title">Автовыключение</string>
   <string name="auto_silence_summary">Сигнал отключится через %d мин.</string>
@@ -69,6 +68,8 @@
   <string name="loading_ringtone">Загрузка мелодии звонка...</string>
   <string name="control_set_alarm">Установить будильник</string>
   <string name="control_set_alarm_with_existing">Будильник установлен на %s</string>
+  <string name="common_settings">Общие настройки</string>
+  <string name="alarm_settings">Настройки будильника</string>
   <string name="worldclock_title">Мировое время</string>
   <string name="stopwatch_title">Секундомер</string>
   <string name="timer_title">Таймер</string>
@@ -77,7 +78,6 @@
   <string name="menu_alarmclock_edit">Изменить будильник</string>
   <string name="menu_delete">Удалить</string>
   <string name="menu_edit_systemtime">Настройка часов</string>
-  <string name="menu_alarm_setting">Настройки будильника</string>
   <string name="delete_timezone_title">Удалить часовой пояс</string>
   <string name="delelte_selected_timezone">Вы действительно хотите удалить выбранный часовой пояс(а)?</string>
   <string name="wait_when_operating_data_message">Обработка данных, подождите</string>
@@ -91,19 +91,23 @@
   <string name="pause">Пауза</string>
   <string name="reset">Сброс</string>
   <string name="lap">Круг</string>
+  <string name="timer_continue">Продолжить</string>
   <string name="elapsed_hour">%d часов</string>
-  <string name="worldclock_empty_text">Нет мировых часов</string>
+  <string name="worldclock_empty_text">Нет мирового времени</string>
   <string name="alarmclock_empty_text">Нет будильников</string>
   <string name="timer_got_it">Отключить</string>
   <string name="timer_start_alarm">Время таймера вышло</string>
   <string name="dialog_confirm_abort">Вы хотите отменить изменения?</string>
   <string name="remind_ringtone">звук напоминания</string>
   <string name="keep_screen_on">Экран включен</string>
-  <string name="start_up">пуск</string>
-  <string name="cancel">стоп</string>
-  <string name="timer_minute">минута</string>
-  <string name="timer_hour">час</string>
+  <string name="start_up">Пуск</string>
+  <string name="cancel">Стоп</string>
+  <string name="timer_minute">м</string>
+  <string name="timer_hour">ч</string>
   <string name="timer_message_with_hour">таймер на %1$d часов и %2$d минут</string>
   <string name="timer_message">таймер на %1$d минут</string>
+  <string name="timer_tutorial">По часовой стрелке</string>
+  <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
+  <string name="menu_alarm_setting">Настройки будильника</string>
   <string name="timer_is_running">таймер запущен</string>
 </resources>

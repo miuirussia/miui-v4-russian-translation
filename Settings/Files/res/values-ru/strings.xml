@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="input_method_selector_show_automatically_value">0</string>
@@ -268,6 +268,7 @@
   <string name="lock_after_timeout_summary">После %1$s спящего режима</string>
   <string name="show_owner_info_on_lockscreen_label">Показывать данные о владельце на экране блокировки</string>
   <string name="owner_info_settings_title">Сведения о владельце</string>
+  <string name="owner_info_settings_summary" />
   <string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
   <string name="location_settings_title">Мое местоположение</string>
   <string name="security_settings_title">Безопасность</string>
@@ -304,6 +305,7 @@
   <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
   <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
   <string name="unlock_set_unlock_off_title">Нет</string>
+  <string name="unlock_set_unlock_off_summary" />
   <string name="unlock_set_unlock_none_title">Прокрутка</string>
   <string name="unlock_set_unlock_none_summary">Защита отключена</string>
   <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
@@ -486,6 +488,7 @@
   <string name="wifi_remembered">Сохранено</string>
   <string name="wifi_disabled_generic">Отключено</string>
   <string name="wifi_disabled_network_failure">Включено</string>
+  <string name="wifi_disabled_heading" />
   <string name="wifi_disabled_help">Сеть отклонена, так как соединение неустойчивое. Чтобы изменить параметры, выберите \"Настройки &gt; Wi-Fi\" и откройте меню \"Дополнительные функции\".</string>
   <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
   <string name="wifi_not_in_range">Недоступна</string>
@@ -581,6 +584,7 @@
   <string name="sound_settings">Звук</string>
   <string name="silent_mode_title">Режим без звука</string>
   <string name="ringtone_title">Мелодия телефона</string>
+  <string name="ringtone_summary" />
   <string name="all_volume_title">Громкость</string>
   <string name="musicfx_title">Звуковые эффекты</string>
   <string name="ring_volume_title">Громкость звонка</string>
@@ -668,6 +672,7 @@
   <string name="sim_enter_cancel">Отмена</string>
   <string name="device_info_settings">Состояние телефона</string>
   <string name="system_update_settings_list_item_title">Обновления системы</string>
+  <string name="system_update_settings_list_item_summary" />
   <string name="firmware_version">Версия Android</string>
   <string name="model_number">Модель</string>
   <string name="baseband_version">Прошивка модуля связи</string>
@@ -715,11 +720,13 @@
   <string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
   <string name="sd_insert_summary">Вставьте SD-карту для подключения</string>
   <string name="sd_mount">Подключить SD-карту</string>
+  <string name="sd_mount_summary" />
   <string name="sd_format">Очистить SD-карту</string>
   <string name="sd_format_summary">Удаляет все данные с SD-карты, например музыку и фотографии</string>
   <string name="read_only">" (только для чтения)"</string>
   <string name="dlg_confirm_unmount_title">Отключить SD-карту?</string>
   <string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
+  <string name="dlg_error_unmount_title" />
   <string name="dlg_error_unmount_text">Не удалось отключить SD-карту. Повторите попытку позже.</string>
   <string name="unmount_inform_text">SD-карта будет отключена.</string>
   <string name="sd_ejecting_title">Извлечение</string>
@@ -872,7 +879,9 @@
   <string name="lockpattern_change_lock_pattern_label">Изменить ключ</string>
   <string name="lockpattern_change_lock_pin_label">Изменить ПИН-код разблокировки</string>
   <string name="lockpattern_need_to_unlock">Начертите существующий ключ</string>
+  <string name="lockpattern_need_to_unlock_footer" />
   <string name="lockpattern_need_to_unlock_wrong">Повторить попытку:</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer" />
   <string name="lockpattern_recording_intro_header">Начертите графический ключ разблокировки</string>
   <string name="lockpattern_recording_intro_footer">Для справки нажмите \"Меню\".</string>
   <string name="lockpattern_recording_inprogress">По завершении отпустите палец.</string>
@@ -889,6 +898,7 @@
   <string name="lockpattern_settings_enable_summary">Использовать графический ключ для защиты телефона</string>
   <string name="lockpattern_settings_enable_visible_pattern_title">Показывать ключ</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Включить виброотклик</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Кнопка питания мгновенно блокирует</string>
   <string name="lockpattern_settings_choose_lock_pattern">Установить ключ</string>
   <string name="lockpattern_settings_change_lock_pattern">Изменить ключ</string>
   <string name="lockpattern_settings_help_how_to_record">Как начертить графический ключ разблокировки</string>
@@ -957,6 +967,7 @@
   <string name="clear_data_dlg_text">Все данные этого приложения будут удалены без возможности восстановления, включая все файлы, базы данных, настройки, аккаунты и т. д.</string>
   <string name="dlg_ok">ОК</string>
   <string name="dlg_cancel">Отмена</string>
+  <string name="app_not_found_dlg_title" />
   <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных.</string>
   <string name="clear_data_failed">Данные не удалены.</string>
   <string name="app_factory_reset_dlg_title">Удалить обновления?</string>
@@ -1022,6 +1033,7 @@
   <string name="language_settings_category">Языковые настройки</string>
   <string name="keyboard_settings_category">Клавиатура и способы ввода</string>
   <string name="phone_language">Язык</string>
+  <string name="phone_language_summary" />
   <string name="auto_replace">Автокоррекция</string>
   <string name="auto_replace_summary">Исправлять опечатки</string>
   <string name="auto_caps">Заглавные автоматически</string>
@@ -1038,6 +1050,7 @@
   <string name="user_dict_settings_titlebar">Словарь пользователя</string>
   <string name="user_dict_single_settings_title">Пользовательский словарь</string>
   <string name="user_dict_multiple_settings_title">Пользовательские словари</string>
+  <string name="user_dict_settings_summary" />
   <string name="user_dict_settings_add_menu_title">Добавить</string>
   <string name="user_dict_settings_add_dialog_title">Добавление в словарь</string>
   <string name="user_dict_settings_edit_dialog_title">Изменение слова</string>
@@ -1086,6 +1099,7 @@
   <string name="keep_screen_on">Оставить включенным</string>
   <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
   <string name="allow_mock_location">Фиктивные местоположения</string>
+  <string name="allow_mock_location_summary" />
   <string name="adb_warning_title">Разрешить отладку USB?</string>
   <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы.</string>
   <string name="gadget_picker_title">Выбор гаджета</string>
@@ -1260,6 +1274,7 @@
   <string name="credentials_reset_summary">Удалить все сертификаты</string>
   <string name="trusted_credentials">Надежные учетные данные</string>
   <string name="trusted_credentials_summary">Показывать надежные сертификаты ЦС</string>
+  <string name="credentials_unlock" />
   <string name="credentials_unlock_hint">Введите пароль для хранилища учетных данных.</string>
   <string name="credentials_old_password">Текущий пароль:</string>
   <string name="credentials_reset_hint">Удалить весь контент?</string>
@@ -1535,6 +1550,7 @@
   <string name="device_internal_memory">Внутренняя память:</string>
   <string name="device_sd_memory">SD-карта:</string>
   <string name="device_cpu2_info">"2 ядра "</string>
+  <string name="device_cpu4_info">"4 ядра "</string>
   <string name="available_size">%s</string>
   <string name="total_size">из %s</string>
   <string name="xiaomi_account">Аккаунт Xiaomi</string>
@@ -1602,7 +1618,7 @@
   <string name="unlock_set_unlock_summary">Включите блокировку экрана, чтобы выбрать тип блокировки</string>
   <string name="lock_settings_picker_settings">Установить блокировку экрана</string>
   <string name="lock_screen_unlock_show">Показать интерфейс ввода пароля</string>
-  <string name="lock_screen_unlock_show_summary">"Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана"</string>
+  <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
   <string name="date_time_settings">Дата и время</string>
   <string name="timezone_settings">Часовой пояс</string>
   <string name="security_privacy_settings_title">Безопасность и конфиденциальность</string>
@@ -1610,6 +1626,7 @@
   <string name="unlock_set_enter_system">Отключить локскрин</string>
   <string name="unlock_set_enter_system_summary">Системный локскрин не будет использоваться после включения этой функции</string>
   <string name="forget_wifi_message">Забыть эту Wi-Fi сеть? Для подключения вы будете должны ввести пароль</string>
+  <string name="no_nearby_wifi">Нет доступных сетей Wi-Fi, вы должны пересканировать сети или добавить сеть вручную</string>
   <string name="manually_add_network">Добавить сеть</string>
   <string name="network_detail">Свойства сети %s</string>
   <string name="incoming_call_vibrate_abbreviation">Звонки</string>

@@ -90,4 +90,5 @@
   <string name="favorite_screen_cap">Скриншоты MIUI</string>
   <string name="favorite_ringtone">Мелодии</string>
   <string name="multi_select_title">Выбрано: %1$s</string>
+  <string name="file_loading">Загрузка...</string>
 </resources>

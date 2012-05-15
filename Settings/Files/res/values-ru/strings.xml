@@ -1699,4 +1699,8 @@
   <string name="wifi_p2p_on_summary">Включите WiFi-direct</string>
   <string name="wifi_p2p_settings">Настройки WiFi-direct</string>
   <string name="wifi_tether_transmit_power_error">Не удалось установить мощность передачи</string>
+  <string name="pref_button_light">Подсветка</string>
+  <string name="pref_button_light_summary">Индикаторы кнопок МЕНЮ, НАЗАД, ДОМОЙ</string>
+  <string name="pref_operational_key">Оперативный ключ</string>
+  <string name="set_dds_error">Ошибка в подписке набора данных.</string>
 </resources>

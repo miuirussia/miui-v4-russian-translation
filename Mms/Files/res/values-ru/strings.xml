@@ -377,6 +377,8 @@
   <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI / SL)</string>
   <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
   <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
+  <string name="pref_title_hide_festival">Скрыть вкладку рекомендуем</string>
+  <string name="pref_summary_hide_festival">Скрыть вкладку рекомендуется, для не китайского языка</string>
   <string name="pref_key_append_signature_title">Подпись</string>
   <string name="pref_key_append_signature_summary">Добавить подпись к сообщению</string>
   <string name="pref_key_edit_signature_title">Изменить подпись</string>

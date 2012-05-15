@@ -393,4 +393,9 @@
   <string name="pref_lab_slide_tab_transitions">Переходы по вкладкам</string>
   <string name="pref_lab_slide_tab_transitions_summary">Сдвиньте для перещения на другую вкладку в списке.</string>
   <string name="help_page">Помощь</string>
+  <string name="search_baidu">Baidu</string>
+  <string name="search_bing">Bing</string>
+  <string name="search_cancel">Отмена</string>
+  <string name="search_google">Google</string>
+  <string name="search_yahoo">Yahoo</string>
 </resources>

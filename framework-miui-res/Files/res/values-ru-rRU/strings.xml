@@ -421,4 +421,5 @@
     <string name="common_name_conjunctions" />
     <string name="dial_number_using">"Вызвать
 используя %s"</string>
+    <string name="select">Выбрать</string>
 </resources>

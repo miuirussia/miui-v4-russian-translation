@@ -56,4 +56,6 @@
     <string name="data_usage_restrict_background_help">Запретить приложению использовать интернет, когда оно в фоне</string>
     <string name="data_usage_restrict_background_title">Ограничить фон. данные</string>
     <string name="data_usage_restrict_background_summary">Интернет будет ограничен, и приложениям нужен будет Wi-Fi для соединения</string>
+    <string name="adjust_data">Регулировка трафика</string>
+    <string name="input_adjust_data">Введите трафик (МБ)</string>
 </resources>

@@ -632,4 +632,8 @@
   <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>
   <string name="sim_contacts_invisiable">Скрывать</string>
   <string name="sim_contacts_visiable">Показывать</string>
+  <string name="edit_hint">Редактировать</string>
+  <string name="save_photo_progress">Сохранение фото...</string>
+  <string name="move_and_resize">Изменение размера и положения</string>
+  <string name="edit_photo">Редактировать фото</string>
 </resources>

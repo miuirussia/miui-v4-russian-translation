@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--This file translated by KOJAN Development Group with ATE2-->
+  <string name="app_label">Отзывы</string>
+  <string name="user_feedback">Отзывы</string>
+  <string name="user_feedback_preview">Предпросмотр отзыва</string>
+  <string name="report_miui">Отправить в MIUI</string>
+  <string name="menu_send">Отправить</string>
+  <string name="menu_preview">Предпросмотр отчета</string>
+  <string name="section_feedback">Обратная связь</string>
+  <string name="section_privacy">Конфеденц.</string>
+  <string name="description">Описание (обязательно)</string>
+  <string name="privacy_system_log">Включать данные системы</string>
+  <string name="privacy_system_log_desc">Поделитесь данными системы с MIUI, чтобы лучше диагностировать проблему</string>
+  <string name="privacy_screenshot">Включите скриншот</string>
+  <string name="privacy_screenshot_desc">Отправить выбранный скриншот</string>
+  <string name="privacy_bugreport">Включить сообщение об ошибке</string>
+  <string name="privacy_bugreport_desc">Вывести подробный отчет об ошибке и поделиться им с MIUI, для изучения аппаратных ошибок</string>
+  <string name="msg_generate_bugreport">Создание отчета об ошибке...</string>
+  <string name="msg_packaging_report">Генерация отчета...</string>
+  <string name="info_board">Платформа</string>
+  <string name="info_brand">Производитель</string>
+  <string name="info_buildid">Build ID</string>
+  <string name="info_buildtype">Тип сборки:</string>
+  <string name="info_codename">Codename</string>
+  <string name="info_device">Устройство</string>
+  <string name="info_incremental">Версия</string>
+  <string name="info_model">Модель</string>
+  <string name="info_networkname">Имя сети</string>
+  <string name="info_networktype">Тип сети</string>
+  <string name="info_phonetype">Тип телефона</string>
+  <string name="info_product">Продукт</string>
+  <string name="info_release">Релиз</string>
+  <string name="info_timestamp">Время</string>
+  <string name="info_uilanguage">Язык</string>
+  <string name="info_runningapp">Приложения</string>
+  <string name="info_description">Описание</string>
+  <string name="info_systemlog">Системный лог</string>
+  <string name="info_screenshot">Скриншот</string>
+  <string name="info_section_feedback">Обратная связь</string>
+  <string name="info_section_network">Сеть</string>
+  <string name="info_section_system">Система</string>
+  <string name="info_section_screenshot">Скриншот</string>
+  <string name="toast_description_required">Описание не может быть пустым</string>
+  <string name="toast_description_length_too_short">Десять символов требуется в описании</string>
+</resources>

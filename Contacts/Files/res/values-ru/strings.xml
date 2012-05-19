@@ -53,6 +53,7 @@
   <string name="separatorJoinAggregateAll">Все контакты</string>
   <string name="contactsJoinedMessage">Контакты объединены</string>
   <string name="deleteConfirmation_title">Удаление контакта</string>
+  <string name="delete">Удалить</string>
   <string name="menu_set_ring_tone">Задать рингтон</string>
   <string name="menu_redirect_calls_to_vm">Только голос. почта</string>
   <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов.</string>
@@ -81,7 +82,6 @@
   <string name="noAccounts">Для создания групп нужен аккаунт.</string>
   <string name="noMatchingContacts">Подходящие контакты не найдены.</string>
   <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов.</string>
-  <string name="savingContact">Контакт сохраняется...</string>
   <string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
   <string name="contactSavedToast">Контакт сохранен.</string>
   <string name="contactSavedErrorToast">Не удалось сохранить изменения</string>
@@ -403,7 +403,7 @@
   <string name="event_edit_field_hint_text">Дата</string>
   <string name="group_edit_field_hint_text">Название группы</string>
   <string name="contact_status_update_attribution">с помощью %1$s</string>
-    <string name="contact_status_update_attribution_with_date" formatted="false">%1$s с помощью %2$s</string>
+  <string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
   <string name="description_star">избранное</string>
   <string name="edit_contact">Изменить контакт</string>
   <string name="local_invisible_directory">Другое</string>
@@ -428,13 +428,12 @@
   <string name="activity_title_contacts_filter">Фильтр контактов</string>
   <string name="menu_settings">Настройки</string>
   <string name="preference_displayOptions">Варианты отображения</string>
-    <string name="organization_company_and_title" formatted="false">%2$s, %1$s</string>
+  <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="hint_findContacts">Найти контакты</string>
   <string name="non_phone_caption">Номер телефона</string>
   <string name="non_phone_add_to_contacts">Добавить в контакты</string>
-  <string name="activity_title_confirm_add_detail">Добавление данных</string>
   <string name="non_phone_close">Закрыть</string>
-    <string name="widget_name_and_phonetic" formatted="false">%1$s (%2$s)</string>
+  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="date_year_toggle">Указать год</string>
   <string name="social_widget_label">Контакт</string>
   <string name="social_widget_loading">Загрузка...</string>
@@ -455,7 +454,7 @@
   <string name="profile_display_name">Настроить профиль</string>
   <string name="enter_contact_name">Имя контакта</string>
   <string name="view_updates_from_group">Обновления</string>
-    <string name="notification_voicemail_callers_list" formatted="false">%1$s, %2$s</string>
+  <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="notification_new_voicemail_ticker">Новое гол. сообщение: %1$s</string>
   <string name="voicemail_playback_error">Не удалось воспроизвести сообщение</string>
   <string name="voicemail_buffering">Буферизация...</string>
@@ -474,7 +473,7 @@
   <string name="voicemail_speed_normal">Средняя скорость</string>
   <string name="voicemail_speed_faster">Высокая скорость</string>
   <string name="voicemail_speed_fastest">Максимальная скорость</string>
-    <string name="call_log_item_count_and_date" formatted="false">(%1$d) %2$s</string>
+  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="group_name_hint">Название группы</string>
   <string name="nfc_vcard_file_name">Получено по NFC</string>
   <string name="status_available">На месте</string>
@@ -554,7 +553,7 @@
   <string name="t9_search_guide">Введите номер телефона или найдите контакт с помощью T9</string>
   <string name="date_time_set">Настроить</string>
   <string name="sim_no_contact">Нет контактов на SIM-карте</string>
-    <string name="sim_indexed_contact_not_exist" formatted="false">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
+  <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
   <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
   <string name="empty_divider_title">Вы можете</string>
   <string name="noContactHelpTextAccountsInfo">Синхронизировать контакты с Google, Exchange</string>
@@ -607,33 +606,35 @@
   <string name="dirty_contacts_notification_title">Вы хотите, синхронизировать контакты?</string>
   <string name="dirty_contacts_notification_description">У вас есть %d не синхронизированных контактов</string>
   <string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
-  <string name="remind_btn_not_remind">Не напоминать</string>
   <string name="remind_btn_sync_now">Сейчас</string>
   <string name="remind_btn_ignore">Позже</string>
   <string name="display_only_phones">Только с тел. номером</string>
   <string name="display_sim_contacts">Показать контакты SIM</string>
   <string name="preference_sim">SIM-карта</string>
   <string name="preference_remove_duplicate">Слияние дубликатов контактов</string>
-  <string name="scan_duplicate">"Поиск дубликатов данных, пожалуйста, подождите..."</string>
+  <string name="scan_duplicate">Поиск дубликатов данных, пожалуйста, подождите...</string>
   <string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите...</string>
   <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
-  <string name="scan_merge_message">Контакты с частично дублирующимися данными (%1$d)</string>
   <string name="merge_contact_message">(%1$d) контактов с частично дублирующимися данными, (%2$d) объединено</string>
   <string name="delete_duplicate">Слияние</string>
-  <string name="delete_duplicate_message">"Слияние..."</string>
-  <string name="btn_finished">Готово</string>
-  <string name="label_merge">Объединено</string>
+  <string name="delete_duplicate_message">Слияние...</string>
   <string name="label_no_duplicate_contacts">Отлично! Нет дубликатов контактов на данный момент!</string>
   <string name="quit_dialog_confirm_title">Вы действительно хотите выйти из объединения контактов?</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="raw_contact_list_title">"Этот контакт содержит %1$d не обработанных контактов
 Нажмите для выбора и редактирования контакта"</string>
   <string name="raw_contact_account_label">Аккаунт: %1$s</string>
+  <string name="move_and_resize">Изменение размера и положения</string>
+  <string name="save_photo_progress">Сохранение фото...</string>
+  <string name="edit_photo">Редактировать фото</string>
+  <string name="edit_hint">Редактировать</string>
+  <string name="savingContact">Контакт сохраняется...</string>
+  <string name="activity_title_confirm_add_detail">Добавление данных</string>
+  <string name="remind_btn_not_remind">Не напоминать</string>
+  <string name="scan_merge_message">Контакты с частично дублирующимися данными (%1$d)</string>
+  <string name="btn_finished">Готово</string>
+  <string name="label_merge">Объединено</string>
   <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>
   <string name="sim_contacts_invisiable">Скрывать</string>
   <string name="sim_contacts_visiable">Показывать</string>
-  <string name="edit_hint">Редактировать</string>
-  <string name="save_photo_progress">Сохранение фото...</string>
-  <string name="move_and_resize">Изменение размера и положения</string>
-  <string name="edit_photo">Редактировать фото</string>
 </resources>

@@ -380,6 +380,7 @@
     <string name="select_all">Выбрать все</string>
     <string name="reverse_all">Очистить выделение</string>
     <string name="multi_select_title">Выбрано: %1$s</string>
+    <string name="select">Выбрать</string>
     <string name="phoneTypeMms">MMS</string>
     <string name="lockscreen_plugged_in">Идет зарядка - %d%%</string>
     <string name="lockscreen_charged">Батарея полностью заряжена</string>
@@ -421,5 +422,7 @@
     <string name="common_name_conjunctions" />
     <string name="dial_number_using">"Вызвать
 используя %s"</string>
-    <string name="select">Выбрать</string>
+    <string name="text_pastelist">Буфер</string>
+    <string name="every_day">Каждый день</string>
+    <string name="never">Никогда</string>
 </resources>

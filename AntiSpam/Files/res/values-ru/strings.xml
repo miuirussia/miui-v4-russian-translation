@@ -106,8 +106,8 @@
   <string name="edit_whitelist">Редактировать</string>
   <string name="fw_notes_hint">Примечание (необязательно)</string>
   <string name="number_add_hint">Введите номер, который нужно заблокировать</string>
-  <string name="fw_in_blacklist">Номер: %s, уже существует в черном списке</string>
-  <string name="fw_in_whitelist">Номер: %s, уже существует в белом списке</string>
+  <string name="fw_in_blacklist">Номер: %s, уже занесен в черный список</string>
+  <string name="fw_in_whitelist">Номер: %s, уже занесен в черный список</string>
   <string name="fw_import_ms">Импорт контактов и SMS</string>
   <string name="context_call">Вызвать</string>
   <string name="context_ms">Отправить SMS/MMS</string>

@@ -181,7 +181,7 @@
     <string name="Title_AudioRecording">Запись звука</string>
     <string name="Title_Storage">Хранилище</string>
     <string name="Title_Reset">Сброс настроек</string>
-    <string name="Title_Mode">Mode</string>
+    <string name="Title_Mode">Режим</string>
     <string name="Title_Back">Назад</string>
     <string name="Title_ImageViewer">Просмотр изображения</string>
     <string name="Title_Outdoor_Visibility">Открытая видимость</string>
@@ -197,10 +197,10 @@
     <string name="Settings_Help_WhiteBalance">Changes white balance using setting appropriate for light source</string>
     <string name="Settings_Help_Effect">Sets special effect on image</string>
     <string name="Settings_Help_AutoContrast">Provides clear images even under backlight circumstances where intensity of illumination can vary excessively</string>
-    <string name="Settings_Help_ISO">Adjusts ISO sensitivity of camera imaging sensor</string>
+    <string name="Settings_Help_ISO">Светочувствительность матрицы</string>
     <string name="Settings_Help_Metering">Selects area for measuring exposure level</string>
     <string name="Settings_Help_ObjectTracking">Focuses on a moving subject continuously</string>
-    <string name="Settings_Help_AntiShake">Reduces image blur due to subject movement or hand movement</string>
+    <string name="Settings_Help_AntiShake">Уменьшение размазанности изображений</string>
     <string name="Settings_Help_BlinkDetection">Detects blink of human eye and warns user</string>
     <string name="Settings_Help_ImageQuality">Sets image quality</string>
     <string name="Settings_Help_Adjust">Adjust image contrast, saturation and sharpness</string>
@@ -210,11 +210,11 @@
     <string name="Settings_Help_GPS">Stores GPS information in image files</string>
     <string name="Settings_Help_ShutterSound">Selects shutter sound</string>
     <string name="Settings_Help_Storage">Selects where images or video files are saved</string>
-    <string name="Settings_Help_ResetSettings">Reset application settings</string>
-    <string name="Settings_Help_VideoQuality">Sets video quality</string>
+    <string name="Settings_Help_ResetSettings">Сброс всех настроек</string>
+    <string name="Settings_Help_VideoQuality">выбор качества видео</string>
     <string name="Settings_Help_ExposureMeter">Selects area for measuring exposure level</string>
     <string name="Settings_Help_AudioRecording">Records audio while recording video</string>
-    <string name="Settings_Help_Outdoor_Visibility">Enhances LCD visibility outdoors</string>
+    <string name="Settings_Help_Outdoor_Visibility">Повышает яркость дисплея на улице</string>
     <string name="Add_Me_Helptext">Создать визуальный состав путем объединения людей с существующего фона</string>
     <string name="Action_Shot_Helptext">Создать панораму из движущихся объектов</string>
     <string name="Stop_Motion_Helptext">Создание анимации из непрерывных снимков</string>
@@ -259,7 +259,7 @@
     <string name="preview_file_received_title">Предпросмотр полученного файла</string>
     <string name="network_title">"Share shot while Wi-Fi 
 Direct connected"</string>
-    <string name="done">Done</string>
+    <string name="done">Готово</string>
     <string name="refresh">WiFi-Networks</string>
     <string name="add_photo_title">Add Photo</string>
     <string name="refresh_title">Wi-Fi Networks</string>
@@ -276,7 +276,7 @@ Direct connected"</string>
     <string name="take_photo">Сделать фото</string>
     <string name="activate_agree">Согласен</string>
     <string name="activate_reject">Отклоняю</string>
-    <string name="name_cannot_empty">Имя не может быть пустым!</string>
+    <string name="name_cannot_empty">Введите имя</string>
     <string name="camera_share">Отправить</string>
     <string name="video_play">Воспроизвести</string>
     <string name="camera_toss">Удалить</string>

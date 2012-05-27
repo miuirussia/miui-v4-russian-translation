@@ -1705,4 +1705,15 @@
   <string name="set_dds_error">Ошибка в подписке набора данных.</string>
   <string name="frequently_fragment_tempty">Часто используемые элементы будут перечислены здесь</string>
   <string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
+  <string name="factory_settings">Заводские</string>
+  <string name="screen_mode_setting">Режим экрана</string>
+  <string name="screen_mode_summary">Выбор режима экрана</string>
+  <string name="touch_key_light">Подсветка клавиш</string>
+  <string name="touch_key_light_summary">Задержка перед автоотключением клавиш</string>
+  <string name="display_saving">Авторегулировка питания экрана</string>
+  <string name="display_saving_mode_summary">Экономия электроэнергии на основе анализа изображений и регулировка яркости дисплея</string>
+  <string name="a_sensor_title">Калибровка акселерометра</string>
+  <string name="a_sensor_summary">Калибровка акселерометра</string>
+  <string name="g_sensor_title">Калибровка гироскопа</string>
+  <string name="g_sensor_summary">Калибровка гироскопа</string>
 </resources>

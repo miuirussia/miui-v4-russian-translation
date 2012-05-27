@@ -246,11 +246,12 @@
   <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
   <string name="ext_media_nomedia_notification_title">USB-хранилище извлечено</string>
   <string name="ext_media_nomedia_notification_message">Вставьте новую SD-карту</string>
-    <string name="message_screen_button_disabled">Функции кнопок на экране будут отключены</string>
-    <string name="message_screen_button_enabled">Функции кнопок на нижней части экрана включены</string>
-    <string name="settings_other">Другие</string>
-    <string name="settings_auto_dismiss_screenshot_notification">Авто-скрытие сообщения о скриншоте</string>
-    <string name="battery_indicator_style">Стиль индикатора батареи</string>
-    <string name="default_usb_mode">Тип подключения по USB</string>
-    <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
+  <string name="message_screen_button_disabled">Функции кнопок на экране будут отключены</string>
+  <string name="message_screen_button_enabled">Функции кнопок на нижней части экрана включены</string>
+  <string name="settings_other">Другие</string>
+  <string name="settings_screenshot_notification_disabled">Откл. уведомл. о скриншоте</string>
+  <string name="settings_auto_dismiss_screenshot_notification">Авто-скрытие сообщения о скриншоте</string>
+  <string name="battery_indicator_style">Стиль индикатора батареи</string>
+  <string name="default_usb_mode">Тип подключения по USB</string>
+  <string name="notification_icon_filter_message_system_app">Уведомления от системных приложений не могут быть скрыты</string>
 </resources>

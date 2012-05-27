@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MoSecurityProviderActivity!</string>
+    <string name="app_name">金山手机卫士安全服务</string>
+</resources>

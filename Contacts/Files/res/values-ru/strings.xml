@@ -253,7 +253,7 @@
   <string name="nicknameLabelsGroup">Псевдоним</string>
   <string name="organizationLabelsGroup">Организация</string>
   <string name="websiteLabelsGroup">Веб-сайт</string>
-  <string name="eventLabelsGroup">Мероприятия</string>
+  <string name="eventLabelsGroup">День рождения</string>
   <string name="relationLabelsGroup">Отношения</string>
   <string name="groupsLabel">Группы</string>
   <string name="dialog_new_contact_account">Создать контакт в аккаунте</string>
@@ -613,5 +613,5 @@
   <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>
   <string name="sim_contacts_invisiable">Скрывать</string>
   <string name="sim_contacts_visiable">Показывать</string>
-  <string name="lunarBirthdayLabelsGroup">День рождения</string>  
+  <string name="lunarBirthdayLabelsGroup">День рождения (по лунному календарю)</string>  
 </resources>

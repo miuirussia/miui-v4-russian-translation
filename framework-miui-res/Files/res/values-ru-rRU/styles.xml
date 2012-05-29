@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextViewFloatPanelButton">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">@color/textview_floatpanel_button_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/textview_floatpanel_button_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">38.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#ccffffff</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.2</item>
+    </style>
+</resources>

@@ -6,7 +6,7 @@
   <string name="recording_stopped">Запись остановлена</string>
   <string name="storage_is_full">SD-карта заполнена</string>
   <string name="max_length_reached">Достигнута максимальная длина</string>
-  <string name="insert_sd_card">Вставьте SD-карту</string>
+  <string name="insert_sd_card">SD-карта недоступна!</string>
   <string name="button_ok">OK</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="audio_db_title_format">dd-MM-yyyy_HH:mm:ss</string>
@@ -37,10 +37,10 @@
   <string name="call_record">Запись вызова</string>
   <string name="open_file_explorer">Открыть Файлы</string>
   <string name="no_file">Нет записей</string>
-  <string name="mark_now">(Сейчас)</string>
-  <string name="second">%d секунд</string>
-  <string name="minute">%d минут</string>
-  <string name="hour">%d часов</string>
+  <string name="mark_now">(текущая)</string>
+  <string name="second">%d сек.</string>
+  <string name="minute">%d мин.</string>
+  <string name="hour">%d час.</string>
   <string name="call_record_or">или</string>
   <string name="dialog_play">Играть</string>
   <string name="dialog_send">Отправить</string>

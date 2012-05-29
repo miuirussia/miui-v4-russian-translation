@@ -210,11 +210,11 @@
     <string name="turn_right">Повернуть</string>
     <string name="disallowed_operation">Не поддерживается для данного типа данных</string>
     <string name="more">Еще</string>
-    <string name="running_face_detection">Entering face identification,please wait...</string>
+    <string name="running_face_detection">Запуск идентификации по лицу, ждите...</string>
     <string name="deleting_files">Удаление файлов...</string>
     <string name="loading_files">Загрузка...</string>
     <string name="open_map">Open map</string>
-    <string name="unknown_location">Unknown location</string>
+    <string name="unknown_location">Неизвестное расположение</string>
     <string name="sending_image_title">Отправить (%s)</string>
     <string name="sending_video_title">Отправить (%s)</string>
     <string name="other_category">Другие настройки</string>

@@ -42,5 +42,10 @@
   <string name="info_section_system">Система</string>
   <string name="info_section_screenshot">Скриншот</string>
   <string name="toast_description_required">Описание не может быть пустым</string>
-  <string name="toast_description_length_too_short">Десять символов требуется в описании</string>
+  <string name="toast_description_length_too_short">Отзыв пользователя должен содержать по крайней мере 10 символов</string>
+  <string name="toast_report_sent_succeed">Отчет был успешно отправлен</string>
+  <string name="toast_report_sent_failed">Ошибка отправки отчета</string>
+  <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
+  <string name="btn_send">Отправить</string>
+  <string name="menu_copy">Копировать</string>
 </resources>

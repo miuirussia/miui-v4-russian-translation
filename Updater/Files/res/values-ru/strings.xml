@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_name">Обновления</string>
-  <string name="apply_now_button_text">Обновить сейчас</string>
+  <string name="apply_now_button_text">Обновить</string>
   <string name="view_details">Подробнее</string>
   <string name="download_whole_rom">Полный пакет (%s)</string>
   <string name="download_ota_rom">Обновление (%s)</string>

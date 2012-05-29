@@ -5,14 +5,14 @@
   <string name="status_bar_clear_all_button">Очистить</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
   <string name="status_bar_please_disturb_button">Показать уведомления</string>
-  <string name="status_bar_recent_remove_item_title">Удаление из списка</string>
+  <string name="status_bar_recent_remove_item_title">Удалить из списка</string>
   <string name="status_bar_recent_inspect_item_title">О приложении</string>
-  <string name="status_bar_no_recent_apps">Нет данных</string>
+  <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
   <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
   <string name="status_bar_recent_clear_result">"Освобождено %1$s памяти.
 Сейчас доступно: %2$s"</string>
   <string name="status_bar_no_notifications_title">Нет уведомлений</string>
-  <string name="status_bar_ongoing_events_title">Текущие</string>
+  <string name="status_bar_ongoing_events_title">Постоянные</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
   <string name="battery_low_title">Подключите зарядное устройство</string>
   <string name="battery_low_subtitle">Батарея разряжена</string>
@@ -24,7 +24,7 @@
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_settings_airplane">Режим полета</string>
   <string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
-  <string name="status_bar_settings_mute_label">Отключено</string>
+  <string name="status_bar_settings_mute_label">Без звука</string>
   <string name="status_bar_settings_auto_brightness_label">Автоматически</string>
   <string name="status_bar_settings_notifications">Уведомления</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>

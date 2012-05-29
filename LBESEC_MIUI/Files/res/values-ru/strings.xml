@@ -4,7 +4,7 @@
   <string name="app_name">Безопасность</string>
   <string name="Generic_Copyright">Разработчик Team LBE</string>
   <string name="Generic_Version">Версия: %1$s</string>
-  <string name="Generic_Configuration">Настройки</string>
+  <string name="Generic_Configuration">Параметры</string>
   <string name="Generic_UserApp">Загруженные приложения (%d)</string>
   <string name="Generic_SystemApp">Системные приложения (%d)</string>
   <string name="Generic_SystemApp_Label">[Системные приложения]</string>
@@ -13,7 +13,7 @@
   <string name="Generic_ShowSystemApp">Показать системные приложения</string>
   <string name="Generic_HideSystemApp">Скрыть системные приложения</string>
   <string name="Generic_Loading">Загрузка...</string>
-  <string name="Generic_Operating">Работа...</string>
+  <string name="Generic_Operating">В процессе...</string>
   <string name="Generic_Canceling">Отмена...</string>
   <string name="Generic_InvalidInput">Неверный ввод</string>
   <string name="Generic_Service_Enabled">Сервис включен</string>
@@ -40,7 +40,7 @@
   <string name="HIPS_Group_PIM">Персональная информация</string>
   <string name="HIPS_Group_Location">Позиционирование</string>
   <string name="HIPS_Group_PhoneID">Идентификация телефона</string>
-  <string name="HIPS_Group_Internet">Internet-доступ</string>
+  <string name="HIPS_Group_Internet">Доступ к Интернету</string>
   <string name="HIPS_Group_DataPrivacy">Конфиденциальность</string>
   <string name="HIPS_Group_ROOT">Суперпользователь</string>
   <string name="HIPS_Perm_SendSMS">Отправка SMS</string>
@@ -165,4 +165,8 @@
   <string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
   <string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением.</string>
   <string name="Su_Enable_Dialog">%1$s пытается получить доступ с правами суперпользователя, который по умолчанию отключен для обеспечения безопасности системы. Если вам необходимо включить эту функцию, перейдите в настройки Менеджера дорступа</string>
+  <string name="HIPS_Perm_Title">Разрешения</string>
+  <string name="HIPS_Perm_Network">Интернет</string>
+  <string name="HIPS_Perm_Network_Desc">Интернет</string>
+  <string name="HIPS_Perm_Network_Hint">%1$s приложений могут получить доступ к Интернет</string>
 </resources>

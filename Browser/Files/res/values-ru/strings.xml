@@ -115,7 +115,7 @@
   <string name="pref_content_load_images_summary">Показывать изображения на веб-страницах</string>
   <string name="pref_content_block_popups">Блокир. всплыв. окна</string>
   <string name="pref_content_javascript">Разрешить JavaScript</string>
-  <string name="pref_content_open_in_background">Фоновые вкладки</string>
+  <string name="pref_content_open_in_background">Открывать в фоновом режиме</string>
   <string name="pref_content_plugins">Разрешить плагины</string>
   <string name="pref_content_open_in_background_summary">Открывать новые вкладки позади текущей</string>
   <string name="pref_content_homepage">Стартовая страница</string>
@@ -191,10 +191,10 @@
   <string name="pref_security_show_security_warning_summary">Сообщать о проблемах с безопасностью сайтов</string>
   <string name="pref_security_accept_cookies">Разрешить cookie</string>
   <string name="pref_security_accept_cookies_summary">Разрешить сайтам сохранять и читать файлы cookie</string>
-  <string name="pref_min_font_size">Мин. размер шрифта</string>
+  <string name="pref_min_font_size">Минимальный размер шрифта</string>
   <string name="pref_min_font_size_value">%d pt</string>
   <string name="pref_text_zoom">Масштабирование текста</string>
-  <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>
+  <string name="pref_zoom_on_double_tap">Увеличение при двойном нажатии</string>
   <string name="pref_force_userscalable">Фикс. масштаб</string>
   <string name="pref_force_userscalable_summary">Использовать заданное масштабирование</string>
   <string name="pref_inverted_category">Режим инверсии</string>
@@ -213,19 +213,19 @@
   <string name="pref_extras_reset_default_summary">Восстановить значения по умолчанию</string>
   <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
   <string name="pref_development_title">Выполнить отладку</string>
-  <string name="pref_development_viewport">Use wide viewport</string>
-  <string name="pref_development_single_column_rendering">Single column rendering</string>
-  <string name="pref_development_normal_rendering">Normal rendering</string>
-  <string name="pref_development_trace">Включить отслеживание</string>
-  <string name="pref_development_nav_dump">Enable nav cache dump</string>
-  <string name="pref_development_hardware_accel">Включить OpenGL ускорение</string>
-  <string name="pref_development_hardware_accel_skia">Включить аппаратное ускорение</string>
-  <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-  <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
-  <string name="js_engine_flags">Set JS flags</string>
+  <string name="pref_development_viewport">Широкий экран</string>
+  <string name="pref_development_single_column_rendering">Рендерить в один столбец</string>
+  <string name="pref_development_normal_rendering">Нормальный рендеринг</string>
+  <string name="pref_development_trace">Включить трассировку</string>
+  <string name="pref_development_nav_dump">Включить кэш дамп nav</string>
+  <string name="pref_development_hardware_accel">Включить рендеринг OpenGL</string>
+  <string name="pref_development_hardware_accel_skia">Включить аппаратное ускорение Skia</string>
+  <string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
+  <string name="pref_development_cpu_upload_path">Включить путь загрузки ЦП</string>
+  <string name="js_engine_flags">Установить флаги JS</string>
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_error_console">Показать консоль JavaScript</string>
-  <string name="pref_development_reset_prelogin">Reset prelogin</string>
+  <string name="pref_development_reset_prelogin">Сброс предлогин</string>
   <string name="pref_default_text_encoding">Кодировка текста</string>
   <string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
   <string name="pref_accessibility_title">Специальные возможности</string>
@@ -247,6 +247,7 @@
   <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
   <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
   <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
+  <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
   <string name="loadSuspendedTitle">Нет подключения</string>
   <string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения.</string>
@@ -257,7 +258,7 @@
   <string name="add_new_bookmark">Добавить закладку</string>
   <string name="add_bookmark_short">Добавить</string>
   <string name="search_label">Браузер</string>
-  <string name="search_hint">Введите условия поиска или URL-адрес</string>
+  <string name="search_hint">Введите условия поиска или URL</string>
   <string name="search_button_text">Поиск</string>
   <string name="search_settings_description">Закладки и история поиска</string>
   <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
@@ -306,8 +307,8 @@
   <string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
   <string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
   <string name="error_console_header_text_maximized">Консоль JavaScript</string>
-  <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
-  <string name="error_console_eval_button_text">Evaluate</string>
+  <string name="error_console_eval_text_hint">Оценить JavaScript</string>
+  <string name="error_console_eval_button_text">Оценить</string>
   <string name="defaultBookmarksUpButton">Закладки</string>
   <string name="empty_bookmarks_folder">Нет закладок</string>
   <string name="rlz_access_point">Y1</string>
@@ -383,6 +384,8 @@
   <string name="pref_reading_mode_enabled_title">Режим чтения</string>
   <string name="menu_exit">Выход</string>
   <string name="exit_browser_warning">Выйти из браузера?</string>
+  <string name="menu_enable_night_mode">Включить ночной режим</string>
+  <string name="menu_disable_night_mode">Выключить ночной режим</string>
   <string name="tab_opened_background">Вкладка открыта в фоне.</string>
   <string name="tab_closed">Вкладка закрыта.</string>
   <string name="navigator_permissions_prompt_message" formatted="false">%s хочет получить доступ к %s на вашем устройстве</string>
@@ -398,4 +401,5 @@
   <string name="search_cancel">Отмена</string>
   <string name="search_google">Google</string>
   <string name="search_yahoo">Yahoo</string>
+  <string name="search_bing">Bing</string>
 </resources>

@@ -3,7 +3,7 @@
     <string name="reboot_confirm">Телефон будет перезагружен</string>
     <string name="reboot_progress">Перезагрузка...</string>
     <string name="resourcebrowser_lable">Ресурсы</string>
-    <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
+    <string name="sdcard_status_changed_dialog_title">SD-карта не доступна</string>
     <string name="sdcard_status_changed_dialog_message">"Выход...
 Пожалуйста, перезапустите это приложение, чтобы обновить ресурсы"</string>
     <string name="resource_transparent_wallpaper">Прозрачный</string>
@@ -13,7 +13,7 @@
     <string name="resource_notification_default">Уведомления</string>
     <string name="resource_alarm_default">Будильник</string>
     <string name="description_unknown">Неизвестный</string>
-    <string name="description_missed">Информация отсутствует</string>
+    <string name="description_missed">N/A</string>
     <string name="description_designer">Дизайнер:</string>
     <string name="description_author">Автор:</string>
     <string name="description_size">Размер:</string>
@@ -61,9 +61,9 @@
     <string name="sd_not_available_use_internal_storage">SD-карта не доступна, будет использована внутренняя память</string>
     <string name="sd_not_available_low_internal_storage">SD-карта не доступна и отсутствует внутреннее устройство хранения</string>
     <string name="sd_not_available_saved_to_internal_storage">Файл сохранен во внутреннюю память</string>
-    <string name="unknown">Неизвестно</string>
-    <string name="private_num">Скрытый номер</string>
-    <string name="payphone">Таксофон</string>
+    <string name="unknown">Неизвестный номер</string>
+    <string name="private_num">Приватный номер</string>
+    <string name="payphone">Телефоный автомат</string>
     <string name="callNoAnswerTimeFormat">%s гудков</string>
     <string name="date_day">E</string>
     <string name="lunar_calendar">Лунный календарь</string>
@@ -96,9 +96,9 @@
     <string name="the_mid_autumn_festival" />
     <string name="the_double_ninth_festival" />
     <string name="the_laba_rice_porridge_festival" />
-    <string name="new_years_day" />
-    <string name="valentines_day" />
-    <string name="international_womens_day" />
+    <string name="new_years_day">Новый год</string>
+    <string name="valentines_day">День Святого Валентина</string>
+    <string name="international_womens_day">Международный Женский день</string>
     <string name="arbor_day" />
     <string name="fools_day" />
     <string name="labour_day" />
@@ -108,7 +108,7 @@
     <string name="the_armys_day" />
     <string name="teachers_day" />
     <string name="national_day" />
-    <string name="christmas_dad" />
+    <string name="christmas_dad">Рождество</string>
     <string name="slight_cold" />
     <string name="great_cold" />
     <string name="spring_begins" />
@@ -422,7 +422,7 @@
     <string name="common_name_conjunctions" />
     <string name="dial_number_using">"Вызвать
 используя %s"</string>
-    <string name="text_pastelist">Буфер</string>
+    <string name="text_pastelist">Буфер обмена</string>
     <string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
 </resources>

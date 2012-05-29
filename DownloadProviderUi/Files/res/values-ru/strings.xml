@@ -2,8 +2,8 @@
 <resources>
     <string name="app_label">Загрузки</string>
     <string name="download_title">Загрузки</string>
-    <string name="download_title_sorted_by_date">Загрузки - Сортировано по дате</string>
-    <string name="download_title_sorted_by_size">Загрузки - Сортировано по размеру</string>
+    <string name="download_title_sorted_by_date">Загрузки – по дате</string>
+    <string name="download_title_sorted_by_size">Загрузки – по размеру</string>
     <string name="no_downloads">Нет загрузок</string>
     <string name="missing_title">Неизвестно</string>
     <string name="button_sort_by_size">Сортировать по размеру</string>
@@ -12,6 +12,7 @@
     <string name="download_running">В процессе</string>
     <string name="download_success">Завершен</string>
     <string name="download_error">Ошибка</string>
+    <string name="download_error_insufficient_space">Недостаточно места</string>
     <string name="dialog_title_not_available">Ошибка загрузки</string>
     <string name="dialog_failed_body">Вы хотите повторить загрузку файла позже или удалить его из очереди?</string>
     <string name="dialog_title_queued_body">Файл не доступен</string>
@@ -38,12 +39,12 @@
     <string name="download_pending">Дождитесь загрузки</string>
     <string name="download_info_start_deleted_tasks">Подготовка к удалению</string>
     <string name="download_info_count_deleted_tasks">Список загрузок успешно очищен</string>
-    <string name="menu_preferences">Настройки</string>
+    <string name="menu_preferences">Параметры</string>
     <string name="menu_enter_edit_mode">Редактировать</string>
-    <string name="delete_downloads_records">Удалить записи загрузок</string>
+    <string name="delete_downloads_records">Удалить все загрузки</string>
     <string name="pause_download">Пауза</string>
-    <string name="resume_download">Продолжить</string>
-    <string name="restart_download">Перезакачать</string>
+    <string name="resume_download">Далее</string>
+    <string name="restart_download">Заново</string>
     <string name="open_download">Открыть</string>
     <string name="paused_by_app">Приостановлено</string>
     <string name="paused_queued_for_wifi">Ожидание Wi-Fi</string>
@@ -60,7 +61,8 @@
     <string name="pref_download_settings_title">Предупреждение о лимите</string>
     <string name="pref_title_enable_max_bytes_popup">Предупредить о лимите</string>
     <string name="pref_summary_enable_max_bytes_popup">При использовании мобильных данных, предупредить перед истечением лимита</string>
-    <string name="pref_title_max_bytes_limit">Лимит размера</string>
+    <string name="pref_title_max_bytes_limit">Максимальный размер файла</string>
     <string name="pref_summary_max_bytes_limit_format">Предупреждать при превышении размера файла: %s</string>
     <string name="pref_dialog_title_max_bytes_limit">Превышение размера файла</string>
+    <string name="might_lead_to_mobile_charge">После отмены, загрузки из сети оператора будут идти без запросов. Это может привести к расходам трафика</string>
 </resources>

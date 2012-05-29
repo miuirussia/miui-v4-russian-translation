@@ -3,14 +3,14 @@
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_name">Темы</string>
   <string name="theme_activity_lable">Темы</string>
-  <string name="theme_changing_dialog_title">Установка новой темы, подождите…</string>
+  <string name="theme_changing_dialog_title">Подготовка новой темы, пожалуйста, подождите...</string>
   <string name="theme_changed_message">Тема успешно установлена!</string>
   <string name="theme_changed_failed_message">Установка не удалась!</string>
   <string name="backup_preference_title">Сохранить настройки</string>
   <string name="backup_theme_dialog_ok">Сохранить</string>
-  <string name="backup_theme_dialog_message">Резервное копирование текущей темы по пути /sdcard/MIUI/theme/backup/backup.mtz</string>
-  <string name="backup_theme_progress_message">Резервное копирование, подождите…</string>
-  <string name="backup_theme_success_message">Резервное копирование успешно завершено</string>
+  <string name="backup_theme_dialog_message">"Тема будет сохранена в %1$s"</string>
+  <string name="backup_theme_progress_message">Сохранение...</string>
+  <string name="backup_theme_success_message">Сохранение текущей темы завершено</string>
   <string name="theme_description_title_default">По умолчанию</string>
   <string name="theme_description_title_customized">Настройка</string>
   <string name="component_category_title">Редактировать</string>

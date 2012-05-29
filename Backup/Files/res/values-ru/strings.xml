@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
   <!--This file translated by KOJAN Development Group with ATE2-->
   <string name="app_name">Бэкап</string>
-  <string name="local_app_name">Резервное копирование</string>
+  <string name="auto_backup_progress">Идет резервирование, подождите...</string>
   <string name="local_home_title">Локальное</string>
   <string name="button_backup">Создать резервную копию</string>
   <string name="start_backup">Начать</string>

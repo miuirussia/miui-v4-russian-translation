@@ -65,5 +65,7 @@
   <string name="title_component">Компоненты</string>
   <string name="change_wallpaper">Обои</string>
   <string name="title_system_resource">Системные ресурсы</string>
-  <string name="title_download_resource">Загруженные ресурсы</string> 
+  <string name="title_download_resource">Загруженные ресурсы</string>
+  <string name="theme_format_wrong_content">Ошибка в формате темы</string>
+  <string name="wrong_title">Ошибка</string>
 </resources>

@@ -115,5 +115,5 @@
 <string name="widget_traffic_total">Package: %s</string>
 <string name="widget_traffic_used_status">Used: %s</string>
 <string name="wifi_traffic">Wi-Fi: %s</string>
-<string name="wifi_type">Wi-Fi</string>
+	<string name="wifi_type">Wi-Fi</string>
 </resources>

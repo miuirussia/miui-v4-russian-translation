@@ -1716,4 +1716,17 @@
   <string name="a_sensor_summary">Калибровка акселерометра</string>
   <string name="g_sensor_title">Калибровка гироскопа</string>
   <string name="g_sensor_summary">Калибровка гироскопа</string>
+<string name="confirm_erase">Confirm Erase</string>
+<string name="erase_application">Erase applications</string>
+<string name="erase_application_description">Erase the installed applications</string>
+<string name="erase_optional">Optional Erase</string>
+<string name="erase_personal_data">Personal data</string>
+<string name="erase_personal_data_description">Including accounts, contacts, call records and other data</string>
+<string name="erase_sure">Confirm Erase?</string>
+<string name="factory_reset_summary">You can erase your personal data by resetting your phone, or choose to erase the installed applications and format the SD card to restore factory settings</string>
+<string name="master_clear_all">"Are you sure you wish to erase all data to factory settings? This operation cannot be undone"</string>
+<string name="master_clear_erase_application_progress">Erasing applications in progress...</string>
+<string name="master_clear_personal_data">"Are you sure to erase your personal data? This operation cannot be undone"</string>
+<string name="master_clear_personal_data_application">"Are you sure to erase your personal data and installed applications? This operation cannot be undone"</string>
+<string name="master_clear_personal_data_sdcard">"Are you sure to erase your personal data and format SD card? This operation cannot be undone"</string>
 </resources>

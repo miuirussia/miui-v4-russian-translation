@@ -613,5 +613,6 @@
   <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>
   <string name="sim_contacts_invisiable">Скрывать</string>
   <string name="sim_contacts_visiable">Показывать</string>
-  <string name="lunarBirthdayLabelsGroup">День рождения (по лунному календарю)</string>  
+  <string name="lunarBirthdayLabelsGroup">День рождения (по лунному календарю)</string> 
+  <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
 </resources>

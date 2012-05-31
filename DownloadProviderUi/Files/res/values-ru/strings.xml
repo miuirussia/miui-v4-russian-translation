@@ -18,7 +18,7 @@
     <string name="dialog_title_queued_body">Файл не доступен</string>
     <string name="dialog_queued_body">Этот файл в очереди на скачивание.</string>
     <string name="dialog_file_missing_body">Загруженный файл не найден.</string>
-    <string name="dialog_insufficient_space_on_external">Не могу закончить загрузку. Существует нет места на внешних накопителях.</string>
+    <string name="dialog_insufficient_space_on_external">Не могу закончить загрузку. Недостаточно места на внешних накопителях.</string>
     <string name="dialog_insufficient_space_on_cache">Не могу закончить загрузку. Недостаточно места на внутренних носителях.</string>
     <string name="dialog_cannot_resume">Загрузка прервана. Она не может быть возобновлена.</string>
     <string name="dialog_file_already_exists">Не могу скачать. Файл уже существует.</string>

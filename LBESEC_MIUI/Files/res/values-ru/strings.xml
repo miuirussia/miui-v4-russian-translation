@@ -9,7 +9,7 @@
   <string name="Generic_SystemApp">Системные приложения (%d)</string>
   <string name="Generic_SystemApp_Label">[Системные приложения]</string>
   <string name="Generic_MonitoredApp">Управляемые приложения (%1$d)</string>
-  <string name="Generic_TrustedApp">Дооверенные приложения (%1$d)</string>
+  <string name="Generic_TrustedApp">Доверенные приложения (%1$d)</string>
   <string name="Generic_ShowSystemApp">Показать системные приложения</string>
   <string name="Generic_HideSystemApp">Скрыть системные приложения</string>
   <string name="Generic_Loading">Загрузка...</string>

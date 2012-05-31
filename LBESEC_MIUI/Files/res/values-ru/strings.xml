@@ -47,7 +47,7 @@
   <string name="HIPS_Perm_SendSMS_Desc">Отправить SMS напрямую</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s приложения, имеющие доступ для отправки SMS</string>
   <string name="HIPS_Perm_Call">Телефонные звонки</string>
-  <string name="HIPS_Perm_Call_Desc">Позвонить, ответить или оклонить телефонные звонки</string>
+  <string name="HIPS_Perm_Call_Desc">Позвонить, ответить или отклонить телефонные звонки</string>
   <string name="HIPS_Perm_Call_Hint">%1$s Приложения, имеющие доступ чтобы позвонить, ответить на звонки или отклонить их</string>
   <string name="HIPS_Perm_CallState">Состояние телефона</string>
   <string name="HIPS_Perm_CallState_Desc">Получить состояние телефона</string>
@@ -57,7 +57,7 @@
   <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости.</string>
   <string name="HIPS_Perm_Location">Местоположение</string>
   <string name="HIPS_Perm_Location_Desc">Поиск вашего телефона посредством сети или GPS</string>
-  <string name="HIPS_Perm_Location_Hint">%1$s Приложения, имеющие разрешения для ослеживания местоположения телефона</string>
+  <string name="HIPS_Perm_Location_Hint">%1$s Приложения, имеющие разрешения для отслеживания местоположения телефона</string>
   <string name="HIPS_Perm_PhoneID">Идентификаторы телефона</string>
   <string name="HIPS_Perm_PhoneID_Desc">Получить идентификаторы вашего телефона, включая IMEI, IMSI, и.т.д</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s приложения, имеющие доступ к идентификаторам вашего телефона</string>
@@ -164,7 +164,7 @@
   <string name="Privacy_App_Launch">Запуск</string>
   <string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
   <string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением.</string>
-  <string name="Su_Enable_Dialog">%1$s пытается получить доступ с правами суперпользователя, который по умолчанию отключен для обеспечения безопасности системы. Если вам необходимо включить эту функцию, перейдите в настройки Менеджера дорступа</string>
+  <string name="Su_Enable_Dialog">%1$s пытается получить доступ с правами суперпользователя, который по умолчанию отключен для обеспечения безопасности системы. Если вам необходимо включить эту функцию, перейдите в настройки Менеджера доступа</string>
   <string name="HIPS_Perm_Title">Разрешения</string>
   <string name="HIPS_Perm_Network">Интернет</string>
   <string name="HIPS_Perm_Network_Desc">Интернет</string>

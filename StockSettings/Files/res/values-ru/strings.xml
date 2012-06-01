@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Настройки устройства</string>
+    <string name="htc_gestures_title">Жесты HTC</string>
+    <string name="htc_gestures_summary">Включить трехпальцевые жесты от HTC и выключить жесты с большим количеством пальцев</string>
+    <string name="htc_fastboot_title">Быстрая загрузка</string>
+    <string name="htc_fastboot_summary">Не рекомендуется для некоторых приложений из Market</string>
+</resources>

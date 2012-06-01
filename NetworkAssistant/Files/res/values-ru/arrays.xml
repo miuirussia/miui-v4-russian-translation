@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_sort_type">
+        <item>По имени</item>
+        <item>По трафику 2G/3G</item>
+        <item>По общему трафику</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Трафик вчера</item>
+        <item>Трафик сегодня</item>
+        <item>Месячный трафик</item>
+    </string-array>
+    <string-array name="carriers">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="brands_cmcc">
+        <item>GSM</item>
+        <item>M-Zone</item>
+        <item>Easyown</item>
+    </string-array>
+    <string-array name="brands_unicom">
+        <item>Unicom 2G</item>
+        <item>Unicom 3G</item>
+    </string-array>
+</resources>

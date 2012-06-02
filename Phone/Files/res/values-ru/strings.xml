@@ -823,7 +823,7 @@
   <string name="onscreen_audio_mode_handset_miui">Громкая связь</string>
   <string name="onscreen_audio_mode_headset_miui">Наушники</string>
   <string name="onscreen_audio_mode_miui">Ответ используя</string>
-  <string name="onscreen_audio_mode_speaker_miui">Громкоговоритель</string>
+  <string name="onscreen_audio_mode_speaker_miui">Громкая связь</string>
   <string name="onscreen_call_record_miui">Запись</string>
   <string name="onscreen_dialer_miui">Клавиатура</string>
   <string name="onscreen_end_call_text_miui">Завершить</string>

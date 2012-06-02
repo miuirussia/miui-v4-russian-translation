@@ -92,8 +92,5 @@
   <string name="install_file_explorer">Установите приложение Файлы</string>
   <string name="new_update_downloading_body">Скачивание новой версии:%s</string>
   <string name="new_update_download_complete_body">Готово к установке: %s</string>
-  <string name="sign_in_info_total_more">"Your update ranking is %1$s
-Over %2$s users have signed in for MIUI %3$s"</string>
-  <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
-Over %2$s users have signed in for MIUI %3$s"</string>
+  <string name="update_monthly_build_only">Обновлять только до стабильной версии</string>
 </resources>

@@ -1729,4 +1729,8 @@
   <string name="master_clear_personal_data">"Вы действительно хотите удалить ваши персональные данные? Операция не может быть отменена"</string>
   <string name="master_clear_personal_data_application">"Вы действительно хотите удалить ваши личные данные и установленные приложения? Операция не может быть отменена"</string>
   <string name="master_clear_personal_data_sdcard">"Вы действительно хотите удалить ваши личные данные и отформатировать SD-Карту? Операция не может быть отменена"</string>
+  <string name="bluetooth_default_name">KDG Phone</string>
+  <string name="bluetooth_profile_name">"%1$s's KDG Phone"</string>
+  <string name="show_fc">Показывать FC</string>
+  <string name="show_fc_summary">Показывать все FC для приложений (включать нежелательно)</string>
 </resources>
